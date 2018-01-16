@@ -1,3 +1,8 @@
+---
+titel: Schwerpunkt Weaving the Web // Text Website
+verantwortlich: cn
+typ: draft
+---
 
 # Schwerpunkt Weaving the Web // Text Website
 
