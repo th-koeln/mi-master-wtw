@@ -1,6 +1,6 @@
-# Infos rund um das Modul "Web-basierte Anwendungen 1: WWW Technologien" im Studiengang Medieninformatik Bachelor
+# Infos rund um den Schwerpunkt "Weaving the Web" im Medieninformatik Master an der TH Köln
 
-- Verantwortlicher Dozent: Christian Noss // http://www.christiannoss.de
-- https://th-koeln.github.io/mi-bachelor-wba1
+- Verantwortliche Dozenten: Kristian Fischer // http://www.dr-fischer-koeln.com/ und Christian Noss // http://www.christiannoss.de
+
 
 
