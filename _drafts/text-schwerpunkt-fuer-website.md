@@ -18,7 +18,7 @@ Oder anders formuliert: wie konzipieren, entwickeln, verbreiten und evaluieren w
 
 Der Schwerpunkt richtet sich an Studierende mit großem Interesse am Web und den damit verbundenen Technologien, mit einschlägigen Erfahrungen im Bereich Web-Anwendungen und dem Wunsch und Willen echte Produkte und Services in den Markt und die Community zu bringen.
 
-Berufsfelder für Absolventen sind 
+Berufsfelder für Absolventinnen und Absolventen sind 
 * Entwickler und Entwicklerin von Web Anwendungen z.B. in Web Agenturen oder Softwarehäusern
 * Architekt oder Architektin für Web Projekte in größeren Unternehmen oder Organisationen 
 * Gründer oder Gründerin von Start Ups im innovativen Web Umfeld
