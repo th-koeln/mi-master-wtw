@@ -1,0 +1,96 @@
+week-1:
+  day-1:
+    datum: 2018-04-10
+    start: "13:00"
+    end: "16:00"
+    name: Dienstag
+week-2:
+  day-1:
+    datum: 2018-04-17
+    start: "13:00"
+    end: "16:00"
+    name: Dienstag
+week-3:
+  day-1:
+    datum: 2018-04-24
+    start: "13:00"
+    end: "16:00"
+    name: Dienstag
+week-4:
+  day-1:
+    datum: 2018-05-01
+    start: "13:00"
+    end: "20:00"
+    name: Dienstag
+week-5:
+  day-1:
+    datum: 2018-05-08
+    start: "13:00"
+    end: "20:00"
+    name: Dienstag
+week-6:
+  day-1:
+    datum: 2018-05-15
+    start: "13:00"
+    end: "20:00"
+    name: Dienstag
+week-7:
+  day-1:
+    datum: 2018-05-22
+    start: "13:00"
+    end: "20:00"
+    name: Dienstag
+week-8:
+  day-1:
+    datum: 2018-05-29
+    start: "13:00"
+    end: "22:00"
+    name: Dienstag
+week-9:
+  day-1:
+    datum: 2018-06-05
+    start: "13:00"
+    end: "16:00"
+    name: Dienstag
+week-10:
+  day-1:
+    datum: 2018-06-19
+    start: "13:00"
+    end: "16:00"
+    name: Dienstag
+week-11:
+  day-1:
+    datum: 2018-06-26
+    start: "13:00"
+    end: "16:00"
+    name: Dienstag
+week-12:
+  day-1:
+    datum: 2018-07-03
+    start: "13:00"
+    end: "16:00"
+    name: Dienstag
+week-13:
+  day-1:
+    datum: 2018-07-10
+    start: "13:00"
+    end: "16:00"
+    name: Dienstag
+week-14:
+  day-1:
+    datum: 2018-17-07
+    start: "13:00"
+    end: "16:00"
+    name: Dienstag
+week-15:
+  day-1:
+    datum: 2018-07-31
+    start: "13:00"
+    end: "16:00"
+    name: Dienstag
+week-16:
+  day-1:
+    datum: 2018-09-27
+    start: "13:00"
+    end: "16:00"
+    name: Dienstag

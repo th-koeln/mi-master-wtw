@@ -1,0 +1,20 @@
+workshop:
+  name: Workshop
+  max-teilnehmer: 30
+  
+vortrag:
+  name: Vortrag
+  max-teilnehmer: 30
+
+seminar:
+  name: Seminar
+  max-teilnehmer: 30
+
+feedback:
+  name: Feedback & Support 
+  max-teilnehmer: 30
+pruefung:
+  name: Prüfung 
+  max-teilnehmer: 120
+
+  
