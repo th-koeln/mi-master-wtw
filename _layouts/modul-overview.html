@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="de">
+
+{% include /partials/head.html %}
+
+<body data-url="{{page.url}}">
+
+    <section class="hero is-success is-medium">
+        <!-- Hero header: will stick at the top -->
+        {% include /partials/header.html %}
+
+        <!-- Hero content: will be in the middle -->
+        <div class="hero-body is-header">
+                <div class="container">
+                    <h1 class="title is-1">
+                        {{ page.title }}
+                    </h1>
+                    <h2 class="subtitle is-3">
+                        Modul im Schwerpunkt «Weaving the Web»
+                    </h2>
+                </div>
+            </div>
+    </section>
+
+    {{content}}
+
+    {% if page.kuerzel == "web-technologien" %}
+    {% assign posts = (site.webtechnologien | sort: 'title')) %}
+    {% endif %}
+
+    {% for post in posts %}
+    {{post}}
+    {% endfor %}
+
+    {% include /partials/footer.html %}
+
+</body>
+
+</html>

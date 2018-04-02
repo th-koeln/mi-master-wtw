@@ -246,7 +246,7 @@ markdown.convert = function( ele ){
 }
 markdown.init = function() {
 	document.querySelectorAll("[markdown]").forEach(function(ele){
-		markdown.convert(ele);
+        markdown.convert(ele);
 	});
 }
 
@@ -254,3 +254,39 @@ document.addEventListener("DOMContentLoaded", function(event) {
   markdown.init();
 });
 
+
+/* Markdown via Ajax Support
+------------------------------------------------------------------------------*/
+
+var markdownAjax = {};
+markdownAjax.get = function ( url, id ) {
+  httpRequest = new XMLHttpRequest();
+  if (!httpRequest) {
+    alert('Giving up :( Cannot create an XMLHTTP instance');
+    return false;
+  }
+  httpRequest.onreadystatechange = function(){ markdownAjax.print(httpRequest, id); }
+  
+  httpRequest.open('GET', url);
+  httpRequest.send();
+}
+
+markdownAjax.print = function(httpRequest, id){
+  if (httpRequest.readyState === XMLHttpRequest.DONE) {
+      
+    if (httpRequest.status === 200) {
+        var content = httpRequest.responseText;
+        // Front Matter entfernen
+        content = content.replace(/---.*?---/isg, "");
+        content = content.replace(/### /g, "#### ");
+        content = content.replace(/## /g, "### ");
+
+        console.log(content);
+        // Markdown erzeugen
+        var converter = new showdown.Converter();
+        document.getElementById(id).innerHTML = converter.makeHtml(content);
+    } else {
+      alert('There was a problem with the request.');
+    }
+  }
+}  

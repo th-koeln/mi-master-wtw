@@ -8295,6 +8295,21 @@ html {
   hyphens: auto;
 }
 
+.inline-menu > li {
+  display: inline-block;
+  height: 100%;
+}
+@media (max-width: 845px) {
+  .inline-menu > li {
+    display: block;
+    height: auto !important;
+  }
+}
+.inline-menu > li > a {
+  height: 100%;
+  vertical-align: middle;
+}
+
 .section {
   padding-top: 1rem;
 }
@@ -8307,11 +8322,6 @@ html {
   margin-bottom: 2rem;
 }
 
-.content {
-    /*ul{
-		margin-left: 1em;
-	}*/
-}
 .content li {
   margin-left: 1em;
 }
@@ -8334,15 +8344,21 @@ html {
 }
 .content h4 {
   font-size: 1rem;
-  font-weight: 600;
+  font-weight: 400;
+  color: #9313ce;
 }
 .content h5 {
   font-size: 1rem;
-  font-weight: 600;
+  font-weight: 400;
+  color: #9313ce;
 }
 .content h6 {
   font-size: 1rem;
-  font-weight: 600;
+  font-weight: 400;
+  color: #9313ce;
+}
+.content ul {
+  margin-left: 0;
 }
 .content dl {
   margin-bottom: 1rem;
@@ -8447,7 +8463,8 @@ html {
     hyphens: none;
   }
   .zweispalter .content > h4, .zweispalter .content > h5, .zweispalter .content > h6 {
-    font-weight: 600;
+    font-weight: 400;
+    color: #9313ce;
     margin-top: 1rem;
     margin-bottom: 0.5rem;
   }
@@ -8531,17 +8548,20 @@ html {
   html .content h4,
   body .content h4 {
     font-size: 1rem;
-    font-weight: 600;
+    color: #9313ce;
+    font-weight: 400;
   }
   html .content h5,
   body .content h5 {
     font-size: 1rem;
-    font-weight: 600;
+    font-weight: 400;
+    color: #9313ce;
   }
   html .content h6,
   body .content h6 {
     font-size: 1rem;
-    font-weight: 600;
+    font-weight: 400;
+    color: #9313ce;
   }
 }
 @media print {

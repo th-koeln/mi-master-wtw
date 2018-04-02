@@ -275,6 +275,23 @@ $tt-grid-height: 60px;
     hyphens: auto;
 }
 
+.inline-menu{
+    > li{
+        display: inline-block;
+        height: 100%;
+
+        @media (max-width: 845px) {
+            display:block;
+            height: auto !important;
+        }
+
+        > a{
+            height: 100%;
+            vertical-align: middle;
+        }
+    }
+}
+
 .section {
     padding-top: $bfs;
 }
@@ -311,19 +328,22 @@ $tt-grid-height: 60px;
     }
     h4 {
         font-size: $bfs;
-        font-weight: 600;
+        font-weight: 400;
+        color: $mi-lila;
     }
     h5 {
         font-size: $bfs;
-        font-weight: 600;
+        font-weight: 400;
+        color: $mi-lila;
     }
     h6 {
         font-size: $bfs;
-        font-weight: 600;
+        font-weight: 400;
+        color: $mi-lila;
     }
-    /*ul{
-		margin-left: 1em;
-	}*/
+    ul{
+		margin-left: 0;
+	}
     dl {
         margin-bottom: $bfs;
         dt {
@@ -445,7 +465,8 @@ $tt-grid-height: 60px;
             &>h4,
             &>h5,
             &>h6 {
-                font-weight: 600;
+                font-weight: 400;
+                color: $mi-lila;
                 margin-top: $bfs;
                 margin-bottom: $bfs /2;
             }
@@ -532,15 +553,18 @@ $tt-grid-height: 60px;
             }
             h4 {
                 font-size: $bfs;
-                font-weight: 600;
+                color: $mi-lila;
+                font-weight: 400;
             }
             h5 {
                 font-size: $bfs;
-                font-weight: 600;
+                font-weight: 400;
+                color: $mi-lila;
             }
             h6 {
                 font-size: $bfs;
-                font-weight: 600;
+                font-weight: 400;
+                color: $mi-lila;
             }
         }
     }

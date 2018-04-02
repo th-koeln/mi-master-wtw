@@ -1,0 +1,16 @@
+<section class="section">
+    <div class="container">
+        <div class="content">
+
+            {{content}}
+
+            <div id="{{page.id}}">
+            <script>
+            document.addEventListener("DOMContentLoaded", function(event) {
+                markdownAjax.get("{{page.ajaxUrl}}", "{{page.id}}");
+            });
+            </script>
+            </div>
+        </div>
+    </div>
+</section>

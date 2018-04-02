@@ -105,6 +105,8 @@ collections:
     output: false
   links:
     output: false
+  webtechnologien:
+    output: false
 
 defaults:
   -
