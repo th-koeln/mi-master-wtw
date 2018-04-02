@@ -304,6 +304,11 @@ $tt-grid-height: 60px;
     margin-bottom: $bfs *2;
 }
 
+.cite{
+    padding: $bfs *2;
+    background-color: $mi-bg;
+}
+
 .content {
 
     li{
@@ -343,7 +348,10 @@ $tt-grid-height: 60px;
     }
     ul{
 		margin-left: 0;
-	}
+    }
+    
+    
+
     dl {
         margin-bottom: $bfs;
         dt {

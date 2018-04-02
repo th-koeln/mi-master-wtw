@@ -4,7 +4,7 @@
 
             {{content}}
 
-            <div id="{{page.id}}">
+            <div id="{{page.id}}" class="cite">
             <script>
             document.addEventListener("DOMContentLoaded", function(event) {
                 markdownAjax.get("{{page.ajaxUrl}}", "{{page.id}}");
