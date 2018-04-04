@@ -305,7 +305,7 @@ $tt-grid-height: 60px;
 }
 
 .cite{
-    padding: $bfs *2;
+    padding: $bfs;
     background-color: $mi-bg;
 }
 
@@ -346,7 +346,7 @@ $tt-grid-height: 60px;
         font-weight: 400;
         color: $mi-lila;
     }
-    ul{
+    ul, ol{
 		margin-left: 0;
     }
     
@@ -408,6 +408,8 @@ $tt-grid-height: 60px;
         width: 100%;
     }
     figure {
+        padding: 0;
+        margin: 0;
         border-top: dotted 1px $mi-gruen;
         padding-top: $bfs;
         margin-top: $bfs;

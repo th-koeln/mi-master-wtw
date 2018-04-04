@@ -2,6 +2,9 @@
 <html lang="de">
 
 {% include /partials/head.html %}
+{% if page.kuerzel == "web-technologien" %}
+{% assign posts = (site.webtechnologien | sort: 'title')) %}
+{% endif %}
 
 <body data-url="{{page.url}}">
 
@@ -22,18 +25,21 @@
             </div>
     </section>
 
-    {{content}}
+    <!--aside class="menu">
+        <ul class="menu-list">
+            {% for post in posts %}
+            <li><a href="#{{post.id}}">{{post.titel}}</a></li>
+            {% endfor %}
+        </ul>
+    </aside-->
 
-    {% if page.kuerzel == "web-technologien" %}
-    {% assign posts = (site.webtechnologien | sort: 'title')) %}
-    {% endif %}
+    {{content}}
 
     {% for post in posts %}
     {{post}}
     {% endfor %}
-
+    
     {% include /partials/footer.html %}
-
 </body>
 
 </html>

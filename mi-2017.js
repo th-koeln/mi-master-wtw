@@ -281,7 +281,6 @@ markdownAjax.print = function(httpRequest, id){
         content = content.replace(/### /g, "#### ");
         content = content.replace(/## /g, "### ");
 
-        console.log(content);
         // Markdown erzeugen
         var converter = new showdown.Converter();
         document.getElementById(id).innerHTML = converter.makeHtml(content);

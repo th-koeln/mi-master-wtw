@@ -13,7 +13,7 @@ Die Prüfungsleistung besteht aus einem individuellen Lernportfolio (70% der Ges
 
 ### Individuelles Lernportfolio
 
-Im Lernportfolio werden alle Zwischen- und Endergebnisse gesammelt, die im Rahmen der Veranstaltung erarbeitet wurden. Das Lernportfolio ist ein Git Repository, dass öffentlich auf GitHub zugänglich ist. Alle Ergebnisse müssen über die zugehörige Github.io Seite des Repositories zugänglich sein. Es werden am Ende nicht alle Ergebnisse bewertet, sondern es wird individuell aushandelt, welche Endergebnisse bewertet werden. Aus dem Porfolio muss auch hervorgehen, welche Frameworks, Konzepte und wesentlichen Vorarbeit von Dritten für die Erstellung und Darstellung des Portfolios verwendet wurden. 
+Im Lernportfolio werden alle Zwischen- und Endergebnisse gesammelt, die im Rahmen der Veranstaltung erarbeitet wurden. Das Lernportfolio ist ein Git Repository, das öffentlich auf GitHub zugänglich ist. Alle Ergebnisse müssen über die zugehörige Github.io Seite des Repositories zugänglich sein. Es werden am Ende nicht alle Ergebnisse bewertet, sondern es wird individuell ausgehandelt, welche Endergebnisse bewertet werden. Aus dem Portfolio muss auch hervorgehen, welche Frameworks, Konzepte und wesentlichen Vorarbeit von Dritten für die Erstellung und Darstellung des Portfolios verwendet wurden. 
 
 Das Portfolio wird entlang der folgenden Kritieren bewertet:
 
@@ -51,7 +51,7 @@ Sind die Ergebnisse und Artefakte so aufbereitet, dass sie in der Praxis oder du
 Wurde Quellcode verständlich dokumentiert? Gibt es eine Übersicht über die verschiedenen Artefakte und Komponenten? Wird klar, wie die verschiedenen Einzelteile zusammen hängen? Werden notwendige Voraussetzungen explizit gemacht?
 
 ### Mündliche/ Praktische Prüfung
-Im Rahmen eine mündlichen Prüfung werden ausgewählte Ergebnisse des Lernportfolios nochmals vorgestellt und diskutiert. 
+Im Rahmen einer mündlichen Prüfung werden ausgewählte Ergebnisse des Lernportfolios nochmals vorgestellt und diskutiert. 
 
 
 

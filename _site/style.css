@@ -8323,7 +8323,7 @@ html {
 }
 
 .cite {
-  padding: 2rem;
+  padding: 1rem;
   background-color: #efefef;
 }
 
@@ -8362,7 +8362,7 @@ html {
   font-weight: 400;
   color: #9313ce;
 }
-.content ul {
+.content ul, .content ol {
   margin-left: 0;
 }
 .content dl {
@@ -8412,6 +8412,8 @@ html {
   width: 100%;
 }
 .content figure {
+  padding: 0;
+  margin: 0;
   border-top: dotted 1px #00AD2F;
   padding-top: 1rem;
   margin-top: 1rem;
