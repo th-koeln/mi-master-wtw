@@ -70,3 +70,5 @@ Bitte sichten Sie schon mal das Material für die nächsten Sessions. Machen Sie
 Machen Sie sich ein Bild von aktuellen Strömungen beim W3C:
 - (W3C: Standards and Drafts)[https://www.w3.org/TR/]
 - (W3C: Standards)[https://www.w3.org/standards/]
+
+### Präsentationen & Beiträge der Teilnehmer
