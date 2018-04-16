@@ -64,9 +64,9 @@ Bereiten Sie Kurzvorstellungen von drei Ihrer bisherigen Web-Projekte vor. Hierb
 ### Material erarbeiten & sichten
 
 Bitte sichten Sie schon mal das Material für die nächsten Sessions. Machen Sie sich ein Bild von JAMstack:
-- (jamstack.org)[https://jamstack.org/]
-- (Rise of the JAMstack — Mathias Biillman)[https://youtu.be/uWTMEDEPw8c]
+- [jamstack.org](https://jamstack.org/)
+- [Rise of the JAMstack — Mathias Biillman](https://youtu.be/uWTMEDEPw8c)
 
 Machen Sie sich ein Bild von aktuellen Strömungen beim W3C:
-- (W3C: Standards and Drafts)[https://www.w3.org/TR/]
-- (W3C: Standards)[https://www.w3.org/standards/]
+- [W3C: Standards and Drafts](https://www.w3.org/TR/)
+- [W3C: Standards](https://www.w3.org/standards/)
