@@ -7,7 +7,7 @@ pflicht: false
 termine: 2018-04-24 13:30
 empfohlene-voraussetzungen: 
 published: true
-dauer: 180
+dauer: 150
 raum: via Skype
 info: 
 ---
