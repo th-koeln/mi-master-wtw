@@ -37,3 +37,7 @@ Bitte relavante Themen beim W3C sichten und bewerten, um diese vorstellen zu kö
 
 ### HUGO open-source static site generator
 Bei akuter Langeweile schon mal in (Hugo)[https://gohugo.io/getting-started/quick-start/] einarbeiten.
+
+### Zum Thema Frontend Stack
+- (Linting)[https://survivejs.com/maintenance/code-quality/]
+- (Webpack)[https://webpack.js.org/guides/getting-started/]
