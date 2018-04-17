@@ -34,11 +34,11 @@ info:
 
 ### Themen und Vorgehen für Technologiescouting
 Bitte relavante Themen beim W3C sichten und bewerten, um diese vorstellen zu können. Möglichkeiten und Resourcen für sinnvolles Technologiescouting vorstellen.
-Hier noch eine interessante Quelle dazu: (Working Draft)[http://workingdraft.de/]
+Hier noch eine interessante Quelle dazu: [Working Draft](http://workingdraft.de/)
 
 ### HUGO open-source static site generator
-Bei akuter Langeweile schon mal in (Hugo)[https://gohugo.io/getting-started/quick-start/] einarbeiten.
+Bei akuter Langeweile schon mal in [Hugo](https://gohugo.io/getting-started/quick-start/) einarbeiten.
 
 ### Zum Thema Frontend Stack
-- (Linting)[https://survivejs.com/maintenance/code-quality/]
-- (Webpack)[https://webpack.js.org/guides/getting-started/]
+- [Linting](https://survivejs.com/maintenance/code-quality/)
+- [Webpack](https://webpack.js.org/guides/getting-started/)
