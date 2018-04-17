@@ -34,6 +34,7 @@ info:
 
 ### Themen und Vorgehen für Technologiescouting
 Bitte relavante Themen beim W3C sichten und bewerten, um diese vorstellen zu können. Möglichkeiten und Resourcen für sinnvolles Technologiescouting vorstellen.
+Hier noch eine interessante Quelle dazu: (Working Draft)[http://workingdraft.de/]
 
 ### HUGO open-source static site generator
 Bei akuter Langeweile schon mal in (Hugo)[https://gohugo.io/getting-started/quick-start/] einarbeiten.
