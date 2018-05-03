@@ -50,6 +50,9 @@ Sind die Ergebnisse und Artefakte so aufbereitet, dass sie in der Praxis oder du
 #### Quellcode & Dokumentation
 Wurde Quellcode verständlich dokumentiert? Gibt es eine Übersicht über die verschiedenen Artefakte und Komponenten? Wird klar, wie die verschiedenen Einzelteile zusammen hängen? Werden notwendige Voraussetzungen explizit gemacht?
 
+#### Zeitmanagement, Flexibilität, Motivation & Empathie (Workshops)
+Werden die Teilnehmer gut unterstützt? Wird Rücksicht auf verschiedenen Arbeits- und Lerngeschwindigkeiten genommen? Werden die Teilnehmer motiviert, ins Thema einzusteigen? Sind die Arbeitsanweisungen verständlich und eindeutig? Wird auf RÜckfragen und Probleme von Teilnehmern eingegangen?
+
 ### Mündliche/ Praktische Prüfung
 Im Rahmen einer mündlichen Prüfung werden ausgewählte Ergebnisse des Lernportfolios nochmals vorgestellt und diskutiert. 
 

@@ -3,7 +3,7 @@
 
 {% include /partials/head.html %}
 {% if page.kuerzel == 'web-technologien' %}
-{% assign content = site.webtechnologien %}
+{% assign posts = (site.webtechnologien | sort: 'title') %}
 {% endif %}
 
 <body data-url="{{page.url}}">
@@ -35,6 +35,9 @@
 
     {{content}}
 
+    {% for post in posts %}
+    {{post}}
+    {% endfor %}
     
     {% include /partials/footer.html %}
 </body>

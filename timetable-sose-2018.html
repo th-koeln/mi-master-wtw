@@ -1,16 +1,6 @@
 --- 
 layout: default 
 --- 
-{% assign lehrveranstaltungen = (site.lehrveranstaltungen | sort: 'title')) %} 
-{% assign cards = "" | split: "" %} {% for lehrveranstaltung in lehrveranstaltungen %} 
-{% if lehrveranstaltung.typ != "other" %} 
-{% capture card %}
-{% include veranstaltungsinfo-klein.html lehrveranstaltung=lehrveranstaltung %} 
-{% endcapture %} 
-{% assign cards = cards | push: card %} 
-{% endif %} 
-{% endfor %}
-
 
 <section class="section">
     <div class="container">

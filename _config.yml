@@ -96,6 +96,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
 collections:
   lehrveranstaltungen:
     output: true
