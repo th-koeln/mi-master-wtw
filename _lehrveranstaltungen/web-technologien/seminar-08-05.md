@@ -29,4 +29,9 @@ info:
 ## Material
 - [URLs für das Linkpool MiniProjekt](https://github.com/cnoss/wtw-uri-pool) 
 - [Custom Output Formats in Hugo](https://gohugo.io/templates/output-formats/) 
-- [Vue.js](https://vuejs.org/) 
+- [Vue.js](https://vuejs.org/)
+- [Vue.js - Starter Pen](https://codepen.io/jhfpereira/pen/deZrdV)
+- [Vue.js - Components Pen](https://codepen.io/jhfpereira/pen/wjpdxq)
+- [Vue.js - Computed Values & Methods & Watcher Pen](https://codepen.io/jhfpereira/pen/yjpXNZ)
+- [Vue.js - Component Properties Pen](https://codepen.io/jhfpereira/pen/qYpREb)
+- [Vue.js - Directives](https://codepen.io/jhfpereira/pen/aGEJdy)
