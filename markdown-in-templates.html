@@ -1,0 +1,37 @@
+--- 
+layout: default
+title: Markdown in Templates
+kuerzel: md-in-templates
+--- 
+
+<section class="section">
+    <div class="container">
+        <h2 class="title is-1">Markdown in Templates</h2>
+        <div class="content">
+	        <p>Markdown ist eine vereinfachte Auszeichnungssprache die schon in ihrer Ausgangsform ohne weitere Konvertierung leicht lesbar ist. Das ist schön, praktisch und eine gute Voraussetzung für Dokumente, die ggf. in verschiedene Formate umgewandelt werden sollen. Außerdem haben die Dokumente eine gute Struktur und lassen sich schnell editieren. Viele Static Page Generatoren unterstützen Markdown, oder verwenden es gar als Standard Formatierung, so auch Jekyll. Leider wird Markdown hier jedoch nur in *.md Dokumenten unterstützt, nicht jedoch in *.html Dokumenten, diese sind jedoch häufig praktisch, wenn man komplexere Inhalte aufbauen möchte.
+	        </p>
+	        
+	        <h3>Aufgabe</h3>
+	        <p>Entwicklen Sie eine oder mehrere Möglichkeiten, um auch in *.html Dokumenten Markdown Support zu ermöglichen und wägen Sie ab, welche bezogen auf die Qualitätskriterien am sinnvollsten ist.</p>
+	        
+	        <h3>Ansätze</h3>
+	        <p>Es gäbe eine Reihe von Ansätzen, um dies zu realisieren:</p>
+	        <ul>
+		        <li>Nutzung eines Jekyll Plugins</li>
+		        <li>Konvertierung im parallelen Build Prozess</li>
+		        <li>Konvertierung im Client via Javascript</li>
+		        <li>…</li>
+	        </ul>
+	        
+	        <h3>Qualitätskriterien</h3>
+	      	<p>Folgende Kriterien sollten berücksichtigt werden:</p>
+	        <ul>
+		        <li>Lösung konvertiert automatisch (muss nicht händisch getriggert werden)</li>
+		        <li>Lösung ist performant</li>
+		        <li>Nice to have: Lösung funktioniert in anderen Kontexten, also außerhalb von Jekyll</li>
+	        </ul>  
+	        
+        </div>
+    </div>
+</section>
+

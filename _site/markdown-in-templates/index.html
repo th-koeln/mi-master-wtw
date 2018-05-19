@@ -2,7 +2,7 @@
 <html lang="de">
 
 <head>
-    <title>Weaving the Web – Schwerpunkt im Medieninformatik Master</title>
+    <title>Markdown in Templates – Weaving the Web – Schwerpunkt im Medieninformatik Master</title>
     <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -14,7 +14,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="/mi-master-wtw/favicon.ico">
 </head>
 
-<body data-url="/">
+<body data-url="/markdown-in-templates/">
     <section class="hero is-success is-medium">
         <!-- Hero header: will stick at the top -->
         <div class="hero-head">
@@ -56,62 +56,36 @@
     </section>
 
     <section class="section">
-	<div class="container">
-		<div class="content">
-			<div class="columns">
-				<div class="column is-8"><h1>Über den Schwerpunkt</h1>
-				</div>
-				<div class="column is-4 has-text-right">
-					<span class="reading-time tag" title="Estimated read time">Lesezeit: ~
-  
-  
-    2 mins
-  
-</span>
-					<!--a target="_blank" href="https://github.com/th-koeln/mi-bachelor-gdvk/edit/master/index.md"><span class="icon"><i class="fa fa-edit"></i></span> Bearbeiten</a-->
-				</div>
-			</div>
-		</div>
-	</div>
-	<hr>
-	<div class="container zweispalter">
-		<div class="content">
-		
-<p>Das Web ist sowohl von seiner Entstehungsgeschichte, als auch von seinem Einfluß auf Technologie, Wirtschaft, Wissen, Politik und Gesellschaft einzigartig und nach wie vor absolut faszinierend. Das aktuelle Buzzword “Digitalisierung” und der damit verbundene Hype wäre ohne das Web und dessen Grundsätze und Wirkprinzipien nicht existent.</p>
-
-<p>“The web is more a social creation than a technical one. I designed it for a social effect — to help people work together — and not as a technical toy. The ultimate goal of the Web is to support and improve our weblike existence in the world. We clump into families, associations, and companies. We develop trust across the miles and distrust around the corner.” Diese Beschreibung von Tim Berners-Lee aus seinem Buch “Weaving the Web” zeigt, dass das Web deutlich mehr ist, als eine Sammlung von Technologien.</p>
-
-<p>Und genau dieser Gedanke wird innerhalb des Schwerpunkts verfolgt, es wird mehr erkundet als interessante und erfolgversprechende Web-Technologien; und mehr vermittelt als zeitgemäßes Web-Development, denn die Leitfrage die dem Schwerpunkt zugrunde liegt, lautet:</p>
-
-<h3 id="wie-können-wir-das-web-weiter-spinnen">Wie können wir das Web weiter spinnen?</h3>
-
-<p>Oder anders formuliert: wie konzipieren, entwickeln, verbreiten und evaluieren wir Produkte, Dienste und Services im Web, die das Leben und Arbeiten von Individuen, Gruppen und Organisationen vereinfachen als auch bereichern und somit verbessern. Das Phänomen “Web” wird möglichst umfassend betrachtet, denn Anwendungen im Web sind immer mehr durch die Vernetzung von Diensten, Daten und Prozessen gekennzeichnet. Klingt kompliziert. Ist es irgendwie auch. Und genau darin liegt der Reiz und die Herausforderung.</p>
-
-<p>Der Schwerpunkt richtet sich an Studierende mit großem Interesse am Web und den damit verbundenen Technologien, mit einschlägigen Erfahrungen im Bereich Web-Anwendungen und dem Wunsch und Willen echte Produkte und Services in den Markt und die Community zu bringen.</p>
-
-<h3 id="berufsfelder-für-absolventinnen-und-absolventen-sind">Berufsfelder für Absolventinnen und Absolventen sind</h3>
-<ul>
-  <li>Entwickler und Entwicklerin von Web Anwendungen z.B. in Web Agenturen oder Softwarehäusern</li>
-  <li>Architekt oder Architektin für Web Projekte in größeren Unternehmen oder Organisationen</li>
-  <li>Gründer oder Gründerin von Start Ups im innovativen Web Umfeld</li>
-  <li>Berater oder Beraterin für die Integration von Prozessen mit dem Web</li>
-  <li>Web Enthusiast oder Web Enthusiastin</li>
-</ul>
-
-<h3 id="schwerpunktspezifische-pflichtmodule">Schwerpunktspezifische Pflichtmodule</h3>
-
-<p>Innerhalb des Schwerpunkts müssen die folgenden Module als Pflichtmodule belegt werden:</p>
-
-<ul>
-  <li>Sicherheit, Privatsphäre und Vertrauen</li>
-  <li>Web Architekturen</li>
-  <li>Web Technologien</li>
-</ul>
-
-
-		</div>
-	</div>
+    <div class="container">
+        <h2 class="title is-1">Markdown in Templates</h2>
+        <div class="content">
+	        <p>Markdown ist eine vereinfachte Auszeichnungssprache die schon in ihrer Ausgangsform ohne weitere Konvertierung leicht lesbar ist. Das ist schön, praktisch und eine gute Voraussetzung für Dokumente, die ggf. in verschiedene Formate umgewandelt werden sollen. Außerdem haben die Dokumente eine gute Struktur und lassen sich schnell editieren. Viele Static Page Generatoren unterstützen Markdown, oder verwenden es gar als Standard Formatierung, so auch Jekyll. Leider wird Markdown hier jedoch nur in *.md Dokumenten unterstützt, nicht jedoch in *.html Dokumenten, diese sind jedoch häufig praktisch, wenn man komplexere Inhalte aufbauen möchte.
+	        </p>
+	        
+	        <h3>Aufgabe</h3>
+	        <p>Entwicklen Sie eine oder mehrere Möglichkeiten, um auch in *.html Dokumenten Markdown Support zu ermöglichen und wägen Sie ab, welche bezogen auf die Qualitätskriterien am sinnvollsten ist.</p>
+	        
+	        <h3>Ansätze</h3>
+	        <p>Es gäbe eine Reihe von Ansätzen, um dies zu realisieren:</p>
+	        <ul>
+		        <li>Nutzung eines Jekyll Plugins</li>
+		        <li>Konvertierung im parallelen Build Prozess</li>
+		        <li>Konvertierung im Client via Javascript</li>
+		        <li>…</li>
+	        </ul>
+	        
+	        <h3>Qualitätskriterien</h3>
+	      	<p>Folgende Kriterien sollten berücksichtigt werden:</p>
+	        <ul>
+		        <li>Lösung konvertiert automatisch (muss nicht händisch getriggert werden)</li>
+		        <li>Lösung ist performant</li>
+		        <li>Nice to have: Lösung funktioniert in anderen Kontexten, also außerhalb von Jekyll</li>
+	        </ul>  
+	        
+        </div>
+    </div>
 </section>
+
 
 
     <footer class="footer is-non-print">
