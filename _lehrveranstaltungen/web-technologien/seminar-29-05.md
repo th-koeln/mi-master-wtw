@@ -15,7 +15,7 @@ info:
 ## Zielsetzung des Tages
 - neue Challenges verstanden
 - Überblick über aktuelle Challenges/Tutorial & Vortrag
-- tbc.
+- Vertiefung Vue.js
 
 ## Was passiert heute?
 - Vorstellung Tutorial W3C Payment Request API
@@ -23,6 +23,7 @@ info:
 - Challenges besprechen
 - Entwicklungsprojekt besprechen
 - Roadmap besprechen
+- Vue.js Hacking
 
 ## Was muss vorbereitet werden?
 - Tutorial vorstellen
@@ -32,3 +33,4 @@ info:
 
 ## Material
 - [Challenge #1](https://classroom.github.com/a/lvtQ3bIB)
+- [Vue.js Codepen Collection](https://codepen.io/collection/Ddvewg/)
