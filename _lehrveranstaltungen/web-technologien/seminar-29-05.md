@@ -1,5 +1,5 @@
 ---
-titel: Online Seminar Web-Technologien // Linkpool Vue.js Integration
+titel: Online Seminar Web-Technologien
 kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
