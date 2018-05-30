@@ -100,12 +100,8 @@ exclude:
 collections:
   lehrveranstaltungen:
     output: true
-  faq:
-    output: false
-  snippets:
-    output: false
-  links:
-    output: false
+  workshops:
+    output: true
   webtechnologien:
     output: false
 
