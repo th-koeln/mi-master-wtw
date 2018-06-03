@@ -54,43 +54,43 @@ week-9:
     name: Dienstag
 week-10:
   day-1:
-    datum: 2018-06-19
+    datum: 2018-06-12
     start: "13:00"
     end: "16:00"
     name: Dienstag
 week-11:
   day-1:
-    datum: 2018-06-26
+    datum: 2018-06-19
     start: "13:00"
     end: "16:00"
     name: Dienstag
 week-12:
   day-1:
-    datum: 2018-07-03
+    datum: 2018-06-26
     start: "13:00"
     end: "16:00"
     name: Dienstag
 week-13:
   day-1:
-    datum: 2018-07-10
+    datum: 2018-07-03
     start: "13:00"
     end: "16:00"
     name: Dienstag
 week-14:
   day-1:
-    datum: 2018-07-17
+    datum: 2018-07-10
     start: "13:00"
     end: "16:00"
     name: Dienstag
 week-15:
   day-1:
-    datum: 2018-07-31
+    datum: 2018-07-17
     start: "13:00"
     end: "16:00"
     name: Dienstag
-week-16:
+week-25:
   day-1:
-    datum: 2018-09-27
+    datum: 2018-09-25
     start: "13:00"
     end: "16:00"
     name: Dienstag
