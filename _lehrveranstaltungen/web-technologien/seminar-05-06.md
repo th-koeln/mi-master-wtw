@@ -16,10 +16,6 @@ info:
 - Einblick und erste Erfahrung in Generic Sensor API gemacht
 
 ## Was passiert heute?
-- Workshop Generic Sensor API von und mit Sascha Lemke
+Workshop Generic Sensor API von und mit Sascha Lemke. Weitere [Infos und Materialien zum Workshop](/mi-master-wtw/workshops/2018/Generic-Sensor-API/)
 
-## Was muss vorbereitet werden?
-
-
-## Material
 
