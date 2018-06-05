@@ -32,4 +32,6 @@ Dieser Workshop befasst sich mit den Generic Sensor APIs, welche sich derzeit in
 ## Zielgruppe
 Dieser Workshop richtet sich an Entwickler und Technikinteressierte, welche die neuesten APIs zur Nutzung von Sensoren im mobilen Kontext ausprobieren wollen.
 
-
+## Material
+* [Folien](https://slemke.github.io/generic-sensor-api-slides/index.html)
+* [Code](https://github.com/slemke/generic-sensor-api-workshop)
