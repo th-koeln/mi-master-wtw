@@ -35,4 +35,4 @@ Dieser Workshop richtet sich an Web Front-End Developer und diejenigen, die es w
 * [Content & Display Patterns with Expressive CSS](http://johnpolacek.com/content-display-patterns/)
 * [Vortrag: Write Less CSS](https://www.youtube.com/watch?v=y2j6r5V67bY)
 * [Deciphering the Critical Rendering Path](https://calendar.perfplanet.com/2012/deciphering-the-critical-rendering-path/)
-* [Amazon Style Dictionary]https://github.com/amzn/style-dictionary
+* [Amazon Style Dictionary](https://github.com/amzn/style-dictionary)

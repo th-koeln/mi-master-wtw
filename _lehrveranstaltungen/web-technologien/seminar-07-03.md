@@ -18,10 +18,9 @@ info:
 ## Was passiert heute?
 - CSS3 Workshop von und mit Christian Noss
 - Challenges besprechen
-- Entwicklungsprojekt besprechen
 
 ## Was muss vorbereitet werden?
-
+nix
 
 ## Material
-
+* [Workshop Infos](/mi-master-wtw/workshops/2018/css3/)
