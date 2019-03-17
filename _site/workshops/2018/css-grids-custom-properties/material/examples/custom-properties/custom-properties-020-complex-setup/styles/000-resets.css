@@ -1,0 +1,52 @@
+/*----------------------------------------------------------------------------
+reset.css                                                                  
+Enthält alle projektspezifischen Resets.
+
+Wer es noch schöner möchte, möge sich mal https://cssguidelin.es/ anschauen.
+----------------------------------------------------------------------------*/
+
+
+/* Basic Resets 
+-----------------------------------------------------------------------------*/
+
+h1,
+h2,
+h3,
+h4 {
+    letter-spacing: normal;
+}
+
+h1 {
+    font-size: var(--fontsize-xxl);
+}
+
+h2 {
+    font-size: var(--fontsize-xl);
+}
+
+h3 {
+    font-size: var(--fontsize-l);
+}
+
+h4,
+h5,
+h6 {
+    font-size: var(--fontsize);
+    font-weight: bold;
+}
+
+
+/* Figure Reset
+-----------------------------------------------------------------------------*/
+
+figure {
+    margin: 0;
+}
+
+
+/* Image Reset 
+-----------------------------------------------------------------------------*/
+
+img {
+    width: 100%;
+}

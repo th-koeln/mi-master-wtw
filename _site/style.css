@@ -8058,18 +8058,13 @@ html {
   line-height: 130%;
 }
 
-/*hr{
-	-moz-border-bottom-colors: none;
-    -moz-border-left-colors: none;
-    -moz-border-right-colors: none;
-    -moz-border-top-colors: none;
-    border-color: #aaa -moz-use-text-color -moz-use-text-color;
-    border-image: none;
-    border-style: dotted none none;
-    border-width: 1px 0 0;
-    box-sizing: content-box;
-    height: 0;
-}*/
+.is-underlined {
+  padding-bottom: 0.5rem;
+  margin-bottom: 2rem !important;
+  margin-top: 2rem;
+  border-bottom: solid 1px #aaaaaa;
+}
+
 /**************/
 /* index     */
 /**************/
@@ -8488,6 +8483,37 @@ html {
   .zweispalter .content > h2:not(:first-child) {
     margin-top: 3rem !important;
   }
+}
+
+.news-box {
+  margin-bottom: 2rem;
+}
+.news-box dl {
+  margin-bottom: 0;
+}
+.news-box .card {
+  transition: all 0.3s;
+}
+.news-box .card:hover {
+  background-color: #000;
+  color: #fff;
+}
+.news-box .card:hover h3 {
+  color: #fff;
+}
+.news-box .bm--card-equal-height {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.news-box .bm--card-equal-height .card-footer {
+  margin-top: auto;
+}
+.news-box figure {
+  margin-top: 0;
+}
+.news-box figure img {
+  object-fit: cover;
 }
 
 .modulbeschreibung h2 {

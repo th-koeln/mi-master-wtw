@@ -10,8 +10,8 @@ published: true
 
 Die Veranstaltung zielt zusammengefasst auf die Erweiterung der Kompetenzen in vier Bereichen:
 - Strukturierung und Initialisierung eines Web-Projekts (structure)
-- technische Ausrichtung eines Web-Projekts (direction)
-- Nachhaltige Entwicklung im Team (cooperation)
+- Technische Ausrichtung eines Web-Projekts (direction)
+- Nachhaltige Entwicklung im Team und Weiterentwicklung des Teams (cooperation)
 - Technologiescouting (perspectives)
 
 Darüber hinaus sollen die individuellen Web-Coding Skills reflektiert und erweitert werden (improve).

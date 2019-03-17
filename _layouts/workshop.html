@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<section class="section">
+
+  <div class="container">
+    <div class="content">
+      <div class="columns">
+        <div class="column is-8">
+          <h1>{{ page.titel }}</h1>
+        </div>
+        <div class="column is-4 has-text-right">
+          <a target="_blank" href="https://github.com/th-koeln/mi-master-wtw/edit/master/{{ page.path }}">
+            <span class="icon">
+              <i class="fa fa-edit"></i>
+            </span> Bearbeiten</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="content">
+      <hr>
+      <dl>
+        <dt>Coach</dt>
+        <dd>{{page.autor}}</dd>
+
+        <dt>Termin</dt>
+        <dd>{{page.termin}}</dd>
+
+        <dt>Dauer</dt>
+        <dd>{{page.dauer}}</dd>
+
+        <dt>Raum</dt>
+        <dd>{{page.raum}}</dd>
+      </dl>
+      <hr>
+      {{ content }}
+    </div>
+  </div>
+</section>

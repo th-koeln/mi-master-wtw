@@ -1,0 +1,33 @@
+{% assign workshops = site.workshops %}
+
+<div class="news-box">
+  <h2 class="is-underlined">Die letzten Workshops und Tutorials</h2>
+  <div class="columns is-multiline">
+    {% for workshop in workshops %}
+    <div class="column is-one-third-tablet is-one-quarter-desktop">
+      <a href="{{site.baseurl}}{{workshop.url}}">
+      <div class="card bm--card-equal-height">
+        <div class="card-image">
+          <figure class="image is-2by1">
+            <img src="{{ workshop.bild | prepend: workshop.url | replace: 'index/' | prepend: site.baseurl }}">
+          </figure>
+        </div>
+        <div class="card-content">
+          <div class="content">
+            <h3>{{workshop.titel}}</h3>
+            <dl>
+              <dd>{{workshop.autor}}</dd>
+              <dd>{{workshop.termin}}</dd>
+              <dd>{{workshop.dauer}}</dd>
+              <dd>Raum {{workshop.raum}}</dd>
+            </dt>
+          </div>
+        </div>
+        <!--footer class="card-footer">
+          <a class="card-footer-item" href="{{workshop.url}}">Inhalte anschauen</a>
+        </footer-->
+      </div>
+    </div></a>
+    {% endfor %}
+  </div>
+</div>

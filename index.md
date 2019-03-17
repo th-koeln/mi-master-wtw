@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 titel: Über den Schwerpunkt
 ---
 
@@ -31,6 +31,6 @@ Innerhalb des Schwerpunkts müssen die folgenden Module als Pflichtmodule belegt
 
 * Sicherheit, Privatsphäre und Vertrauen
 * Web Architekturen
-* Web Technologien
+* [Web Technologien](web-technologien/)
 
 
