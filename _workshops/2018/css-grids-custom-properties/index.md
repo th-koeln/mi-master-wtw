@@ -5,7 +5,7 @@ datum: 2018-06-05
 modul: wd
 autor: Christian Noss
 art: workshop
-bild: teaser.jpg
+bild: ../teaser.jpg
 termin: Dienstag, 03. Juli 2018, 13:30 Uhr
 dauer: 120 Minuten
 raum: 3.217

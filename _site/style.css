@@ -8085,6 +8085,27 @@ html {
 /**************/
 /* Header  */
 /**************/
+.is-header {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  overflow: hidden;
+  position: relative;
+}
+.is-header.has-gradient::before {
+  content: '';
+  top: 0;
+  bottom: 0;
+  position: absolute;
+  right: 0;
+  left: 0;
+  background-size: auto;
+  background-image: linear-gradient(to left, rgba(0, 173, 47, 0), #00ad2f);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  opacity: 1;
+  z-index: 0;
+}
 .is-header .title {
   font-weight: 100;
   font-size: 2rem;

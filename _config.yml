@@ -52,6 +52,8 @@ url: https://th-koeln.github.io/
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/mi-master-wtw"
 
+teaserimage: "hero-wtw-klein.jpg"
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #

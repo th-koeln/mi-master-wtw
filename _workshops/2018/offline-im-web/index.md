@@ -5,7 +5,7 @@ datum: 2018-07-17
 modul: wd
 autor: Sascha Lemke
 art: workshop
-bild: teaser.jpg
+bild: ../teaser.jpg
 bildcredits: http://bit.ly/2zNywsP
 termin: Dienstag, 17. Juli 2018, 13:30 Uhr
 dauer: 120 Minuten

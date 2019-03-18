@@ -32,6 +32,8 @@ html {
 }
 
 
+
+
 /**************/
 /* index     */
 /**************/
@@ -61,7 +63,28 @@ html {
 /**************/
 
 .is-header {
-    .title {
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  overflow: hidden;
+  position: relative;
+  
+  &.has-gradient::before{
+    content: '';
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    right: 0;
+    left: 0;
+    background-size: auto;
+    background-image: linear-gradient(to left,rgba(0,173,47,0), rgba(0,173,47,100));
+    background-repeat: no-repeat;
+    background-position: bottom;
+    opacity: 1;
+    z-index: 0;
+  }
+  .title {
         font-weight: 100;
         font-size: $bfs * 2;
     }

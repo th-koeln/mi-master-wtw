@@ -4,10 +4,10 @@ kuerzel: s-ko
 verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2018-04-10 13:00
+termine: 2019-04-02 14:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 180
+dauer: 120
 raum: 3.216
 info: 
 ---
@@ -26,7 +26,7 @@ info:
 2. Zusammenfassung der wesentlichen Outcomes aus den Modulen Web-Architekturen und «Sicherheit, Privatsphäre und Vertrauen» (Teilnehmer)
 3. Verortung des aktuellen Know-how Standes auf der [Developer Roadmap von Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap) (alle)
 4. Entwicklung einer vorläufigen Zielsetzung für eigene Know-how Erweiterung im Anwendungsgebiet mit Hilfe der Developer Roadmap (alle)
-5. Vorstellung vor drei eigenen Web-Dev Projekten (alle)
+5. Vorstellung von drei eigenen Web-Dev Projekten (alle)
 6. Schnüren von Arbeitspaketen für die nächste Session (alle)
 
 ## Was muss vorbereitet werden?

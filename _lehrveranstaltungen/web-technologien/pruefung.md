@@ -1,14 +1,14 @@
 ---
 titel: Prüfung
-kuerzel: exam
+kuerzel: other
 verantwortlich: cn
 typ: pruefung
 pflicht: true
-termine: 2018-09-25 13:00 
+termine: 2019-09-24 13:00 
 empfohlene-voraussetzungen:
 published: true
-anzahl: 120 Teilnehmer
-dauer: 180
+anzahl: 20 Teilnehmer
+dauer: 240
 raum: 3.216
 ---
 

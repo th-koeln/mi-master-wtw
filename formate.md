@@ -5,7 +5,7 @@ titel: Formate
 
 Im folgenden Dokument werden übliche Formate für Leistungsbausteine im Schwerpunkt vorgestellt. Andere Formate sind natürlich auch möglich, sollten aber vorab mit dem jeweiligen Dozenten besprochen werden.
 
-## Ausarbeitung
+## Ausarbeitung/ Abwägung
 
 Hierbei handelt es sich um eine schriftliche Ausarbeitung zu einem Themenfeld. Der Umfang sollte zwischen 4.000 und 8.000 Worten liegen. Zusätzlich sollte ein kurzes Abstract vorangestellt werden, aus dem auch hervorgeht an welche Zielgruppe sich die Ausarbeitung richtet. Das Dokument selbst sollte als Hypertext oder Markdown File bereit gestellt werden und relativ auf alle enthaltenen Ressourcen wie Grafiken und Bilder referenzieren. 
 
@@ -18,12 +18,14 @@ Folgende Angaben müssen enthalten sein:
 - Zielgruppe
 
 Folgende Bewertungskriterien sind relevant:
-- [Recherche, Durchdringung & Substanz](/mi-master-wtw/web-technologien/#recherche-durchdringung--substanz)
-- [Klarheit, Verständlichkeit & Richtigkeit](/mi-master-wtw/web-technologien/#klarheit-verständlichkeit--richtigkeit)
-- [Nutz- & Anwendbarkeit](/mi-master-wtw/web-technologien/#nutz---anwendbarkeit)
-- [Empirie & Wissenschaftlichkeit](/mi-master-wtw/web-technologien/#empirie--wissenschaftlichkeit)
-- [Darstellung, Artikulationsfähigkeit & Eloquenz](/mi-master-wtw/web-technologien/#darstellung-artikulationsfähigkeit--eloquenz)
-- [Form, Sprache & Stil](/mi-master-wtw/web-technologien/#form-sprache--stil)
+- [Recherche, Durchdringung & Substanz](/mi-master-wtw/formate/#recherche-durchdringung--substanz)
+- [Klarheit, Verständlichkeit & Richtigkeit](/mi-master-wtw/formate/#klarheit-verständlichkeit--richtigkeit)
+- [Kenntnisse und Fertigkeiten](/mi-master-wtw/formate/#kenntnisse-und-fertigkeiten)
+- [Ausarbeitungsprozess & Wiederholbarkeit](/mi-master-wtw/formate/#ausarbeitungsprozess--wiederholbarkeit)
+- [Nutz- & Anwendbarkeit](/mi-master-wtw/formate/#nutz---anwendbarkeit)
+- [Empirie & Wissenschaftlichkeit](/mi-master-wtw/formate/#empirie--wissenschaftlichkeit)
+- [Darstellung, Artikulationsfähigkeit & Eloquenz](/mi-master-wtw/formate/#darstellung-artikulationsfähigkeit--eloquenz)
+- [Form, Sprache & Stil](/mi-master-wtw/formate/#form-sprache--stil)
 
 
 ## Tutorial
@@ -40,12 +42,13 @@ Folgende Angaben müssen enthalten sein:
 - notwendige Voraussetzungen
 
 Folgende Bewertungskriterien sind relevant:
-- [Klarheit, Verständlichkeit & Richtigkeit](/mi-master-wtw/web-technologien/#klarheit-verständlichkeit--richtigkeit)
-- [Nutz- & Anwendbarkeit](/mi-master-wtw/web-technologien/#nutz---anwendbarkeit)
-- [Darstellung, Artikulationsfähigkeit & Eloquenz](/mi-master-wtw/web-technologien/#darstellung-artikulationsfähigkeit--eloquenz)
-- [Form, Sprache & Stil](/mi-master-wtw/web-technologien/#form-sprache--stil)
-- [Durchdringung & Substanz](/mi-master-wtw/web-technologien/#recherche-durchdringung--substanz)
-- [Quellcode & Dokumentation](/mi-master-wtw/web-technologien/#quellcode--dokumentation)
+- [Klarheit, Verständlichkeit & Richtigkeit](/mi-master-wtw/formate/#klarheit-verständlichkeit--richtigkeit)
+- [Nutz- & Anwendbarkeit](/mi-master-wtw/formate/#nutz---anwendbarkeit)
+- [Darstellung, Artikulationsfähigkeit & Eloquenz](/mi-master-wtw/formate/#darstellung-artikulationsfähigkeit--eloquenz)
+- [Form, Sprache & Stil](/mi-master-wtw/formate/#form-sprache--stil)
+- [Durchdringung & Substanz](/mi-master-wtw/formate/#recherche-durchdringung--substanz)
+- [Kenntnisse und Fertigkeiten](/mi-master-wtw/formate/#kenntnisse-und-fertigkeiten)
+- [Quellcode & Dokumentation](/mi-master-wtw/formate/#quellcode--dokumentation)
 
 ## Workshop
 
@@ -61,11 +64,83 @@ Folgende Angaben müssen enthalten sein:
 - notwendige Voraussetzungen
 
 Folgende Bewertungskriterien sind relevant:
-- [Klarheit, Verständlichkeit & Richtigkeit](/mi-master-wtw/web-technologien/#klarheit-verständlichkeit--richtigkeit)
-- [Nutz- & Anwendbarkeit](/mi-master-wtw/web-technologien/#nutz---anwendbarkeit)
-- [Darstellung, Artikulationsfähigkeit & Eloquenz](/mi-master-wtw/web-technologien/#darstellung-artikulationsfähigkeit--eloquenz)
+- [Klarheit, Verständlichkeit & Richtigkeit](/mi-master-wtw/formate/#klarheit-verständlichkeit--richtigkeit)
+- [Nutz- & Anwendbarkeit](/mi-master-wtw/formate/#nutz---anwendbarkeit)
+- [Darstellung, Artikulationsfähigkeit & Eloquenz](/mi-master-wtw/formate/#darstellung-artikulationsfähigkeit--eloquenz)
 - [Zeitmanagement, Flexibilität, Motivation &amp; Empathie (Workshops)](zeitmanagement-flexibilität-motivation--empathie-workshops)
-- [Durchdringung & Substanz](/mi-master-wtw/web-technologien/#recherche-durchdringung--substanz)
-- [Quellcode & Dokumentation](/mi-master-wtw/web-technologien/#quellcode--dokumentation)
+- [Durchdringung & Substanz](/mi-master-wtw/formate/#recherche-durchdringung--substanz)
+- [Kenntnisse und Fertigkeiten](/mi-master-wtw/formate/#kenntnisse-und-fertigkeiten)
+- [Quellcode & Dokumentation](/mi-master-wtw/formate/#quellcode--dokumentation)
 
 
+## Praktische Challenge
+
+Bei der Challenge gilt es ein Real-World Problem zur erfassen und zu lösen. Hierbei muss der Quellecode über ein Git Repo verfügbar gemacht werden. Die Erklärung der Lösung und die Abwägung verschiedener Lösungsansätze sind im Wiki des Repos zu verfassen.
+
+Folgende Angaben müssen enthalten sein:
+- Thema/ Problem
+- Modul
+- Entstehungsjahr
+- Autor
+- Keywords
+- Erläuterung/ Erklärung im Wiki des Repos
+
+Folgende Bewertungskriterien sind relevant:
+- [Recherche, Durchdringung & Substanz](/mi-master-wtw/formate/#recherche-durchdringung--substanz)
+- [Zielsetzung & Lösungsstrategie](/mi-master-wtw/formate/#zielsetzung--lösungsstrategie)
+- [Ausarbeitungsprozess & Wiederholbarkeit](/mi-master-wtw/formate/#ausarbeitungsprozess--wiederholbarkeit)
+- [Kenntnisse und Fertigkeiten](/mi-master-wtw/formate/#kenntnisse-und-fertigkeiten)
+- [Nutz- & Anwendbarkeit](/mi-master-wtw/formate/#nutz---anwendbarkeit)
+- [Quellcode & Dokumentation](/mi-master-wtw/formate/#quellcode--dokumentation)
+
+## Übersicht der Kriterien
+
+Das Portfolio wird entlang der folgenden Kritieren bewertet:
+
+#### Recherche, Durchdringung & Substanz
+<!-- [Recherche, Durchdringung & Substanz](/mi-master-wtw/formate/#recherche-durchdringung--substanz) -->
+Wie weitreichend ist das Faktenwissen über den Gegenstandsbereich? Wurde für die Aufgabenstellung in ausreichendem Maße recherchiert? Nimmt der Autor eine kritische und objektive Perspektive ein? Hat er das Problemfeld ausreichend tief durchdrungen und die gestellte Aufgabe in angemessenem Umfang gelöst?
+
+#### Klarheit, Verständlichkeit & Richtigkeit
+<!-- [Klarheit, Verständlichkeit & Richtigkeit](/mi-master-wtw/formate/#klarheit-verständlichkeit--richtigkeit) -->
+Ist die Ausarbeitung logisch aufgebaut und verständlich formuliert? Sind Sachverhalte korrekt dargestellt? Sind Gedankengänge und Schlussfolgerung nachvollziehbar und begründet?
+
+#### Zielsetzung & Lösungsstrategie
+<!-- [Zielsetzung & Lösungsstrategie](/mi-master-wtw/formate/#zielsetzung--lösungsstrategie) -->
+Wird das zugrunde liegende Problemfeld dargestellt? Ist die Definition eines Zieles präzise und dem Rahmen der Fragestellung angemessen? Wird ein geeigneter Lösungsweg angestrebt und wird dieser begründet?
+
+#### Empirie & Wissenschaftlichkeit
+<!-- [Empirie & Wissenschaftlichkeit](/mi-master-wtw/formate/#empirie--wissenschaftlichkeit) -->
+In wie weit werden Thesen und Aussagen durch Fakten belegt? Wird Fremdwissen als solches ausgewiesen? Nimmt der Autor eine kritische und objektive Perspektive ein?
+
+#### Ausarbeitungsprozess & Wiederholbarkeit
+<!-- [Ausarbeitungsprozess & Wiederholbarkeit](/mi-master-wtw/formate/#ausarbeitungsprozess--wiederholbarkeit)-->
+Wie zielsicher wurde das zugrundeliegende Problem gelöst, so dass eine vergleichbare Ergebnisqualität in anderen Zusammenhängen und Projekten prinzipiell wiederholbar wäre? Werden wesentliche Entscheidungen thematisiert und diskutiert?
+
+#### Darstellung, Artikulationsfähigkeit & Eloquenz
+<!-- [Darstellung, Artikulationsfähigkeit & Eloquenz](/mi-master-wtw/formate/#darstellung-artikulationsfähigkeit--eloquenz) -->
+Wie verständlich kann sich der/die Studierende ausdrücken und komplexe Sachverhalte durch Wort, Ton und/oder Bild veranschaulichen? Ist die Darstellung bzw. Präsentation klar, nachvollziehbar, glaubhaft und zielsicher? Kann der/die Studierende das eigene Thema im Bezug zu anderen (übergreifenden) Themen darstellen?
+
+#### Kritik- & Diskursfähigkeit
+<!-- [Kritik- & Diskursfähigkeit](/mi-master-wtw/formate/#kritik---diskursfähigkeit)-->
+Wird mit kritischen und schwierigen Aspekten der Ausarbeitung offensiv und sachlich umgegangen? Findet eine ausreichende Differenzierung zwischen Person und Sache statt? Ist der/die Studierende in der Lage auf angemessenem fachlichen und wissenschaftlichen Niveau über die Ausarbeitung zu diskutieren?
+
+#### Kenntnisse und Fertigkeiten
+<!-- [Kenntnisse und Fertigkeiten](/mi-master-wtw/formate/#kenntnisse-und-fertigkeiten)-->
+Wie groß ist das fachliche Repertoire des/der Studierende/n und wie reflektiert wird dieses im Sinne der Aufgabenstellung eingesetzt? 
+
+#### Form, Sprache & Stil
+<!-- [Form, Sprache & Stil](/mi-master-wtw/formate/#form-sprache--stil) -->
+Wird eine verständliche und angemessene (Fach-)sprache verwendet? Wie ausdrucksstark ist die Ausarbeitung im Ganzen? Ist die Ausarbeitung orthographisch und grammatikalisch angemessen?
+
+#### Nutz- & Anwendbarkeit
+<!-- [Nutz- & Anwendbarkeit](/mi-master-wtw/formate/#nutz---anwendbarkeit)-->
+Sind die Ergebnisse und Artefakte so aufbereitet, dass sie in der Praxis oder durch die Community nutzbar sind? Wurden verständliche und sinnvolle Strukturen für die Artefakte gewählt? Werden die Ergebnisse nachhaltig bereit gestellt. Werden Nutzungsbedingungen, z.B. Lizenzen der verschiedenen Artefakte aufgezeigt? Ist die Urheberschaft der einzelnen Artefakte und des gesamten Projekts erkennbar?
+
+#### Quellcode & Dokumentation
+<!-- [Quellcode & Dokumentation](/mi-master-wtw/formate/#quellcode--dokumentation) -->
+Wurde Quellcode verständlich strukutriert und dokumentiert? Gibt es eine Übersicht über die verschiedenen Artefakte und Komponenten? Wird klar, wie die verschiedenen Einzelteile zusammen hängen? Werden notwendige Voraussetzungen explizit gemacht?
+
+#### Zeitmanagement, Flexibilität, Motivation & Empathie (Workshops)
+<!-- [Zeitmanagement, Flexibilität, Motivation &amp; Empathie (Workshops)](zeitmanagement-flexibilität-motivation--empathie-workshops)-->
+Werden die Teilnehmer gut unterstützt? Wird Rücksicht auf verschiedenen Arbeits- und Lerngeschwindigkeiten genommen? Werden die Teilnehmer motiviert, ins Thema einzusteigen? Sind die Arbeitsanweisungen verständlich und eindeutig? Wird auf RÜckfragen und Probleme von Teilnehmern eingegangen?

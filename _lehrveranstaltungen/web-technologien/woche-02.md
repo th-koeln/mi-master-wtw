@@ -4,7 +4,7 @@ kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2018-04-17 13:00
+termine: 2019-04-09 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -18,17 +18,16 @@ info:
 - Themen für Technologiescouting festlegen
 - Anforderungen Frontend Stack ermitteln
 - Frontend Stack aufbauen
-- Shared Linklist Tool Projekt initialisieren
+- Review Entwicklungsprojekt(e)
 
 
 ## Was passiert heute?
 
 1. Diskussion über Vorgehen beim Technologiescouting
-1. Diskussion der Themenpakete und Pakete für persönliche Kompetenzentwicklung
 2. Themen für Technologiescouting diskutieren
-2. Vorstellung Projekt Sabine
+1. Diskussion der Themenpakete und Pakete für persönliche Kompetenzentwicklung
+2. Vorstellung persönliche Projekte
 3. Frontend Stack: Anforderungen erarbeiten, Stacks aufbauen und austesten
-4. Kick-off: Tool für WebDev Linklisten 
 
 ## Was muss vorbereitet werden?
 

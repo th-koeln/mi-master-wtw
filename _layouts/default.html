@@ -4,26 +4,33 @@
 {% include /partials/head.html %}
 
 <body data-url="{{page.url}}">
-    <section class="hero is-success is-medium">
-        <!-- Hero header: will stick at the top -->
-        {% include /partials/header.html %}
+  <section class="hero is-success is-medium">
+    <!-- Hero header: will stick at the top -->
+    {% include /partials/header.html %}
 
-        <!-- Hero content: will be in the middle -->
-        <div class="hero-body is-header">
-            <div class="container">
-                <h1 class="title is-1">
-                    {{ site.name }}
-                </h1>
-                <h2 class="subtitle is-3">
-                    {{ site.description }}
-                </h2>
-            </div>
-        </div>
-    </section>
+    <!-- Hero content: will be in the middle -->
+    {% assign teaserimage = page.bild %}
+    {% assign teaserclass = "" %}
+    {% if teaserimage == "" or teaserimage == nil %}
+    {% assign teaserimage = site.teaserimage | prepend: "/assets/images/" %}
+    {% assign teaserimage = teaserimage | prepend: site.baseurl %}
+    {% assign teaserclass = "has-gradient" %}
+    {% endif %}
+    <div class="hero-body is-header {{teaserclass}}" style="background-image: url({{teaserimage}});">
+      <div class="container">
+        <h1 class="title is-1">
+          {{ site.name }}
+        </h1>
+        <h2 class="subtitle is-3">
+          {{ site.description }}
+        </h2>
+      </div>
+    </div>
+  </section>
 
-    {{ content }}
+  {{ content }}
 
-    {% include /partials/footer.html %}
+  {% include /partials/footer.html %}
 
 </body>
 

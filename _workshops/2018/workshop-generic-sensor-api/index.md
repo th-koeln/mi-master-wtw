@@ -4,7 +4,7 @@ titel: Generic Sensor API
 datum: 2018-06-05
 modul: wd
 autor: Sascha Lemke
-bild: teaser.jpg
+bild: ../teaser.jpg
 bildcredits: Bild von Hamza Butt http://www.buynothingnew.org/2017/06/sole-treadmill-reviews.html
 art: workshop
 termin: Dienstag, 05. Juni 2018

@@ -5,7 +5,7 @@ datum: 2018-07-17
 modul: wd
 autor: Anatol Walger
 art: workshop
-bild: teaser.jpg
+bild: ../teaser.jpg
 bildcredits: https://www.flickr.com/photos/wcouch/
 termin: Dienstag, 17. Juli 2018, 13:30 Uhr
 dauer: 120 Minuten
