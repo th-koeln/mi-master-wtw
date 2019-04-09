@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien: Snapshots Technologierecherche
+titel: Seminar Web-Technologien // Snapshots Technologierecherche
 kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
