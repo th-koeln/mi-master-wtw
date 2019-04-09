@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien - Thema folgt
+titel: Seminar Web-Technologien: Snapshots Technologierecherche
 kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
@@ -12,4 +12,15 @@ raum: 3.216
 info: 
 ---
 
+## Zielsetzung des Tages
+- Überblick über den Stand der Technologierecherche zu bekommen
+- Themen ggf. nachschärfen und ausrichten
+- Wissentransfer im Team
+
+## Was passiert heute?
+- Snapshots/ Kurzvorträge zum aktuellen Stand
+- Diskussion der Themen und deren Passgenauigkeit
+
+## Was muss vorbereitet werden?
+Jeder muss einen Kurzvortrag (max. 7 Minuten) zum Stand seiner Recherche halten. Bitte nicht nur eine Übersicht geben, sondern auch konkrete Learnings ans Team weiter geben. Am Ende bitte drei bis fünf offene Fragen formulieren. Falls Material notwendig ist, dieses bitte ins Repo packen, so dass wir von einem Rechner aus präsentieren können. Andere Materialien sind SEHR willkommen.
 
