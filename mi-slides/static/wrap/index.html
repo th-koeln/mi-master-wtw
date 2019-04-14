@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+        <title>Demo für MI Slides</title>
+        <link rel="stylesheet" href="./css/reveal.css">
+        <link rel="stylesheet" href="./custom-themes/medieninformatik-semantic.css" id="theme">
+        <link rel="stylesheet" href="./css/highlight/Vs.css">
+        <link rel="stylesheet" href="./css/print/paper.css" type="text/css" media="print">
+
+		<script>
+		  document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] +
+		  ':35729/livereload.js?snipver=1"></' + 'script>')
+		</script>
+
+    </head>
+    <body>
+
+        <div class="reveal">
+            <div class="slides"><section  data-markdown><script type="text/template">
+
+<!-- .slide: data-background="#9313CE" -->
+<!-- .slide: class="welcome center" -->
+
+# MI Slides
+Kleine Beispielpräsentation für das Markdown Slidedeck Tool im Look der Medieninformatik
+
+</script></section><section  data-markdown><script type="text/template">
+
+<!-- .slide: class="simple center" -->
+
+## Worum geht es hier?
+
+Präsentieren macht Spaß, Präsenationen bauen nicht. Mir zumindest nicht. Ich erwische mich ständig dabeim wie ich in Keynote anfange Pixel zu schubsen und aus dem Ich-mach-mal-eben-ein-paar-Slides-für-morgen wird eine abendfüllende Beschäftigung.
+
+Also großer Markdown Fan und mittelgroßer reveal.js Fan habe ich dann mal ein kleines Mashup gemacht, in dem folgende Frameworks, Snippets und Ideen verbaut sind:
+* [reveal-md](https://github.com/webpro/reveal-md): Markdown Variante von [reveal.js](https://revealjs.com/)
+* Semantische Templates (dazu später mehr)
+* [Font Awesome Icons](https://fontawesome.com/icons)
+* MI Stylesheet 2K-18
+
+</script></section><section  data-markdown><script type="text/template">
+
+<!-- .slide: class="simple center" -->
+
+## Semantische Templates
+
+Um möglichst schnell zu einer lesbaren und ansehnlichen Präsentation zu kommen verwendet MI Slides Markdown. Die gesamte Präsentation liegt in einer einzigen Markdown Datei. 
+
+Damit man nicht in die Versuchung kommt Pixel zu schubsen, sind die Templates nicht formal, sondern eher semantische organisiert. Im Zentrum steht daher eher die Frage: **Was soll die Folie machen? Welche Funktion hat sie?** und weniger die Frage: **Wie soll die Folie aussehen?**
+
+
+</script></section><section  data-markdown><script type="text/template">
+
+<!-- .slide: class="simple center" -->
+
+## Templates und deren Funktion
+
+
+* welcome: die Startfolie
+* assignment: eine kleine Aufgabe
+* interlude: Zwischenstop oder Störer
+* explanation: längere textuelle Erläuterung
+* image-fullscreen: ein großes Bild
+* tbc.
+
+</script></section><section  data-markdown><script type="text/template">
+
+<!-- .slide: class="simple center" -->
+
+## Kann das was?
+
+Bislang kann man mit dem Tool vor allem schnell mal ein paar einfache Textfolien machen. Na gut, Bilder gehen natürlich auch. Was geht und Wie es geht, findet sich in der [Doku](https://github.com/cnoss/mi-slides).
+
+Im Folgenden kommen ein noch paar Beispielfolien.
+
+</script></section><section ><section data-markdown><script type="text/template">
+
+<!-- .slide: class="assignment center" -->
+
+## <i class="fa fa-pencil" aria-hidden="true"></i>Fingerübung
+
+Nehmen Sie ein DIN A4 Blatt und falten Sie es mittig über die lange Seite. Zeichnen Sie dann im oberen Teil ein einfaches, aber möglichst charakteristisches Portrait von sich selbst. Danach zeichnen Sie auf der Rückseite eines von Ihrem Nebenmann.
+
+Tauschen Sie sich aus, vergleichen Sie die Portraits, wählen Sie das, welches Sie am Besten wieder gibt und ergänzen Sie es um die folgenden Angaben:
+* Ihren Vornamen
+* zwei Ihrer guten Eigenschaften
+* zwei Ihrer schlechten Eigenschaften
+* ein kurzes Statement, warum Sie ein guter Medieninformatiker sind oder werden
+
+Für die Aufgabe haben Sie ** 10 Minuten ** Zeit.
+
+</script></section><section data-markdown><script type="text/template"><!-- .element: class="fragment" -->
+
+<!-- .slide: data-background="#444433" -->
+<!-- .slide: class="interlude center" -->
+
+## What's up?
+Dies ist ein Zwischenstopp
+
+</script></section><section data-markdown><script type="text/template"><!-- .element: class="fragment" -->
+
+<!-- .slide: data-background="https://upload.wikimedia.org/wikipedia/commons/1/11/Honigberg-wald-1s.jpg" -->
+<!-- .slide: class="image-fullscreen center" -->
+
+
+</script></section><section data-markdown><script type="text/template"><!-- .element: class="fragment" -->
+
+<!-- .slide: data-background="img/IMG_6024.jpg" -->
+<!-- .slide: class="image-fullscreen center" -->
+
+## Das geht auch mit Text und so.
+
+</script></section><section data-markdown><script type="text/template"><!-- .element: class="fragment" -->
+
+<!-- .slide: data-transition="convex" data-background-transition="scroll" data-background="#dddddd" -->
+<!-- .slide: class="explanation center" -->
+
+## Szenario: Beispieltext 
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum
+
+
+> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+
+
+</script></section><section data-markdown><script type="text/template"><!-- .element: class="fragment" -->
+
+<!-- .slide: class="assignment center" -->
+
+## <i class="fa fa-fa-question-circle-o" aria-hidden="true"></i>**Aufgabe 1:** Szenario verstehen
+
+Analysieren Sie Ihr Szenario und entwickeln Sie eine Herangehensweise an das Problem. Identifizieren Sie notwendiges Know-How und formulieren Sie Fragen für ein erstes Sondierungsgespräch.
+
+Für die Aufgabe haben Sie ** 5 Minuten ** Zeit. 
+
+
+
+</script></section></section><section  data-markdown><script type="text/template">
+
+<!-- .slide: data-background="#9313CE" -->
+<!-- .slide: class="outro center" -->
+
+## Danke für's Mitmachen
+
+<i class="fa fa-twitter" aria-hidden="true"></i>[twitter.com/cnoss](http://twitter.com/cnoss)  
+<i class="fa fa-facebook" aria-hidden="true"></i>[www.facebook.com/cnoss](https://www.facebook.com/cnoss)</script></section></div>
+        </div>
+
+        <script src="./lib/js/head.min.js"></script>
+        <script src="./js/reveal.js"></script>
+
+        <script>
+            function extend() {
+              var target = {};
+              for (var i = 0; i < arguments.length; i++) {
+                var source = arguments[i];
+                for (var key in source) {
+                  if (source.hasOwnProperty(key)) {
+                    target[key] = source[key];
+                  }
+                }
+              }
+              return target;
+            }
+
+            // Optional libraries used to extend on reveal.js
+            var deps = [
+              { src: './lib/js/classList.js', condition: function() { return !document.body.classList; } },
+              { src: './plugin/markdown/marked.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+              { src: './plugin/markdown/markdown.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+              { src: './plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+              { src: './plugin/zoom-js/zoom.js', async: true },
+              { src: './plugin/notes/notes.js', async: true },
+              { src: './plugin/math/math.js', async: true }
+            ];
+
+            // default options to init reveal.js
+            var defaultOptions = {
+              controls: true,
+              progress: true,
+              history: true,
+              center: true,
+              transition: 'default', // none/fade/slide/convex/concave/zoom
+              dependencies: deps
+            };
+
+            // options from URL query string
+            var queryOptions = Reveal.getQueryHash() || {};
+
+            var options = {"transition":"slide","backgroundTransition":"zoom","center":false};
+            options = extend(defaultOptions, options, queryOptions);
+        </script>
+
+        <script src="./_assets/core/reveal-md-add-icons.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"></script>
+        <script>
+
+          fetch('https://raw.githubusercontent.com/wiki/th-koeln/mi-master-wtw/SS2019%3A-Technologierecherche-%E2%80%93-Kommunikation.md')
+          
+          .then(response => { return response.text() } )
+          .then(result => { 
+            console.log(result);
+            result = result.replace(/---(.*?)---/isg, "<section>$1</section>---");
+            var converter = new showdown.Converter(),
+              text = result,
+              html = converter.makeHtml(text);
+              document.getElementsByClassName("slides")[0].innerHTML = html;
+              console.log(html);
+          } );
+
+        </script>
+        <script>
+            Reveal.initialize(options);
+        </script>
+    </body>
+</html>
