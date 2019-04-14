@@ -28,6 +28,26 @@ Folgende Bewertungskriterien sind relevant:
 - [Form, Sprache & Stil](/mi-master-wtw/formate/#form-sprache--stil)
 
 
+## Vortrag/ Recherche
+
+Hierbei handelt es sich um eine Ausarbeitung zu einem Themenfeld, die im Rahmen eines Vortrags vorgestellt wird. Dazu sollte zusätzlich ein kurzes „Handout” als Markdownfile oder im Wiki erarbeitet werden.
+
+Folgende Angaben müssen enthalten sein:
+- Thema
+- Modul
+- Entstehungsjahr
+- Autor
+- Keywords
+- Zielgruppe
+
+Folgende Bewertungskriterien sind relevant:
+- [Recherche, Durchdringung & Substanz](/mi-master-wtw/formate/#recherche-durchdringung--substanz)
+- [Klarheit, Verständlichkeit & Richtigkeit](/mi-master-wtw/formate/#klarheit-verständlichkeit--richtigkeit)
+- [Nutz- & Anwendbarkeit](/mi-master-wtw/formate/#nutz---anwendbarkeit)
+- [Empirie & Wissenschaftlichkeit](/mi-master-wtw/formate/#empirie--wissenschaftlichkeit)
+- [Darstellung, Artikulationsfähigkeit & Eloquenz](/mi-master-wtw/formate/#darstellung-artikulationsfähigkeit--eloquenz)
+- [Form, Sprache & Stil](/mi-master-wtw/formate/#form-sprache--stil)
+
 ## Tutorial
 
 Hierbei handelt es sich um eine Anleitung oder interaktive Lern- oder Trainingseinheit zu einem Thema oder einer Technologie. Das Tutorial sollte vom Rezipienten in maximal 90 Minuten durchgearbeitet werden können. Dem Tutorial sollte ein kurzes Abstract vorangestellt werden, aus dem auch hervorgeht an welche Zielgruppe sich das Tutorial richtet, welche Kenntnisse und Voraussetzung gegeben sein müssen und was durch die Erarbeitung der Inhalte vermittelt wird. Das Dokument selbst sollte als Hypertext oder Markdown File bereit gestellt werden und relativ auf alle enthaltenen Ressourcen wie Grafiken und Bilder referenzieren. Sollte Videosequenzen enthalten sein, dann müssen diese über den Youtube Kanal der Medieninformatik verfügbar gemacht und ins Dokument eingebunden werden.
