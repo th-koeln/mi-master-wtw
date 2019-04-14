@@ -13,7 +13,7 @@ info:
 ---
 
 ## Zielsetzung des Tages
-- Überblick über den Stand der Technologierecherche zu bekommen
+- Überblick über den Stand der Technologierecherche bekommen
 - Themen ggf. nachschärfen und ausrichten
 - Wissentransfer im Team
 
@@ -22,5 +22,5 @@ info:
 - Diskussion der Themen und deren Passgenauigkeit
 
 ## Was muss vorbereitet werden?
-Jeder muss einen Kurzvortrag (max. 7 Minuten) zum Stand seiner Recherche halten. Bitte nicht nur eine Übersicht geben, sondern auch konkrete Learnings ans Team weiter geben. Am Ende bitte drei bis fünf offene Fragen formulieren. Falls Material notwendig ist, dieses bitte ins Repo packen, so dass wir von einem Rechner aus präsentieren können. Andere Materialien sind SEHR willkommen.
+Jeder muss einen Kurzvortrag (max. 7 Minuten) zum Stand seiner Recherche halten. Bitte nicht nur eine Übersicht geben, sondern auch konkrete Learnings ans Team weiter geben. Am Ende bitte drei bis fünf offene Fragen formulieren. Falls Material notwendig ist, dieses bitte ins Repo packen, so dass wir von einem Rechner aus präsentieren können.
 
