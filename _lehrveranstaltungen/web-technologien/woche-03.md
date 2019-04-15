@@ -22,5 +22,5 @@ info:
 - Diskussion der Themen und deren Passgenauigkeit
 
 ## Was muss vorbereitet werden?
-Jeder muss einen Kurzvortrag (max. 7 Minuten) zum Stand seiner Recherche halten. Bitte nicht nur eine Übersicht geben, sondern auch konkrete Learnings ans Team weiter geben. Am Ende bitte drei bis fünf offene Fragen formulieren. Falls Material notwendig ist, dieses bitte ins Repo packen, so dass wir von einem Rechner aus präsentieren können.
+Jeder Teilnehmer hält einen Kurzvortrag (max. 7 Minuten) zum Stand seiner Recherche halten. Bitte nicht nur eine Übersicht geben, sondern auch konkrete Learnings ans Team weiter geben. Am Ende bitte drei bis fünf offene Fragen formulieren. Falls Material notwendig ist, dieses bitte ins Repo packen, so dass wir von einem Rechner aus präsentieren können.
 
