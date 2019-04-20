@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien - Vorträge Technologierecherche Teil 1
+titel: Seminar Web-Technologien - Vorträge Technologierecherche
 kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
@@ -16,7 +16,7 @@ info:
 - Wissentransfer im Team zu den Themenfeldern der Technologierecherche
 
 ## Was passiert heute?
-- Vorträge zu den Themenfeldern der Technologierecherche
+- Vorträge zu folgenden Themenfeldern: Testing (Mario), E-Payment(Habib), CSS Architekturen & Frameworks(Oleksandra & Sabine), Sicherheit(Javad), Design Systems(Rami)
 - Diskussion über die Ergebnisse
 
 ## Was muss vorbereitet werden?

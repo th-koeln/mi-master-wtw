@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien - Vorträge Technologierecherche Teil 2
+titel: Seminar Web-Technologien - Workshops Technologierecherche Teil 1
 kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
@@ -16,8 +16,8 @@ info:
 - Wissentransfer im Team zu den Themenfeldern der Technologierecherche
 
 ## Was passiert heute?
-- Vorträge zu den Themenfeldern der Technologierecherche
+- Workshops zu folgenden Themen: Docker(Florian), PWA(Dennys)
 - Diskussion über die Ergebnisse
 
 ## Was muss vorbereitet werden?
-Jeder Teilnehmer hält einen Vortrag (max. 20 Minuten) zu den Ergebnissen seiner Recherche. Dazu bitte die [Rahmenangaben zur Recherche berücksichtigen](https://github.com/th-koeln/mi-master-wtw/wiki/SS2019:-Technologierecherche-f%C3%BCr-Projekt-Q)
+Jeder Teilnehmer bereitet einen Workshop (max. 90 Minuten) zu seinem Themenfeld vor. Materialien bitte ins Repo packen, alles weitere bitte als GitHub-Wiki Seite.
