@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien - Workshops Technologierecherche Teil 1
+titel: Seminar Web-Technologien - Workshops Technologierecherche Teil 2
 kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
@@ -16,7 +16,7 @@ info:
 - Wissentransfer im Team zu den Themenfeldern der Technologierecherche
 
 ## Was passiert heute?
-- Workshops zu GraphQL(Vimal & Dennis)
+- Workshops zu GraphQL(Vimal & Dennis), PWA(Dennys)
 - Diskussion über die Ergebnisse
 
 ## Was muss vorbereitet werden?
