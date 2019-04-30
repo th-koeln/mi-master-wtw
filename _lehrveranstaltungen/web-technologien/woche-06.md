@@ -16,7 +16,7 @@ info:
 - Wissentransfer im Team zu den Themenfeldern der Technologierecherche
 
 ## Was passiert heute?
-- Workshops zu folgenden Themen: Docker(Florian), PWA(Dennys)
+- Workshops zu folgenden Themen: Docker(Florian)
 - Diskussion über die Ergebnisse
 
 ## Was muss vorbereitet werden?
