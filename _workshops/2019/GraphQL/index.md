@@ -14,7 +14,7 @@ raum: 3.217
 
 
 
-In diesem Workshop befassen wir uns mit den Grundlagen von GraphQL. GraphQL ist die Spezifikation einer stark typisierten Abfragesprache für APIs und der serverseitigen Laufzeitumgebung für die Ausführung solcher Abfragen. Hierbei wird zunächst beleuchtet, wie ein Client Daten vom Server anfragen kann und anschließend die serverseitige Implementierung näher betrachtet.
+In diesem Workshop befassen wir uns mit den Grundlagen von GraphQL. GraphQL ist die Spezifikation einer stark typisierten Abfragesprache für APIs und der serverseitigen Laufzeitumgebung für die Ausführung solcher Abfragen. Hierbei wird zunächst mithilfe des GraphQL-Playgrounds beleuchtet, wie ein Client Daten vom Server anfragen kann und anschließend die serverseitige Implementierung mit GraphQL-Yoga näher betrachtet.
 
 
 ## Voraussetzungen
