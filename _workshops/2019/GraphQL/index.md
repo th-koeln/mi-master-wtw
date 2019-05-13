@@ -28,4 +28,5 @@ In diesem Workshop befassen wir uns mit den Grundlagen von GraphQL. GraphQL ist 
 Dieser Workshop richtet sich an Entwickler, welche bereits Erfahrungen in der Webentwicklung gesammelt haben und eine gelungene Alternative zum klassischen REST-Architekturstil kennenlernen möchten.
 
 ## Material
-tdb.
+- [GraphQL_Cheatsheet](../material/GraphQL_Cheatsheet.pdf)
+- [Projekt](../material/GraphQL_Workshop.zip)
