@@ -27,4 +27,5 @@ Dieser Workshop befasst sich mit den Grundlagen des Service Workers. Dabei werde
 Dieser Workshop richtet sich an Entwickler und Technikinteressierte, welche in die Thematik der Service Worker eintauchen möchten.
 
 ## Material
-folgt in kürze…
+- [Folien](../material/service-worker_folien.pdf)
+- [Code](../material/NewsPWA.zip)
