@@ -1,4 +1,4 @@
-{% assign workshops = site.workshops %}
+{% assign workshops = (site.workshops | sort: 'datum') | reverse %}
 
 <div class="news-box">
   <h2 class="is-underlined">Die letzten Workshops und Tutorials</h2>
