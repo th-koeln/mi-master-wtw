@@ -29,3 +29,4 @@ Dieser Workshop richtet sich an Entwickler und Technikinteressierte, welche in d
 ## Material
 - [Folien](../material/service-worker_folien.pdf)
 - [Code](../material/NewsPWA.zip)
+- [Code-Lösung](../material/NewsPWALösung.zip)
