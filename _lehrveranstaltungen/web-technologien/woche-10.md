@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien - Vorstellung/ Diskussion Lösung der Challenge Multisite MI News (wird noch herausgegeben)
+titel: Seminar Web-Technologien - Follow Up Workshop GraphQL, Vortrag E-Payment, Zusammenfassung/ Entscheidungen Tech-Analyse
 kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
@@ -13,14 +13,16 @@ info:
 ---
 
 ## Zielsetzung des Tages
-- alle Teilnehmer haben sich mit der Challenge Multisite MI News  befasst und eine Lösung implementiert
-- alle Teilnehmer sind in der Lage ihren Lösungsansatz vorzustellen und zu bewerten
-- alle Teilnehmer können über die vorgestellten Lösungen diskutieren
-
+- alle Teilnehmer haben eine Übersicht über die serverseitige Implementierung einer GraphQL Schnittstelle
+- alle haben einen Überblick über die recherchierten Technologiethemen
+- alle Teilnehmer können an der Entscheidungsfindung zur Technlogieauswahl teilhaben
 
 ## Was passiert heute?
-- Vorstellung Lösung der Challenge Multisite MI News (wird noch herausgegeben)
-- Diskussion über die unterschiedlichen Lösungsansätze und -strategien
+- Follow-Up Workshop zu GraphQL
+- Entscheidungsfindung Tech-Stack Projekt „Q”
+- ggf. Q/A Session zu Microservices
 
 ## Was muss vorbereitet werden?
-- Lösung zur Challenge erarbeiten und im Wiki dokumentieren
+- Recherchierten Tech Themen noch mal reviewen
+- Frageliste zu den Tech Themen vorbereitet
+- Technologieentscheidung für das eigene Themenfeld vorbereiten
