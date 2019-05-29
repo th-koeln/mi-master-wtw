@@ -1,6 +1,6 @@
 ---
 layout: workshop
-titel: GraphQL Grundlagen Part 1: Client
+titel: GraphQL Grundlagen Part 1 - Client
 datum: 2019-05-14
 modul: wd
 autor: Vimal Darius Seetohul & Dennis Dubbert

@@ -1,6 +1,6 @@
 ---
 layout: workshop
-titel: GraphQL Grundlagen Part 2: Server
+titel: GraphQL Grundlagen Part 2 - Server
 datum: 2019-06-04
 modul: wd
 autor: Dennis Dubbert & Vimal Darius Seetohul
