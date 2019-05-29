@@ -3,12 +3,12 @@ layout: workshop
 titel: GraphQL Grundlagen Part 2 - Server
 datum: 2019-06-04
 modul: wd
-autor: Dennis Dubbert & Vimal Darius Seetohul
+autor: Dennis Dubbert
 bild: ../teaser.jpg
 bildcredits: Screenshot von GraphQL-Voyager (https://github.com/APIs-guru/graphql-voyager)
 art: workshop
 termin: Dienstag, 04. Juni 2019, 13:00 Uhr
-dauer: 90 - 105 Minuten
+dauer: 90 - 120 Minuten
 raum: 3.217
 ---
 
