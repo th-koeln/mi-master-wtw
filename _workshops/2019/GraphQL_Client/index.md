@@ -1,6 +1,6 @@
 ---
 layout: workshop
-titel: GraphQL Grundlagen
+titel: GraphQL Grundlagen Part 1: Client
 datum: 2019-05-14
 modul: wd
 autor: Vimal Darius Seetohul & Dennis Dubbert
@@ -14,7 +14,7 @@ raum: 3.217
 
 
 
-In diesem Workshop befassen wir uns mit den Grundlagen von GraphQL. GraphQL ist die Spezifikation einer stark typisierten Abfragesprache für APIs und der serverseitigen Laufzeitumgebung für die Ausführung solcher Abfragen. Hierbei wird zunächst mithilfe des GraphQL-Playgrounds beleuchtet, wie ein Client Daten vom Server anfragen kann und anschließend die serverseitige Implementierung mit GraphQL-Yoga näher betrachtet.
+In diesem Workshop befassen wir uns mit den Grundlagen von GraphQL. GraphQL ist die Spezifikation einer stark typisierten Abfragesprache für APIs und der serverseitigen Laufzeitumgebung für die Ausführung solcher Abfragen. Hierzu ist der Workshop wiederum in zwei aufeinander aufbauende Abschnitte / Präsentationen aufgeteilt. In diesem (dem ersten Abschnitt), wird zunächst beleuchtet, wie eine GraphQL-Schnittstelle aufgebaut ist, aus welchen Bestandteilen sie sich zusammen setzt und wie ein Client Daten vom Server anfragen kann (mithilfe des GraphQL-Playgrounds). Der zweite Abschnitt (Workshop 2) befasst sich anschließend mit der serverseitigen Implementierung solch einer Schnittstelle.
 
 
 ## Voraussetzungen
@@ -29,5 +29,5 @@ Dieser Workshop richtet sich an Entwickler, welche bereits Erfahrungen in der We
 
 ## Material
 - [GraphQL_Cheatsheet](../material/GraphQL_Cheatsheet.pdf)
-- [Projekt](../material/GraphQL_Workshop.zip) (auch auf [GitHub](https://github.com/ddubbert/GraphQL_Workshop))
+- [Projekt](../material/GraphQL_Workshop.zip)
 - [Präsentation](../material/Workshop_Presentation.pdf)
