@@ -30,4 +30,5 @@ Dieser Workshop richtet sich an Entwickler, welche bereits Erfahrungen in der We
 
 ## Material
 - [GraphQL_Cheatsheet](../material/GraphQL_Cheatsheet.pdf)
-- [Projekt](../material/GraphQL_Workshop.zip) (auch auf [GitHub](https://github.com/ddubbert/GraphQL_Workshop))
+- [Projekt](../material/GraphQL_Workshop.zip)
+- [Präsentation](../material/Workshop_Presentation.pdf)
