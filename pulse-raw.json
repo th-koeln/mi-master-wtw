@@ -1,0 +1,5 @@
+---
+---
+
+{% assign workshops=site.workshops|sort:'datum' |reverse %}
+{{ workshops | jsonify }},

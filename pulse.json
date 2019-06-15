@@ -1,0 +1,26 @@
+---
+---
+[
+{% assign workshops=site.workshops|sort:'datum' |reverse %}
+{% for item in  workshops %}
+{
+  "title": "{{ item.titel }}",
+  "datum": "{{ item.datum }}",
+  "termin": "{{ item.termin }}",
+  "autor": "{{ item.autor }}",
+  "raum": "{{ item.raum }}",
+  "dauer": "{{ item.dauer }}",
+  "art": "{{ item.art }}",
+  "bild": "{{site.deployurl}}{{site.baseurl}}{{item.url}}{{ item.bild }}",
+  "bildcredits": "{{ item.bildcredits }}",
+  "url": "{{site.deployurl}}{{site.baseurl}}{{item.url}}",
+  "id": "{{ item.id }}",
+  "content": {{ item.content | jsonify }},
+  "excerpt": {{ item.excerpt | jsonify }},
+  "category": "{{ item.category }}",
+  "collection": "{{ item.collection }}",
+  "tags": "{{ item.tags }}"
+}
+{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
