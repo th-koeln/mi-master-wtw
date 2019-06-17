@@ -25,3 +25,7 @@ info:
 ## Was muss vorbereitet werden?
 - Fetch API sollte implementiert werden können
 - erste Gehversuche in ReactJS sollten bereits absolviert sein
+
+## Material
+- [Folien JAMstack](https://cnoss.github.io/talks/2018-jam-stack/#/)
+- [Classroom StarterPack](https://classroom.github.com/a/e8mhNeaZ)
