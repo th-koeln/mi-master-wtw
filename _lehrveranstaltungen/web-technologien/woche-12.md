@@ -29,3 +29,5 @@ info:
 ## Material
 - [Folien JAMstack](https://cnoss.github.io/talks/2018-jam-stack/#/)
 - [Classroom StarterPack](https://classroom.github.com/a/e8mhNeaZ)
+- [Minitutorial React Newsfeed](https://www.youtube.com/watch?v=3UtvN8EBGpg)
+- [Starterpack mit Vanilla und schlechte React Lösung](https://github.com/cnoss/mi-master-wtw-newsfeed-starterpack)
