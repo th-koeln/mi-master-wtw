@@ -26,4 +26,11 @@ Dieser Workshop gibt Starthilfe in React als UI-Framework. Hierbei starten wir n
 Dieser Workshop richtet sich an Entwickler, die sich bereits ein wenig in React eingearbeitet haben und jetzt so richtig loslegen wollen, dabei aber nicht unbedingt jedes Fettnäpfchen mitnehmen möchten.
 
 ## Material
-tbd.
+- [Codesandbox](https://codesandbox.io/)
+- [Folien Intro](../material/0-intro.pdf)
+- [Folien Webpack, Babel & Frameworks](../material/1-webpack-babel-frameworks.pdf)
+- [Folien Komponenten strukturieren](../material/2-komponenten-strukturieren.pdf)
+- [Folien Projekte strukturieren](../material/3-projekte-strukturieren.pdf)
+- [Folien Styling CSS in JS](../material/4-styling-css-in-js.pdf)
+- [Folien Code Quality & Testing](../material/5-code-quality-testing.pdf)
+- [Folien Verschiedenes](../material/6-verschiedenes.pdf)

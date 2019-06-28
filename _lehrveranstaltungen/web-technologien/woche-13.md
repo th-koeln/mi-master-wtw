@@ -12,4 +12,6 @@ raum: 3.216
 info: 
 ---
 
-[ReactJS Workshop](https://th-koeln.github.io/mi-master-wtw/workshops/2019/ReactBestPractices/index/) mit [Timo](https://www.digitale-leute.de/kurzinterviews/timo-maemecke/). Weitere Infos folgen.
+[ReactJS Workshop](https://th-koeln.github.io/mi-master-wtw/workshops/2019/ReactBestPractices/index/) mit [Timo](https://www.digitale-leute.de/kurzinterviews/timo-maemecke/). 
+
+Weitere Infos und Workshopmaterial findet sich auf der [Aktuellmeldung zum Workshop](/mi-master-wtw/workshops/2019/ReactBestPractices/index/).
