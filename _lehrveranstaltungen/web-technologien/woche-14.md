@@ -34,7 +34,7 @@ Folgende Themen stehen zu Auswahl:
 ## Material
 
 - [Removing Friction In UX: Last-Minute Travel Planning And Activity Booking (A Case Study)](https://www.smashingmagazine.com/2017/08/removing-friction-ux-last-minute-travel-planning-activity-booking/)
-- [Sven Schiffer: Identiﬁkation und Evaluation von Maßnahmen zur efﬁzienten Performanceoptimierung eines web-basierten Buchungsprozesses](material/pp-dokumentation-sven_schiffer.pdf)
+- [Sven Schiffer: Identiﬁkation und Evaluation von Maßnahmen zur efﬁzienten Performanceoptimierung eines web-basierten Buchungsprozesses](../material/pp-dokumentation-sven_schiffer.pdf)
 - [Bandwidth Calculator](https://www.omnicalculator.com/other/bandwidth)
 - [2G, 3G, 4G & 5G Download Speeds](https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning)
 - [Lighthouse Extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=de)
