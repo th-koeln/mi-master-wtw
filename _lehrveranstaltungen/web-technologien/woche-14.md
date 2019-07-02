@@ -30,3 +30,8 @@ Folgende Themen stehen zu Auswahl:
 
 - Überarbeitung des Hacks von vor zwei Wochen (MI News Integration). Diesmal mit dem Wissen aus dem React Workshop
 - HandsOn PageSpeed Analyse und Optimierung
+
+## Material
+- [Sven Schiffer: Identiﬁkation und Evaluation von Maßnahmen zur efﬁzienten Performanceoptimierung eines web-basierten Buchungsprozesses](material/pp-dokumentation-sven_schiffer.pdf)
+- [Bandwidth Calculator](https://www.omnicalculator.com/other/bandwidth)
+- [2G, 3G, 4G & 5G Download Speeds](https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning)
