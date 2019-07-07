@@ -289,3 +289,69 @@ markdownAjax.print = function(httpRequest, id){
     }
   }
 }  
+
+
+/*
+const octokit = new Octokit({
+  previews: [
+    'mercy-preview'
+  ]
+})
+
+
+octokit.paginate('GET /repos/:owner/:repo/issues', { owner: 'th-koeln', repo: 'mi-master-wtw' })
+  .then(issues => { console.log(JSON.stringify(issues));})
+
+*/
+
+ 
+
+const showIssues = {};
+showIssues.data = {};
+showIssues.data.thisTerm = "LP-Thema-SS2019";
+showIssues.data.target = false;
+showIssues.data.template = `
+  <div>
+    <h3>{{title}}</h3>
+  </div>
+`;
+showIssues.func = (function() {
+
+  let exports = {};
+  let _data = showIssues.data;
+
+  exports.init = function (target) {
+    
+    _data.target = target;
+
+    const octokit = new Octokit()
+
+    octokit.paginate('GET /repos/:owner/:repo/issues', { owner: 'th-koeln', repo: 'mi-master-wtw' })
+    .then(issues => {
+      return issues.filter(item => {
+        let isThisTerm = item.labels.find(function (label) { return label.name === _data.thisTerm; });
+        return (isThisTerm !== undefined);
+      });
+    })
+    .then(issues => { renderIssues(issues) })
+  }
+  
+
+  renderIssues = function (issues) {
+    
+    let target = document.querySelector("#" + _data.target);
+    let res = [];
+    issues.forEach(issue => { 
+      let snip = _data.template;
+      snip = snip.replace(/{{title}}/, issue.title );
+      res.push(snip);
+    });
+
+    target.innerHTML = res.join("\n");
+  }
+
+
+    return exports;
+})();
+
+//showIssues.func.init("modulbeschreibung");
