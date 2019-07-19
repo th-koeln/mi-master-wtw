@@ -23,5 +23,6 @@ Dieser Workshop befasst sich mit den Grundlagen der Containerisierung via Docker
 Dieser Workshop richtet sich an Entwickler und Technikinteressierte, welche die einen Einstieg in die Welt der Containerisierung suchen.
 
 ## Material
-- [Slidedeck](https://docker.informatik.koeln)
-- [Code](https://docker.informatik.koeln/docker-workshop.zip)
+- [Slidedeck](../material/)
+- [Code](../material/docker-workshop-code.zip)
+- [Lösungen](../material/docker-workshop-loesungen.zip)

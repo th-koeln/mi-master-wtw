@@ -1,0 +1,844 @@
+@charset 'UTF-8';
+/**
+ * Renewed Medieninformatik theme for reveal.js.
+ * This templete file was created to not mess up with the existing presentations
+ * while developing the new theme.
+ *
+ * Copyright (C) 2015 TH Köln http://www.medieninformatik.fh-koeln.de
+ *
+ * Designguide: http://www.medieninformatik.fh-koeln.de/website/general/general/designguide_3/de/de_designguide_articl_1.php
+ */
+
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:400,500|Roboto+Mono');
+/*********************************************
+ * GLOBAL STYLES
+ *********************************************/
+
+body
+{
+    background-color: #fbfbfb;
+    background-color: #fbfbfb;
+    background-image: url('../../images/vieldrin-black.png');
+    background-repeat: no-repeat;
+    background-position: 20px 95%;
+    background-size: 15%;
+}
+
+.reveal
+{
+    font-family: 'PT Sans', Arial, Helvetica, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+
+    color: #231f20;
+}
+
+::selection
+{
+    color: #fff;
+    background: #7c0;
+    text-shadow: none;
+}
+
+::-moz-selection
+{
+    color: #fff;
+    background: #7c0;
+    text-shadow: none;
+}
+
+.reveal .slides > section,
+.reveal .slides > section > section
+{
+    font-weight: inherit;
+    line-height: 1.3;
+}
+
+/*********************************************
+ * HEADERS
+ *********************************************/
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6
+{
+    font-family: 'Roboto Slab', Impact, sans-serif;
+    font-weight: 700;
+    line-height: 110%;
+
+    margin: 0 0 20px 0;
+
+    letter-spacing: normal;
+    text-transform: normal;
+    word-wrap: break-word;
+
+    color: #d16;
+    text-shadow: none;
+}
+
+.reveal h1 strong,
+.reveal h2 strong,
+.reveal h3 strong,
+.reveal h4 strong,
+.reveal h5 strong,
+.reveal h6
+{
+    display: inline-block;
+
+    padding: 0 .2em .2em .2em;
+
+    color: #fff;
+    background-color: #000;
+}
+
+.reveal h1
+{
+    font-size: 3.77em;
+    font-weight: 700;
+
+    letter-spacing: .1rem;
+}
+
+.reveal h2
+{
+    font-size: 2.11em;
+}
+
+.reveal h3
+{
+    font-size: 1.55em;
+}
+
+.reveal h4
+{
+    font-size: 1em;
+}
+
+
+/*********************************************
+ * OTHER
+ *********************************************/
+
+.reveal p
+{
+    line-height: 1.3;
+
+    margin: 20px 0;
+}
+
+/* Ensure certain elements are never larger than the slide itself */
+
+.reveal img,
+.reveal video,
+.reveal iframe
+{
+    max-width: 100%;
+    max-height: 70%;
+    object-fit: cover;
+
+    display: block;
+    margin-top: -20px !important;
+    margin-bottom: 20px;
+}
+
+.reveal strong,
+.reveal b
+{
+    font-weight: bold;
+}
+
+.reveal em
+{
+    font-style: italic;
+}
+
+.reveal ol,
+.reveal dl,
+.reveal ul
+{
+    display: inline-block;
+
+    margin: 0 0 0 1em;
+
+    text-align: left;
+}
+
+.reveal ol
+{
+    list-style-type: decimal;
+}
+
+.reveal ul
+{
+    list-style-type: disc;
+}
+
+.reveal ul ul
+{
+    list-style-type: square;
+}
+
+.reveal ul ul ul
+{
+    list-style-type: circle;
+}
+
+.reveal ul ul,
+.reveal ul ol,
+.reveal ol ol,
+.reveal ol ul
+{
+    display: block;
+
+    margin-left: 40px;
+}
+
+.reveal dt
+{
+    font-weight: bold;
+}
+
+.reveal dd
+{
+    margin-left: 40px;
+}
+
+.reveal q,
+.reveal blockquote
+{
+    quotes: none;
+}
+
+.reveal blockquote
+{
+    font-style: italic;
+
+    position: relative;
+
+    display: block;
+
+    width: 70%;
+    margin: 20px auto;
+    padding: 5px;
+
+    background: rgba(255, 255, 255, .05);
+    box-shadow: 0 0 2px rgba(0, 0, 0, .2);
+}
+
+.reveal blockquote p:first-child,
+.reveal blockquote p:last-child
+{
+    display: inline-block;
+}
+
+.reveal q
+{
+    font-style: italic;
+}
+
+.reveal pre
+{
+    font-family: 'Roboto Mono', monospace;
+    font-size: .8em;
+    line-height: 1.2em;
+
+    position: relative;
+
+    display: block;
+
+    margin: 20px auto;
+
+    text-align: left;
+    word-wrap: break-word;
+
+    border-top: dotted 1px #ddd;
+    border-bottom: dotted 1px #ddd;
+}
+
+.reveal code
+{
+    font-family: monospace;
+}
+
+.reveal pre code
+{
+    font-family: 'Roboto Mono', monospace;
+
+    display: block;
+    overflow: auto;
+
+    max-height: 400px;
+    padding: 1em;
+
+    word-wrap: normal;
+}
+
+.reveal table
+{
+    margin: auto;
+
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+.reveal table th
+{
+    font-weight: bold;
+}
+
+.reveal table th,
+.reveal table td
+{
+    padding: .2em .5em .2em .5em;
+
+    text-align: left;
+
+    border-bottom: 1px solid;
+}
+
+.reveal table th[align='center'],
+.reveal table td[align='center']
+{
+    text-align: center;
+}
+
+.reveal table th[align='right'],
+.reveal table td[align='right']
+{
+    text-align: right;
+}
+
+.reveal table tbody tr:last-child th,
+.reveal table tbody tr:last-child td
+{
+    border-bottom: none;
+}
+
+.reveal sup
+{
+    vertical-align: super;
+}
+
+.reveal sub
+{
+    vertical-align: sub;
+}
+
+.reveal small
+{
+    font-size: .6em;
+    line-height: 1.2em;
+
+    display: inline-block;
+
+    vertical-align: top;
+}
+
+.reveal small *
+{
+    vertical-align: top;
+}
+
+/*********************************************
+ * LINKS
+ *********************************************/
+
+.reveal a
+{
+    -webkit-transition: color .15s ease;
+       -moz-transition: color .15s ease;
+            transition: color .15s ease;
+    text-decoration: none;
+
+    color: #4952e1;
+}
+
+.reveal a:hover
+{
+    color: #a1a5ef;
+    border: none;
+    text-shadow: none;
+}
+
+.reveal .roll span:after
+{
+    color: #fff;
+    background: #1f29be;
+}
+
+/*********************************************
+ * IMAGES
+ *********************************************/
+
+.reveal section img
+{
+    margin: 15px 0;
+
+    border: 4px solid #231f20;
+    background: rgba(255, 255, 255, .12);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .15);
+}
+
+.reveal section img.plain
+{
+    border: 0;
+    box-shadow: none;
+}
+
+.reveal a img
+{
+    -webkit-transition: all .15s linear;
+       -moz-transition: all .15s linear;
+            transition: all .15s linear;
+}
+
+.reveal a:hover img
+{
+    border-color: #4952e1;
+    background: rgba(255, 255, 255, .2);
+    box-shadow: 0 0 20px rgba(0, 0, 0, .55);
+}
+
+/*********************************************
+ * NAVIGATION CONTROLS
+ *********************************************/
+
+.reveal .controls
+{
+    right: 0;
+    bottom: 0;
+
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+
+.reveal .controls .navigate-left,
+.reveal .controls .navigate-left.enabled
+{
+    border-right-color: #4952e1;
+}
+
+.reveal .controls .navigate-right,
+.reveal .controls .navigate-right.enabled 
+{
+    border-left-color: #4952e1;
+}
+
+.reveal .controls .navigate-up,
+.reveal .controls .navigate-up.enabled
+{
+    border-bottom-color: #4952e1;
+}
+
+.reveal .controls .navigate-down,
+.reveal .controls .navigate-down.enabled
+{
+    border-top-color: #4952e1;
+}
+
+.reveal .controls .navigate-left.enabled:hover
+{
+    border-right-color: #a1a5ef;
+}
+
+.reveal .controls .navigate-right.enabled:hover
+{
+    border-left-color: #a1a5ef;
+}
+
+.reveal .controls .navigate-up.enabled:hover
+{
+    border-bottom-color: #a1a5ef;
+}
+
+.reveal .controls .navigate-down.enabled:hover
+{
+    border-top-color: #a1a5ef;
+}
+
+/*********************************************
+ * PROGRESS BAR
+ *********************************************/
+
+.reveal .progress
+{
+    background: rgba(0, 0, 0, .2);
+}
+
+.reveal .progress span
+{
+    -webkit-transition: width 800ms cubic-bezier(.26, .86, .44, .985);
+       -moz-transition: width 800ms cubic-bezier(.26, .86, .44, .985);
+            transition: width 800ms cubic-bezier(.26, .86, .44, .985);
+
+    background: #4952e1;
+}
+
+html
+{
+    box-sizing: border-box;
+}
+
+*,
+::before,
+::after
+{
+    box-sizing: inherit;
+}
+
+.reveal .slides
+{
+    text-align: left;
+}
+
+.reveal .slides img
+{
+    border: none;
+    box-shadow: none;
+}
+
+.reveal .slides img[alt=small]
+{
+    max-width: 10%;
+    max-height: 10%;
+}
+
+.reveal .slides p,
+.reveal .slides li,
+.reveal .slides th,
+.reveal .slides td
+{
+    line-height: 140%;
+}
+
+.reveal .slides h2
+{
+    color: #d16;
+}
+
+.reveal .slides h1 strong,
+.reveal .slides h2 strong
+{
+    color: #000;
+}
+
+.reveal .slides .has-dark-background *
+{
+    color: #fff;
+}
+
+.reveal .slides .svg-inline--fa,
+.reveal .slides .fa
+{
+    display: inline-block;
+    width: 1em;
+    padding-right: .5em;
+    color: #000;
+}
+
+.reveal .slides li
+{
+    display: block;
+
+    margin-bottom: .5em;
+}
+
+.reveal .slides li:before
+{
+    display: inline-block;
+
+    width: 1.2em;
+    margin-left: -1.2em;
+
+    content: '#';
+
+    color: #9313c3;
+}
+
+.reveal .slides blockquote
+{
+    font-style: normal;
+
+    position: relative;
+
+    width: 100%;
+    margin-bottom: 1em;
+    padding: 30px;
+
+    color: #fff;
+    border: solid 2px #9313c3;
+    border-radius: 5px;
+    background-color: #9313c3;
+}
+
+.reveal .slides blockquote:before
+{
+    content: none;
+}
+
+.reveal .slides blockquote:after
+{
+    position: absolute;
+    right: 30px;
+    bottom: -19px;
+
+    display: inline-block;
+
+    width: 0;
+    height: 0;
+
+    content: '';
+
+    border-top: 20px solid #9313c3;
+    border-right: 20px solid transparent;
+    border-left: 20px solid transparent;
+}
+
+.reveal .slides blockquote p
+{
+    margin: 0;
+}
+
+
+.reveal .slides .welcome h1,
+.reveal .slides .interlude h1,
+.reveal .slides .conclusion h1
+{
+    text-shadow: 0 0 10px rgba(0, 0, 0, .4);
+}
+
+.reveal .slides .welcome h1,
+.reveal .slides .welcome h2
+{
+    font-size: 3em;
+
+    padding-bottom: .5em;
+
+    border-bottom: solid 1px rgba(255, 255, 255, .5);
+}
+
+.reveal .slides .interlude > *
+{
+    text-align: center;
+}
+
+.reveal .slides .interlude h1 + *,
+.reveal .slides .interlude h2 + *
+{
+    max-width: 50%;
+    margin: auto;
+    margin-top: 1em;
+    padding-top: 1em;
+
+    border-top: solid 1px rgba(255, 255, 255, .5);
+}
+
+.reveal .slides .conclusion h1 + *,
+.reveal .slides .conclusion h2 + *
+{
+    margin-top: .5em;
+}
+
+.reveal .slides .conclusion li:before
+{
+    color: #000;
+}
+
+
+.reveal .slides .image-fullscreen > *,
+.reveal .slides .image > *,
+.reveal .slides .video > iframe
+{
+    display: inline-block;
+    padding: 1em;
+    color: #fff;
+    background-color: rgba(0, 0, 0, .6);
+}
+
+.reveal .slides .video > iframe
+{
+    width: 100%;
+    height: 50vH;
+    padding: 0;
+    margin-top: 1em !important;
+}
+
+.reveal .slides .image-text{
+    top: 0 !important;
+    background-color: rgba(250,250,250,0.9);
+    padding: 1em;
+    border: solid 1px rgba(0,0,0,0.5);
+}
+
+.reveal .slide-background.image,
+.reveal .slide-background.image-text
+{
+    background-size: contain;
+}
+
+.reveal .slides .assignment h1,
+.reveal .slides .assignment h2,
+.reveal .slides .simple h1,
+.reveal .slides .simple h2
+{
+    margin-bottom: 1em;
+    margin-left: 0;
+    padding-bottom: .5em;
+}
+
+.reveal .slides .assignment h1,
+.reveal .slides .assignment h2,
+.reveal .slides .simple h1,
+.reveal .slides .simple h2
+{
+    border-bottom: solid 1px rgba(0, 0, 0, .8);
+}
+
+.reveal .slides .assignment > *
+{
+    margin-left: 30%;
+}
+
+.reveal .slides .explanation h1,
+.reveal .slides .explanation h2
+{
+    margin-bottom: 1em;
+    margin-left: 0;
+    padding-bottom: .5em;
+}
+
+.reveal .slides .explanation > *
+{
+    margin-left: 30%;
+}
+
+.reveal .slides .explanation p,
+.reveal .slides .explanation td,
+.reveal .slides .explanation th,
+.reveal .slides .explanation li
+{
+    font-size: .8em;
+}
+
+.reveal .slides .explanation li
+{
+    display: block;
+
+    margin-bottom: .3em;
+}
+
+.reveal .slides .explanation li:before
+{
+    display: inline-block;
+
+    width: 1.2em;
+    margin-left: 0;
+
+    content: '-';
+
+    color: #000;
+}
+
+.reveal .slides .explanation blockquote
+{
+    font-weight: 100;
+
+    width: auto;
+    margin-top: 2em;
+    padding: 0;
+    padding-top: 2em;
+
+    color: #000;
+    border: none;
+    border-top: solid 1px #d16;
+    border-radius: 0;
+    background-color: transparent;
+    box-shadow: none;
+}
+
+.reveal .slides .explanation blockquote:after,
+.reveal .slides .explanation blockquote:before
+{
+    content: none;
+
+    border: none;
+}
+
+.reveal .slides .explanation blockquote p
+{
+    display: inline;
+}
+
+.reveal .controls button
+{
+
+
+    position: absolute;
+
+    height: 20px;
+
+    opacity: 1;
+    border: 0;
+}
+
+.reveal .controls button[disabled]
+{
+    opacity: .3;
+}
+
+.reveal .controls .navigate-up,
+.reveal .controls .navigate-down,
+.reveal .controls .navigate-left,
+.reveal .controls .navigate-right
+{
+    border-color: transparent !important;
+}
+
+.reveal .controls .navigate-up
+{
+    top: 2px;
+    left: 30px;
+}
+
+.reveal .controls .navigate-left
+{
+    top: 30px;
+    left: 5px;
+}
+
+.reveal .controls .navigate-down
+{
+    top: 55px;
+    left: 30px;
+}
+
+.reveal .controls .navigate-right
+{
+    top: 30px;
+    left: 60px;
+}
+
+.reveal.has-dark-background .controls button
+{
+    color: #fff !important;
+}
+
+.reveal.has-dark-background .controls button[disabled]
+{
+    opacity: .3;
+}
+
+.reveal .progress
+{
+    height: 10px;
+}
+
+.reveal .progress span
+{
+    background-color: #9313c3;
+}
