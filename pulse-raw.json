@@ -2,4 +2,4 @@
 ---
 
 {% assign workshops=site.workshops|sort:'datum' |reverse %}
-{{ workshops | jsonify }},
+{{ workshops | jsonify | replace: "datum", "date" }},
