@@ -5,7 +5,7 @@
 {% for item in  workshops %}
 {
   "title": "{{ item.titel }}",
-  "datum": "{{ item.datum }}",
+  "date": "{{ item.datum }}",
   "termin": "{{ item.termin }}",
   "autor": "{{ item.autor }}",
   "raum": "{{ item.raum }}",
