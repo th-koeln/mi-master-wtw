@@ -17,7 +17,7 @@ Im Lernportfolio werden alle Zwischen- und Endergebnisse gesammelt, die im Rahme
 
 
 ### Fachgespräch (mündliche Prüfung)
-Im Rahmen einer mündlichen Prüfung werden die Ergebnisse des Lernportfolios vorgestellt und diskutiert. Die Prüfung dauert maximal 20 Minuten. Bitte bereiten Sie sich dahingehend vor, die Ergebnisse und Aspekte Ihres 
+Im Rahmen einer mündlichen Prüfung werden die Ergebnisse des Lernportfolios vorgestellt und diskutiert. Die Prüfung dauert maximal 20 Minuten. Bitte bereiten Sie sich dahingehend vor, die Ergebnisse und interessanten Aspekte Ihres Lernportfolios vorzustellen und in einem kurzen Fachgespräch zu verteidigen und zu diskutieren. 
 
 
 
