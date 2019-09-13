@@ -16,8 +16,8 @@ Die Prüfungsleistung besteht aus einem individuellen Lernportfolio (70% der Ges
 Im Lernportfolio werden alle Zwischen- und Endergebnisse gesammelt, die im Rahmen der Veranstaltung erarbeitet wurden. Das Lernportfolio ist ein Git Repository, das öffentlich auf GitHub zugänglich ist. Alle Ergebnisse müssen über die zugehörige Github.io Seite des Repositories zugänglich sein. Es werden am Ende nicht alle Ergebnisse bewertet, sondern es wird individuell ausgehandelt, welche Endergebnisse bewertet werden. Insgesamt müssen die bewerteten Elemente des Portfolios einem Workload von mindestens 120 Stunden entsprechen. Aus dem Portfolio muss auch hervorgehen, welche Frameworks, Konzepte und wesentlichen Vorarbeit von Dritten für die Erstellung und Darstellung des Portfolios verwendet wurden. 
 
 
-### Mündliche/ Praktische Prüfung
-Im Rahmen einer mündlichen Prüfung werden ausgewählte Ergebnisse des Lernportfolios nochmals vorgestellt und diskutiert. 
+### Fachgespräch (mündliche Prüfung)
+Im Rahmen einer mündlichen Prüfung werden ausgewählte Ergebnisse des Lernportfolios nochmals vorgestellt und diskutiert. Die 
 
 
 
