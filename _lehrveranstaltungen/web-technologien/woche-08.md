@@ -1,15 +1,15 @@
 ---
 titel: keine Veranstaltung
-kuerzel: frei
+kuerzel: s-wt
 verantwortlich: cn
 typ: other
 pflicht: false
-termine: 2019-05-21 13:00
+termine: 2020-05-19 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
 raum: 3.216
-info: 
+info: Thema folgt
 ---
 
 

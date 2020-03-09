@@ -13,6 +13,7 @@ seminar:
 feedback:
   name: Feedback & Support 
   max-teilnehmer: 30
+  
 pruefung:
   name: Prüfung 
   max-teilnehmer: 120

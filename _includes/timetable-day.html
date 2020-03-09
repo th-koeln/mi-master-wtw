@@ -80,8 +80,9 @@
 						{% assign raumnummer = "" %}
 						<div class="column">
 							{% include /functions/resolve-types.html typ=veranstaltung.typ %}
-
+              {% if veranstaltung.typ != "other" %}
 							<a href="{{site.baseurl}}{{veranstaltung.url}}">
+              {% endif %}
 							<div class="veranstaltung {{veranstaltung.typ}}" style="margin-top: {{termin-start-min}}px;  height: {{veranstaltung.dauer}}px">
 								{% assign verantwortlich = veranstaltung.verantwortlich %}
 								{% if dozent != "" and dozent != nil %}
@@ -107,7 +108,9 @@
 								{% endif %}
 								
 							</div>
+							{% if veranstaltung.typ != "other" %}
 							</a>
+              {% endif %}
 						</div>
 						
 						{% assign dauer-in-std = veranstaltung.dauer | divided_by: 60 %}

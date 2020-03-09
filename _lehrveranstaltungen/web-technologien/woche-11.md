@@ -1,10 +1,10 @@
 ---
-titel: keine Veranstaltung
-kuerzel: frei
+titel: Seminar Web-Technologien
+kuerzel: s-wt
 verantwortlich: cn
-typ: other
+typ: seminar
 pflicht: false
-termine: 2019-06-11 13:00
+termine: 2020-06-09 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180

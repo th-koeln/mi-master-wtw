@@ -4,10 +4,10 @@ kuerzel: s-ko
 verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2019-04-02 14:00
+termine: 2020-03-31 14:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 120
+dauer: 180
 raum: 3.216
 info: 
 ---

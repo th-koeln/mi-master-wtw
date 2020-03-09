@@ -4,7 +4,7 @@ kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2019-07-02 13:00
+termine: 2020-06-30 14:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180

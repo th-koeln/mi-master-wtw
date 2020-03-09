@@ -1,10 +1,10 @@
 ---
-titel: Seminar Web-Technologien - Workshops Technologierecherche Teil 2
+titel: keine Veranstaltung
 kuerzel: s-wt
 verantwortlich: cn
-typ: seminar
+typ: other
 pflicht: false
-termine: 2019-05-14 13:00
+termine: 2020-05-12 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -12,12 +12,3 @@ raum: 3.216
 info: 
 ---
 
-## Zielsetzung des Tages
-- Wissentransfer im Team zu den Themenfeldern der Technologierecherche
-
-## Was passiert heute?
-- Workshops zu GraphQL(Vimal & Dennis), PWA(Dennys)
-- Diskussion über die Ergebnisse
-
-## Was muss vorbereitet werden?
-Workshopdauer max 120 Minuten. Materialien bitte ins Repo packen, alles weitere bitte als GitHub-Wiki Seite.
