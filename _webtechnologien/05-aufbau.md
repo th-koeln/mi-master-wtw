@@ -8,7 +8,7 @@ published: true
 
 ## Aufbau der Veranstaltung
 
-Die Veranstaltung zielt zusammengefasst auf die Erweiterung der Kompetenzen in vier Bereichen:
+Die Veranstaltung zielt zusammengefasst auf die Erweiterung der Kompetenzen in fünf Bereichen:
 - Strukturierung und Initialisierung eines Web-Projekts (structure)
 - Technische Ausrichtung eines Web-Projekts (direction)
 - Nachhaltige Entwicklung im Team und Weiterentwicklung des Teams (cooperation)
