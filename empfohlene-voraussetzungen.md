@@ -69,5 +69,5 @@ Zur Einflussnahme auf die Darstellung im Browser müssen Sie mit den wesentliche
 Javascript ist die Sprache des Browsers und sollte mindestens in den Grundzügen verstanden worden sein. Dazu gehören Elemente, wie Variablen, Schleifen oder Funktionen, aber auch die Prototype Chain, das *this* Keyword und Muster, wie Closures, DOM API und Eventlistener.
 
 ### Development Tools
-Darüber hinaus sollten Sie im Umgang mit den grundlegenden Entwicklungstools geübt sein: Developer Konsole im Browser, Taskrunner (Gulp, Grunt, NPM Script), IDE/ Editor, Package Managers (Yarn, NPM).
+Darüber hinaus sollten Sie im Umgang mit den grundlegenden Entwicklungstools geübt sein: Developer Konsole im Browser, Taskrunner (Gulp, Grunt, NPM Script), IDE/ Editor, Package Managers (Yarn, NPM). Kenntnisse in Containervirtualisierung (Docker) sind wünschenswert.
 
