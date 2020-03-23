@@ -8,7 +8,7 @@ termine: 2020-04-07 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: 3.216
+raum: https://conf.dfn.de/webapp/conference/979113104
 info: 
 ---
 
@@ -42,33 +42,11 @@ info:
 Bitte relavante Themen beim W3C sichten und bewerten, um diese vorstellen zu können. Möglichkeiten und Resourcen für sinnvolles Technologiescouting vorstellen.
 Hier noch eine interessante Quelle dazu: [Working Draft](http://workingdraft.de/)
 
-<!--
-### HUGO open-source static site generator
-Bei akuter Langeweile schon mal in [Hugo](https://gohugo.io/getting-started/quick-start/) einarbeiten.
--->
+## Online Session
+Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern als Online Veranstaltung.
 
-<!--
-### Zum Thema Frontend Stack
-- [Linting](https://survivejs.com/maintenance/code-quality/)
-- [Webpack](https://webpack.js.org/guides/getting-started/)
--->
+Wir treffen uns im oben angegebenen Raum. Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen können. Es werden voraussichtlich relativ viele Personen sein, die sich gleichzeitg in der Online Konferenz befinden. Das ist eine kleine Herausforderung. Um störende Nebengeräusche während der Veranstaltung zu vermeiden, gibt es folgende Dinge zu beachten:
 
-<!--
-- Frontend Framework? Vue, React, Angular, etc.?
-- CSS Methodologie
-- Frontend Dev Strategie/ Guidelines
-- Microservices
-- REST, GraphQL, MQTT
-- API Gateway
-- Authentifizierungstechniken
-- Progressive WebApps
-- Semantic Versioning, Git-Flow
-- Design System
-- Docker
-- TDD
-- Team Organisation/ ADR (https://github.com/joelparkerhenderson/architecture_decision_record)
-- Datenhaltung
-- Build Chain
-- http Ablauf
-- Teamrollen: Design Team, Frontend Team, Backend Team, DevOps, I/O, Gateway; Datenmodellierung
--->
+- benutzen Sie nach Möglichkeit ein Headset oder sorgen Sie dafür, dass Sie in einem ruhigen Raum sitzen
+- muten Sie bitte ihr Mikrofon, wenn Sie nicht sprechen
+- prüfen Sie bitte, am Besten vor der Veranstaltung, ob die korrekten Audio Ein- und Ausgabegeräte auf ihrem Computer eingestellt sind

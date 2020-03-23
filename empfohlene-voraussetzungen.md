@@ -6,13 +6,13 @@ titel: Empfohlene Voraussetzungen/ Kenntnisse und Fertigkeiten
 In diesem Schwerpunkt werden einschlägige Kenntnisse und Fertigkeiten im Bereich Web-Technologien und Web-Development vorrausgesetzt. 
 
 ## Datenstrukturen
-Sie sollten in der Lage sein Daten modellieren und strukturieren zu können und mindestens mit die folgenden Datenstrukturen vertraut sein: Objekte, (Linked) Lists, Arrays, Stacks, Queues, Graphen, Bäume und Hashtables.
+Sie sollten in der Lage sein Daten modellieren und strukturieren zu können und mindestens mit folgenden Datenstrukturen vertraut sein: Objekte, (Linked) Lists, Arrays, Stacks, Queues, Graphen, Bäume und Hashtables.
 
 ## Algorithmen
 Neben den Datenstrukturen gehören einige grundlegende Algorithmen zum Handwerkszeug: Suchen (Binary Search, Breadth First Search, Depth First Search, Hash Table), Sortieren(Merge Sort, Quick Sort, Heap Sort), Bäume(Inorder, Preorder und Postorder Traversal).
 
 ## Testing
-Sie sollten in der Lage sein die selbst entwickelte Software zu testen, um sicherzustellen, das diese auch wirklich funktioniert. Dazu sollten mindestens die folgenden Konzepte und damit einhergehende Technologien und Tools bekannt sein: Test Driven Development, Unit Tests und Debugging.
+Sie sollten in der Lage sein die selbst entwickelte Software zu testen, um sicherzustellen, dass diese auch wirklich funktioniert. Dazu sollten mindestens die folgenden Konzepte und damit einhergehende Technologien und Tools bekannt sein: Test Driven Development, Unit Tests und Debugging.
 
 ## Kommunikationstechnik
 Um im Web arbeiten zu können müssen sie einige Konzepte und Protokolle kennen. Hier sollten mindestens die folgenden bekannt sein: HTTP, HTTPS, SSH, OSI Model.
@@ -24,13 +24,13 @@ Neben der eigentlichen Realisierung eines Projekts ist oftmals auch dessen Perfo
 Das Terminal ist eines der wichtigsten Werkzeuge bei der Softwareentwicklung. Daher sollten mindestens die folgenden Unix Befehle bekannt sein (oder die dazugehörigen Windowsbefehle): cd, mv, mkdir, rm, pwd, ls, cat, find, grep, chmod, touch.
 
 ## Softwareentwicklung
-Dieser Abschnitt beschreibt einige allgemeine Grundlagen zur Softwareentwicklung. Einerseits sollten sie ein Verständnis für den Entwicklungsprozess als Ganzes mitbringen, andererseits sollte sie einige Techniken kennen, um seine Gedanken innerhalb des Entwicklungsprozess kommunizieren zu können.
+Dieser Abschnitt beschreibt einige allgemeine Grundlagen zur Softwareentwicklung. Einerseits sollten Sie ein Verständnis für den Entwicklungsprozess als Ganzes mitbringen, andererseits sollte Sie geeignete Techniken kennen, um Ihre Gedanken innerhalb des Entwicklungsprozess kommunizieren und dokumentieren zu können.
 
 ### Vorgehensmodelle
 Scrum oder die agile Entwicklungmethoden allgemein, werden häufig in Web Projekten eingesetzt. Daher sollte zumindest ein Verständnis für den Ablauf des Prozess vorhanden sein. Außerdem sollte man den Unterschied zum Wasserfallmodell kennen.
 
 ### Git und Github
-Software wird fast nie allein entwickelt. Um mit anderen zu arbeiten und nicht gegenseitig Änderungen vorzunehmen die nach zu Problemen führen gibt es Software für die Versionierung. Git und Github als defacto Standard in diesem Bereich sollten bekannt sein und problemlos angewendet werden können. Das bedeutet in diesem Fall auch die Anwendung im Terminal. Folgende Befehle/ Konzepte sollten Ihnen bekannt sein: git workflow, add & commit, push & pull, branching, update & merge, tagging, pull requests.
+Git und Github als defacto Standard im Web Development sollten bekannt sein und problemlos beherrscht werden. Das bedeutet in diesem Fall auch die Anwendung im Terminal. Folgende Befehle/ Konzepte sollten Ihnen bekannt sein: git workflow, add & commit, push & pull, branching, update & merge, tagging, pull requests.
 
 ### Semantic Versioning
 Änderungen an Software wird durch verschiedene Versionen dokumentiert. Eine der wichtigsten und geläufigsten Form der Versionierung ist «Semantic Versioning». Es sollte klar sein, wofür die einzelnen Zahlen bei einer Version stehen und man sollte selbst in der Lage sein die eigene Software zu versionieren.

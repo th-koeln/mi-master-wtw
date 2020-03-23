@@ -8,7 +8,7 @@ termine: 2020-03-31 14:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: 3.216
+raum: https://conf.dfn.de/webapp/conference/979113104
 info: 
 ---
 
@@ -60,17 +60,24 @@ Bereiten Sie Kurzvorstellungen von drei Ihrer bisherigen Web-Projekte vor. Hierb
 - Wie hätten die problematischen Teile gelöst werden können?
 - Wenn Sie das Projekt wiederholen müssten/ dürften, was würden Sie anders angehen und warum?
 
+## Online Session
+Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern als Online Veranstaltung.
+
+Wir treffen uns im oben angegebenen Raum. Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen können. Es werden voraussichtlich relativ viele Personen sein, die sich gleichzeitg in der Online Konferenz befinden. Das ist eine kleine Herausforderung. Um störende Nebengeräusche während der Veranstaltung zu vermeiden, gibt es folgende Dinge zu beachten:
+
+- benutzen Sie nach Möglichkeit ein Headset oder sorgen Sie dafür, dass Sie in einem ruhigen Raum sitzen
+- muten Sie bitte ihr Mikrofon, wenn Sie nicht sprechen
+- prüfen Sie bitte, am Besten vor der Veranstaltung, ob die korrekten Audio Ein- und Ausgabegeräte auf ihrem Computer eingestellt sind
+
 
 ### Material erarbeiten & sichten
 
-Bitte sichten Sie schon mal das Material für die nächsten Sessions. Machen Sie sich ein Bild von JAMstack:
-- [jamstack.org](https://jamstack.org/)
-- [Rise of the JAMstack — Mathias Biillman](https://youtu.be/uWTMEDEPw8c)
+Bitte sichten Sie schon mal das Material für die nächsten Sessions. Schärfen Sie Ihre Sicht auf das Thema «Website Performance»:
+- [Fast load times](https://web.dev/fast/)
 
 Machen Sie sich ein Bild von aktuellen Strömungen beim W3C:
-
 - (W3C: Standards and Drafts)[https://www.w3.org/TR/]
 - (W3C: Standards)[https://www.w3.org/standards/]
 
 ### Präsentationen & Beiträge der Teilnehmer
-
+-
