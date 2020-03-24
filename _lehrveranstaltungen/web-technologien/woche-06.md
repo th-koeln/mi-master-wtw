@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien - Workshops Technologierecherche Teil 1
+titel: Seminar Web-Technologien
 kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
@@ -13,11 +13,20 @@ info:
 ---
 
 ## Zielsetzung des Tages
+-
+<!--
 - Wissentransfer im Team zu den Themenfeldern der Technologierecherche
+-->
 
 ## Was passiert heute?
+-
+<!--
 - Workshops zu folgenden Themen: Docker(Florian)
 - Diskussion über die Ergebnisse
+-->
 
 ## Was muss vorbereitet werden?
+-
+<!--
 Jeder Teilnehmer bereitet einen Workshop (max. 90 Minuten) zu seinem Themenfeld vor. Materialien bitte ins Repo packen, alles weitere bitte als GitHub-Wiki Seite.
+-->

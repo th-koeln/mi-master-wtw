@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien - Retrospektive & Vorstellungen von Angeboten für der Lernportfolio
+titel: Seminar Web-Technologien
 kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
@@ -12,9 +12,42 @@ raum: 3.216
 info: 
 ---
 
-## Themen/ Challenges 
-Im Repo habe ich einige [Vorschläge für Themen und Challenges](https://github.com/th-koeln/mi-master-wtw/issues?q=is%3Aopen+is%3Aissue+label%3ALP-Thema-SS2019), die in der Vorlesungsfreien Zeit bearbeitet werden können. Eigene Vorschläge sind auch willkommen. Mehr dazu am Dienstag. 
-
 ## Zielsetzung des Tages
-- alle haben ein Review der Veranstaltung abgegeben und wir haben gemeinsam Ideen für den nächsten Durchlauf generiert
-- alle haben eine Idee, wie sie in der Vorlesungsfreien Zeit die notwendigen Artefakte für die Benotung zu erarbeiten
+-
+<!--
+- alle haben einen guten Überblick über die Startphase des Projekts
+- wir haben Teams und Arbeitspakete überprüft und ggf. neu ausgerichtet
+- wir haben einen kleine Programmiersportaufgabe gelöst
+-->
+
+## Was passiert heute?
+-
+<!--
+- Retrospektive zum Projektstart
+- Programmiersportaufgabe: hier stehen zwei Themen zur Auswahl (siehe unten)
+-->
+
+## Was muss vorbereitet werden?
+-
+<!--
+- jedes Team sollte seinen Projektteil kurz vorstellen und kritisch reflektieren
+-->
+
+## Programmiersportaufgabe
+-
+<!--
+Folgende Themen stehen zu Auswahl:
+
+- Überarbeitung des Hacks von vor zwei Wochen (MI News Integration). Diesmal mit dem Wissen aus dem React Workshop
+- HandsOn PageSpeed Analyse und Optimierung
+-->
+
+## Material
+-
+<!--
+- [Removing Friction In UX: Last-Minute Travel Planning And Activity Booking (A Case Study)](https://www.smashingmagazine.com/2017/08/removing-friction-ux-last-minute-travel-planning-activity-booking/)
+- [Sven Schiffer: Identiﬁkation und Evaluation von Maßnahmen zur efﬁzienten Performanceoptimierung eines web-basierten Buchungsprozesses](../material/pp-dokumentation-sven_schiffer.pdf)
+- [Bandwidth Calculator](https://www.omnicalculator.com/other/bandwidth)
+- [2G, 3G, 4G & 5G Download Speeds](https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning)
+- [Lighthouse Extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=de)
+-->

@@ -28,6 +28,7 @@ info:
 4. Entwicklung einer vorläufigen Zielsetzung für eigene Know-how Erweiterung im Anwendungsgebiet mit Hilfe der Developer Roadmap (alle)
 5. Vorstellung von drei eigenen Web-Dev Projekten (alle)
 6. Schnüren von Arbeitspaketen für die nächste Session (alle)
+7. Vorstellung des [«Beiboot» Projekts](https://github.com/mi-classroom/mi-master-wt-beiboot-2020) und dem zugehörigen [Assignment](https://classroom.github.com/a/jWiHQAor)
 
 ## Was muss vorbereitet werden?
 
@@ -60,16 +61,6 @@ Bereiten Sie Kurzvorstellungen von drei Ihrer bisherigen Web-Projekte vor. Hierb
 - Wie hätten die problematischen Teile gelöst werden können?
 - Wenn Sie das Projekt wiederholen müssten/ dürften, was würden Sie anders angehen und warum?
 
-## Online Session
-Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern als Online Veranstaltung.
-
-Wir treffen uns im oben angegebenen Raum. Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen können. Es werden voraussichtlich relativ viele Personen sein, die sich gleichzeitg in der Online Konferenz befinden. Das ist eine kleine Herausforderung. Um störende Nebengeräusche während der Veranstaltung zu vermeiden, gibt es folgende Dinge zu beachten:
-
-- benutzen Sie nach Möglichkeit ein Headset oder sorgen Sie dafür, dass Sie in einem ruhigen Raum sitzen
-- muten Sie bitte ihr Mikrofon, wenn Sie nicht sprechen
-- prüfen Sie bitte, am Besten vor der Veranstaltung, ob die korrekten Audio Ein- und Ausgabegeräte auf ihrem Computer eingestellt sind
-
-
 ### Material erarbeiten & sichten
 
 Bitte sichten Sie schon mal das Material für die nächsten Sessions. Schärfen Sie Ihre Sicht auf das Thema «Website Performance»:
@@ -81,3 +72,12 @@ Machen Sie sich ein Bild von aktuellen Strömungen beim W3C:
 
 ### Präsentationen & Beiträge der Teilnehmer
 -
+
+## Online Session
+Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern als Online Veranstaltung.
+
+Wir treffen uns im oben angegebenen Raum. Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen können. Es werden voraussichtlich relativ viele Personen sein, die sich gleichzeitg in der Online Konferenz befinden. Das ist eine kleine Herausforderung. Um störende Nebengeräusche während der Veranstaltung zu vermeiden, gibt es folgende Dinge zu beachten:
+
+- benutzen Sie nach Möglichkeit ein Headset oder sorgen Sie dafür, dass Sie in einem ruhigen Raum sitzen
+- muten Sie bitte ihr Mikrofon, wenn Sie nicht sprechen
+- prüfen Sie bitte, am Besten vor der Veranstaltung, ob die korrekten Audio Ein- und Ausgabegeräte auf ihrem Computer eingestellt sind

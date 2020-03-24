@@ -4,7 +4,7 @@ kuerzel: s-wt
 verantwortlich: cn
 typ: other
 pflicht: false
-termine: 2020-04-14 13:00
+termine: 2020-04-07 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
