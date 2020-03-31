@@ -72,11 +72,9 @@ Bitte sichten Sie schon mal das Material für die nächsten Sessions. Schärfen 
 - [Fast load times](https://web.dev/fast/)
 
 Machen Sie sich ein Bild von aktuellen Strömungen beim W3C:
-- (W3C: Standards and Drafts)[https://www.w3.org/TR/]
-- (W3C: Standards)[https://www.w3.org/standards/]
+- [W3C: Standards and Drafts](https://www.w3.org/TR/)
+- [W3C: Standards](https://www.w3.org/standards/)
 
-### Präsentationen & Beiträge der Teilnehmer
--
 
 ## Online Session
 Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern als Online Veranstaltung.
