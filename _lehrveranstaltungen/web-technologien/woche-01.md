@@ -12,6 +12,11 @@ raum: https://conf.dfn.de/webapp/conference/979113104
 info: 
 ---
 
+<!-- 
+## 31.03. Toolwechsel
+Wir müssen leider in diesen [Zoom Raum](https://zoom.us/j/728088470) wechseln.
+-->
+
 ## Zielsetzung des Tages
 
 - gemeinsames Bild des Moduls erarbeiten
