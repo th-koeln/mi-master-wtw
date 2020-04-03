@@ -8,14 +8,10 @@ termine: 2020-03-31 14:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: https://conf.dfn.de/webapp/conference/979113104
+raum: Online
 info: 
 ---
 
-<!-- 
-## 31.03. Toolwechsel
-Wir müssen leider in diesen [Zoom Raum](https://zoom.us/j/728088470) wechseln.
--->
 
 ## Zielsetzung des Tages
 
