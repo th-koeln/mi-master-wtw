@@ -40,13 +40,6 @@ Ich habe für das Modul einen Slack Kanal eingerichtet. Die Anmeldung zu diesem 
 1. Diskussion über Vorgehen beim Technologiescouting/ Technologierecherche
 2. Themen für Technologiescouting/ Technologierecherche diskutieren
 4. Codereview des erarbeiteten Beiboot Projekts (alle, jeweils 3-5 Min)
-<!--
-1. Diskussion über Vorgehen beim Technologiescouting
-2. Themen für Technologiescouting diskutieren
-1. Diskussion der Themenpakete und Pakete für persönliche Kompetenzentwicklung
-2. Vorstellung persönliche Projekte
-3. Frontend Stack: Anforderungen erarbeiten, Stacks aufbauen und austesten
--->
 
 Kurze Begriffsklärung: was ist der Unterschied zwischen **Technologiescouting** und **Technologierecherche**? Die **Technologierecherche** wird in Vorbereitung zum Entwicklungsprojekt (Projekt 2) durchgeführt, um fundierte Technologieentscheidungen für das Projekt treffen zu können. Das **Technologiescouting** ist unabhängig vom Entwicklungsprojekt. Hierbei geht es darum über den Tellerrand des persönlichen TechSets zu schauen und zu ermitteln, welche Technologien demnächst interessant/ relevant werden könnten. Beides kann die Basis für den **Workshop** bilden, den jeder Teilnehmer im Rahmen des Moduls erarbeiten und durchführen muss.
 
