@@ -86,3 +86,7 @@ Sichten Sie drei Themen im Rahmen des **Technologiescoutings**. Sie müssen in d
 - Testing
 - Migrationsstrategien
 
+## Themen aus der Veranstaltung
+- [Cranach Timeline](https://mm.tt/1469193494?t=IfZmtjwTBf)
+- [TechScouting- / Workshop Themen](https://mm.tt/1469214463?t=Btg6B7Dq9Y)
+- [Architecture decision record ](https://github.com/joelparkerhenderson/architecture_decision_record)
