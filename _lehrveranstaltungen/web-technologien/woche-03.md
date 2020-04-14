@@ -8,7 +8,7 @@ termine: 2020-04-14 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: https://zoom.us/j/568513072
+raum: Online
 info: 
 ---
 
