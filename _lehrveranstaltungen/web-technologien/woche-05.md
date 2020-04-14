@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien
+titel: Seminar Web-Technologien // Absprache Workshopthemen & Code Review Beiboot Projekt
 kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
@@ -8,7 +8,7 @@ termine: 2020-04-28 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: 3.216
+raum: Online
 info: 
 ---
 

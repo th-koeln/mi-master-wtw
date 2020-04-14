@@ -36,7 +36,7 @@ Ich habe für das Modul einen Slack Kanal eingerichtet. Die Anmeldung zu diesem 
 1. Vorstellung von drei eigenen Web-Dev Projekten (wer noch nicht vorgestellt hat, z.B. Herr Deimel, Frau Bertels)
 1. Vorstellung von drei Technologiescouting Themen (alle)
 2. Vorstellung der Ergebnisse aus Projekt 1 (Projektverantwortliche)
-3. Zusammenfassung der Roadmap wird vorgestellt und resultierende Themen besprochen (Christian Noss)
+3. Zusammenfassung der Roadmaps wird vorgestellt und resultierende Themen besprochen (Christian Noss)
 1. Diskussion über Vorgehen beim Technologiescouting/ Technologierecherche
 2. Themen für Technologiescouting/ Technologierecherche diskutieren
 4. Codereview des erarbeiteten Beiboot Projekts (alle, jeweils 3-5 Min)
@@ -66,5 +66,30 @@ Sichten Sie drei Themen im Rahmen des **Technologiescoutings**. Sie müssen in d
 - Vorstellung von drei eigenen Web-Dev Projekten (wer noch nicht vorgestellt hat, z.B. Herr Deimel, Frau Bertels)
 - Kurzpräsentation Projekt 1 (Projektverantwortliche)
 
+## Material
+- [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture_decision_record)
 
 {% include online-session.md %}
+
+## Zusammenfassung der Roadmaps
+
+### [Frontend Development](../../../images/WebTech-Roadmaps-frontend.png)
+- CSS Architekturen
+- Module Bundlers
+- Testing
+- PWA
+- Type Checkers
+- Mobile & Desktop Applications
+- Web Assembly 
+- Static Site Generators
+
+
+### [Backend Development](../../../images/WebTech-Roadmaps-backend.png)
+- neue Sprachen (Rust & Go)
+- NoSQL & Graph Datenbanken
+- Verschiedene Authentifizierungsmöglichkeiten
+- Search Engines (Elastic)
+- Docker
+- Testing
+- Migrationsstrategien
+

@@ -1,10 +1,10 @@
 ---
-titel: Seminar Web-Technologien // Absprache Technologiescouting & Technologierecherche
+titel: Projekt Weaving the Web // Kick-Off
 kuerzel: wt
 verantwortlich: cn
-typ: seminar
+typ: projekt
 pflicht: false
-termine: 2020-04-21 13:00
+termine: 2020-04-21 15:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90

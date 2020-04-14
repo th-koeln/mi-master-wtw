@@ -18,4 +18,8 @@ pruefung:
   name: Prüfung 
   max-teilnehmer: 120
 
+projekt:
+  name: Projekt 
+  max-teilnehmer: 120
+
   
