@@ -8,24 +8,19 @@ termine: 2020-04-21 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: Online
+raum: https://zoom.us/j/93541257222 (Zugangscode webtech)
 info: 
 ---
 
 ## Zielsetzung des Tages
--
-<!--
 - Überblick über den Stand der Technologierecherche bekommen
 - Themen ggf. nachschärfen und ausrichten
 - Wissentransfer im Team
--->
 
 ## Was passiert heute?
--
-<!--
 - Snapshots/ Kurzvorträge zum aktuellen Stand
 - Diskussion der Themen und deren Passgenauigkeit
--->
+
 
 ## Was muss vorbereitet werden?
 -
