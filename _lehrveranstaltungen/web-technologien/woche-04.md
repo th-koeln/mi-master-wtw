@@ -8,7 +8,7 @@ termine: 2020-04-21 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: https://zoom.us/j/93541257222 (Zugangscode webtech)
+raum: https://zoom.us/j/93541257222 (Zugangscode wtw)
 info: 
 ---
 
