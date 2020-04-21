@@ -8,7 +8,7 @@ termine: 2020-04-14 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: Online
+raum: https://zoom.us/j/93541257222 (Zugangscode webtech)
 info: 
 ---
 
@@ -23,13 +23,6 @@ Ich habe für das Modul einen Slack Kanal eingerichtet. Die Anmeldung zu diesem 
 - Themenfelder projektrelevante Technologierecherche & Technologiescouting erarbeiten
 - Codereviews
 
-<!--
-- Ziele für die persönliche Kompetenzentwicklung festlegen
-- Themen für Technologiescouting festlegen
-- Anforderungen Frontend Stack ermitteln
-- Frontend Stack aufbauen
-- Review Entwicklungsprojekt(e)
--->
 
 ## Was passiert heute?
 0. Fragen zum Modul beantworten.
