@@ -22,11 +22,12 @@ Zweiter Termin für das Projekt 2 im Schwerpunkt «Weaving the Web».
 
 ## Was passiert heute?
 - Teilnehmer stellen ihr Konzept von Teams vor
-- Teilnehmer stellen ihre Learings aus der Analyse des Status Quo vor
+- Teilnehmer stellen ihre Learnings aus der Analyse des Status Quo vor
 
 ## Was muss vorbereitet werden?
 Jeder Teilnehmer sollte zu folgenden Fragen kurz referieren können:
 - welche Herausforderungen sieht er/sie in dem Projekt?
 - wie sähe ein idealer Zuschnitt der Teams aus und warum sähe er so aus? 
 - welche groben Arbeitspakete sieht er/sie?
+- wie setzen wir das Projekt auf? (Architektur, Sprachen, Conventions/ Methodologien, etc.)
 
