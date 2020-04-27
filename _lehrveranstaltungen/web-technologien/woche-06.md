@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien
+titel: Feedbacktermin Web-Technologien // Rücksprache zu Workshop & Beibootprojekt
 kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
@@ -7,26 +7,18 @@ pflicht: false
 termine: 2020-05-05 13:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 180
+dauer: 120
 raum: 3.216
 info: 
 ---
 
+Dieser Termin ist optional und richtet sich an diejenigen, die Feedback/ Support zu ihrem Workshop oder dem Beiboot Projekt benötigen.
+
 ## Zielsetzung des Tages
--
-<!--
-- Wissentransfer im Team zu den Themenfeldern der Technologierecherche
--->
+- etwaige RÜckfragen/ Absprachen zu den einzelnen Workshops und dem Beiboot Projekt klären 
 
 ## Was passiert heute?
--
-<!--
-- Workshops zu folgenden Themen: Docker(Florian)
-- Diskussion über die Ergebnisse
--->
+- Besprechung der Workshops
 
 ## Was muss vorbereitet werden?
--
-<!--
-Jeder Teilnehmer bereitet einen Workshop (max. 90 Minuten) zu seinem Themenfeld vor. Materialien bitte ins Repo packen, alles weitere bitte als GitHub-Wiki Seite.
--->
+- Fragen :)

@@ -30,4 +30,6 @@ info:
   - Was müssen die Teilnehmer vorbereiten?
 - Beiboot Projekt mit der Integration der erforderlichen Issues.
 
-
+## Material
+- [Styleguide MI](https://www.medieninformatik.th-koeln.de/tools/styleguide/)
+- [Mi Slides](https://github.com/cnoss/mi-slides)
