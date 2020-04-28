@@ -1,5 +1,5 @@
 ---
-titel: Projekt Weaving the Web // Kick-Off
+titel: Projekt Weaving the Web // Session 2
 kuerzel: wt
 verantwortlich: cn
 typ: projekt
