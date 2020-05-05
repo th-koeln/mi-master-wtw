@@ -99,6 +99,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - _repos/*
 
 collections:
   lehrveranstaltungen:

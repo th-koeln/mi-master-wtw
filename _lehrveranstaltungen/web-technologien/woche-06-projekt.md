@@ -8,7 +8,7 @@ termine: 2020-05-05 15:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
-raum: Online
+raum: https://conf.dfn.de/webapp/conference/979148573
 info: 
 ---
 
