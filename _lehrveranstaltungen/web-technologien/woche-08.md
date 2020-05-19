@@ -8,7 +8,7 @@ termine: 2020-05-19 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 150
-raum: https://conf.dfn.de/webapp/conference/979113104?name=Christian%20Noss&pin=1100
+raum: https://conf.dfn.de/webapp/conference/979113104
 info: How-To Workshop
 ---
 
