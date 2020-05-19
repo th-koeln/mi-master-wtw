@@ -8,7 +8,7 @@ termine: 2020-04-21 15:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: https://zoom.us/j/91358974137 (Zugangscode wtw)
+raum: Online
 info: 
 ---
 

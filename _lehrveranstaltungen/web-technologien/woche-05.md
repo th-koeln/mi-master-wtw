@@ -8,7 +8,7 @@ termine: 2020-04-28 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: https://conf.dfn.de/webapp/conference/979113104
+raum: Online
 info: 
 ---
 

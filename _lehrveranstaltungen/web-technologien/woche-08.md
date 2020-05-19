@@ -8,14 +8,14 @@ termine: 2020-05-19 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 150
-raum: 3.216
-info: Thema folgt
+raum: https://conf.dfn.de/webapp/conference/979113104?name=Christian%20Noss&pin=1100
+info: How-To Workshop
 ---
 
 
 ## Zielsetzung des Tages
 - Alle haben die notwendigen Grundlagen zur Erarbeitung und Durchführung ihres Workshops
-- Alle kennen die Bewertungskriterien für den Workshop
+- Alle kennen die [Bewertungskriterien für den Workshop](https://th-koeln.github.io/mi-master-wtw/formate/#workshop)
 
 ## Was passiert heute?
 - Input/ Workshop zum Thema Workshop :)
