@@ -4,7 +4,7 @@ titel: Sprache im Web
 datum: 2020-05-20
 modul: wd
 autor: Alexander Strutz
-bild: ../alexa-4758340_960_720.jpg
+bild: ../material/alexa-4758340_960_720.jpg
 bildcredits: Bild von hamburgfinn - https://pixabay.com/de/photos/alexa-echo-smart-home-box-musikbox-4758340/s
 art: workshop
 termin: Dienstag, 26. Mai 2020, 13:00 Uhr
