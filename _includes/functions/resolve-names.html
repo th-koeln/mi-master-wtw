@@ -7,3 +7,6 @@
 {% endfor %}
 
 {% assign verantwortliche = ms | join: ", " %}
+{% if verantwortliche.size == 0 %}
+{% assign verantwortliche = include.verantwortlich %}
+{% endif %}

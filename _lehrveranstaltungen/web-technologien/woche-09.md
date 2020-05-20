@@ -1,7 +1,7 @@
 ---
 titel: Seminar Web-Technologien // Workshop Text-to-Speech
 kuerzel: s-wt
-verantwortlich: cn
+verantwortlich: Alexander Strutz
 typ: seminar
 pflicht: false
 termine: 2020-05-26 13:00

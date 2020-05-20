@@ -817,3 +817,9 @@ pre code {
   height: 100%;
   position: absolute;
 }
+
+.clipped-text{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
