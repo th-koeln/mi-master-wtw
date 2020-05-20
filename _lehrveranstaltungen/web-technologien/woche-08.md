@@ -22,7 +22,9 @@ info: How-To Workshop
 - Diskussion über den Stand der Teilnehmer-Workshops
 - Review Beiboot Projekte
 
-
 ## Was muss vorbereitet werden?
 - Alle sollten die Grundstruktur ihres Workshops vorbereitet haben
+
+## Material
+- [Mindmap zum Thema Workshops](../../../material/web-technologien/gedanken-zum-workshopping.pdf)
 
