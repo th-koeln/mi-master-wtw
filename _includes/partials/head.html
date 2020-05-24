@@ -24,7 +24,9 @@
     <meta property="og:title" content="{{ title }}{{sm-untertitel}} // {{ site.name }} {{ site.description }}" />
     <meta property="og:description" content="{{page.excerpt | strip_html | truncate:160}}" />
     <meta property="og:url" content="{{site.url}}{{ site.baseurl }}{{page.url}}" />
-
+    {% if page.art %}
+    <meta property="og:type“" content="{{page.art}}" />
+    {% endif %}
     <meta property="og:image" content="{{site.url}}{{ site.baseurl }}{{page.url}}{{page.bild}}" />
     <meta name="description" content="{{page.excerpt | strip_html | truncate:160}}">
 
