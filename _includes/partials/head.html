@@ -1,5 +1,16 @@
 <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+{% assign title = page.title %}
+{% if page.titel  %}
+{% assign title = page.titel %}
+{% endif %}
+
+{% assign sm-untertitel = "" %}
+{% if page.social-media-untertitel  %}
+{% assign title = title | append: ": " %}
+{% assign sm-untertitel = page.social-media-untertitel %}
+{% endif %}
+
+    <title>{{ title }} // {{ site.name }} {{ site.description }}</title>
     <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -9,6 +20,14 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/styles/mi-master-wtw.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/favicon.ico">
+
+    <meta property="og:title" content="{{ title }}{{sm-untertitel}} // {{ site.name }} {{ site.description }}" />
+    <meta property="og:description" content="{{page.excerpt | strip_html | truncate:160}}" />
+    <meta property="og:url" content="{{site.url}}{{ site.baseurl }}{{page.url}}" />
+
+    <meta property="og:image" content="{{site.url}}{{ site.baseurl }}{{page.url}}{{page.bild}}" />
+    <meta name="description" content="{{page.excerpt | strip_html | truncate:160}}">
+
     <script type="text/javascript">
 		
         /*! ics.js Wed Aug 20 2014 17:23:02 */
