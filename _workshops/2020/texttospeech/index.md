@@ -9,7 +9,7 @@ bild: ../alexa-4758340_960_720.jpg
 bildcredits: Bild von hamburgfinn - https://pixabay.com/de/photos/alexa-echo-smart-home-box-musikbox-4758340/s
 art: workshop
 termin: Dienstag, 26. Mai 2020, 13:00 Uhr
-dauer: 120 Minuten
+dauer: 150 Minuten
 raum: https://us02web.zoom.us/j/84465538620 (Zugangscode webtech)
 ---
 
@@ -17,7 +17,7 @@ Dieser Workshop befasst sich mit den Grundlagen und Technologien für Text to Sp
 
 ## Voraussetzungen
 - Passende IDE (WebStorm, PHPStorm, VS Code o.ä.)
-- Einer der folgenden Browser: Chrome, Firefox, Edge, Safari, Opera
+- Firefox (!)
 - Node.js: Version 12 oder höher
 - Kenntnisse in HTML5, CSS, JavaScript und Git
 
