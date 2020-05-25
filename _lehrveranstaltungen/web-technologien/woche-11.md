@@ -1,5 +1,5 @@
 ---
-titel: Keine Veranstaltung wegeb Berufungsvorträgen
+titel: Keine Veranstaltung wegen Berufungsvorträgen
 kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
@@ -8,7 +8,7 @@ termine: 2020-06-09 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: -
+raum: 
 info: 
 ---
 

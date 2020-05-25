@@ -1,6 +1,7 @@
 ---
 layout: workshop
 titel: Sprache im Web
+social-media-untertitel: Online-Workshop am 26. Mai 2020
 datum: 2020-05-20
 modul: wd
 autor: Alexander Strutz
