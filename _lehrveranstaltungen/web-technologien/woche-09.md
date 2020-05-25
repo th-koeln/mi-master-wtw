@@ -7,7 +7,7 @@ pflicht: false
 termine: 2020-05-26 13:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 120
+dauer: 150
 raum: https://us02web.zoom.us/j/84465538620 (Zugangscode webtech)
 info: 
 ---
