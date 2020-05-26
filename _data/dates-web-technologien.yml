@@ -103,3 +103,9 @@ week-15:
     start: "13:00"
     end: "17:00"
     name: Dienstag
+week-16:
+  day-1:
+    datum: 2020-09-29
+    start: "13:00"
+    end: "17:00"
+    name: Dienstag
