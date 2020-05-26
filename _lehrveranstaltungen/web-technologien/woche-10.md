@@ -1,7 +1,7 @@
 ---
 titel: Seminar Web-Technologien // Workshop WebXR
 kuerzel: s-wt
-verantwortlich: cn
+verantwortlich: Pascal Schorde
 typ: seminar
 pflicht: false
 termine: 2020-06-02 13:00
