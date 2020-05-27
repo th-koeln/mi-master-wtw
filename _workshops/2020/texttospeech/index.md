@@ -27,4 +27,5 @@ Dieser Workshop richtet sich an Entwickler, die ihre Websiten für Text to Speec
 ## Material
 - [Übungsaufgaben](https://github.com/astrutz/texttospeech)
 - [W3C Draft: Pronunciation](https://www.github.com/w3c/pronunciation)
+- [Workshopfolien](/texttospeech/texttospeech.html)
 - Weitere Materialien und Quellen sind in der [Readme](https://github.com/astrutz/texttospeech/blob/master/README.md) zu finden
