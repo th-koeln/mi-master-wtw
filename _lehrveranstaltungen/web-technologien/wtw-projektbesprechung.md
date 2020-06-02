@@ -4,7 +4,7 @@ kuerzel: wt
 verantwortlich: cn
 typ: projekt
 pflicht: false
-termine: 2020-06-03 14:00, 2020-06-17 14:00, 2020-06-29 14:00
+termine: 2020-06-10 09:00, 2020-06-17 14:00, 2020-06-29 14:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
