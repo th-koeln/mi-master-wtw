@@ -8,10 +8,13 @@ published: true
 
 ## Aufbau der Veranstaltung
 
-Die Veranstaltung zielt zusammengefasst auf die Erweiterung der Kompetenzen in fünf Bereichen:
-- Strukturierung und Initialisierung eines Web-Projekts (structure)
-- Technische Ausrichtung eines Web-Projekts (direction)
-- Nachhaltige Entwicklung im Team und Weiterentwicklung des Teams (cooperation)
-- Technologiescouting (perspectives)
+Die Veranstaltung zielt zusammengefasst auf die Erweiterung der Kompetenzen in folgenden Bereichen:
+- Verbesserung der individuellen Web-Coding Skills
+- Professionelle Technologieentscheidungen und Dokumentation der selben
+- Verbesserungen der Kommunkations- und Diskussionsfähigkeit 
+- Technische Ausrichtung eines Web-Projekts
+- Nachhaltige Entwicklung im Team und Weiterentwicklung des Teams
+- Eigenständige Erarbeitung neuer Technologien
+- Coaching
 
-Darüber hinaus sollen die individuellen Web-Coding Skills reflektiert und erweitert werden (improve).
+
