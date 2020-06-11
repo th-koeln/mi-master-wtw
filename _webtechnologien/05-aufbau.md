@@ -6,8 +6,6 @@ verantwortlich: cn
 published: true
 ---
 
-## Aufbau der Veranstaltung
-
 Die Veranstaltung zielt zusammengefasst auf die Erweiterung der Kompetenzen in folgenden Bereichen:
 - Verbesserung der individuellen Web-Coding Skills
 - Professionelle Technologieentscheidungen und Dokumentation der selben
