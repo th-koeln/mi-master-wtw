@@ -5,7 +5,7 @@ social-media-untertitel: Online-Workshop am 23. Juni 2020
 datum: 2020-06-23
 modul: wt
 autor: Dominik Deimel
-bild: ../kotlin_logo.png
+bild: ../ktor_logo.png
 bildcredits: Jetbrains - https://www.jetbrains.com
 art: workshop
 termin: Dienstag, 23. Juni 2020, 13:00 Uhr
