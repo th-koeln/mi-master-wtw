@@ -20,6 +20,6 @@ titel: Projekt 2 // Sommersemester 2020 // Cranach Timeline
 ## Team 3 (Name?)
 - Teilnehmer:
 - Repo Projekt 1:
-- Repo Projekt 2:
+- [Repo Projekt 2](https://github.com/d-kuznetsov/cranach-timeline)
 - Planungsprotokolle:
 - Reviewprotokolle:
