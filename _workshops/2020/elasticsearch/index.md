@@ -5,7 +5,7 @@ social-media-untertitel: Online-Workshop am 30. Juni 2020
 datum: 2020-06-30
 modul: wt
 autor: Benjamin Pagelsdorf
-bild: ../elastic-search-logo-color-reversed-horizontal.svg
+bild: ../elastic-search-logo-color-reversed-horizontal.png
 bildcredits: Elastic - https://www.elastic.co/de/brand
 art: workshop
 termin: Dienstag, 30. Juni 2020, 13:30 Uhr
