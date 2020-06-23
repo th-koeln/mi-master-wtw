@@ -8,7 +8,7 @@ termine: 2020-06-30 13:30
 empfohlene-voraussetzungen: 
 published: true
 dauer: 150
-raum: https://us02web.zoom.us/j/83501694487 (Zugangscode webtech)
+raum: https://us02web.zoom.us/j/84344509899 (Zugangscode webtech)
 info: 
 ---
 
