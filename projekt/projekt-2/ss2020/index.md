@@ -8,7 +8,7 @@ titel: Projekt 2 // Sommersemester 2020 // Cranach Timeline
 - Teilnehmer: Maher Mahouachi, Youssef Mestiri, Rami Cheikh Rouhou, Pascal Schorde
 - [Repo Projekt 1](https://github.com/ramichr/lucas_cranach_projekt2)
 - [Repo Projekt 2](https://github.com/ramichr/lucas_cranach_projekt2)
-- [Planungsprotokolle](https://github.com/ramichr/lucas_cranach_projekt2/sprints)
+- [Planungsprotokolle](https://github.com/ramichr/lucas_cranach_projekt2/tree/master/sprints)
 - Reviewprotokolle
 
 ## Team 2 (Cranach Quadrat)
@@ -20,6 +20,6 @@ titel: Projekt 2 // Sommersemester 2020 // Cranach Timeline
 ## Team 3 (Name?)
 - Teilnehmer:
 - Repo Projekt 1:
-- Repo Projekt 2:
+- [Repo Projekt 2](https://github.com/d-kuznetsov/cranach-timeline)
 - Planungsprotokolle:
 - Reviewprotokolle:
