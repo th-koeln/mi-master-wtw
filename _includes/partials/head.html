@@ -1,16 +1,16 @@
 <head>
-{% assign title = page.title %}
+{% assign pageTitle = page.title %}
 {% if page.titel  %}
-{% assign title = page.titel %}
+{% assign pageTitle = page.titel %}
 {% endif %}
 
 {% assign sm-untertitel = "" %}
 {% if page.social-media-untertitel  %}
-{% assign title = title | append: ": " %}
+{% assign pageTitle = pageTitle | append: ": " %}
 {% assign sm-untertitel = page.social-media-untertitel %}
 {% endif %}
 
-    <title>{{ title }} // {{ site.name }} {{ site.description }}</title>
+    <title>{{ pageTitle }} // {{ site.name }} {{ site.description }}</title>
     <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
