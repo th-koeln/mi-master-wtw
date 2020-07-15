@@ -1,5 +1,5 @@
 ---
-titel: Projekt Weaving the Web // Projektbesprechung Team 3
+titel: Projekt Weaving the Web // Projektbesprechung Team 1
 kuerzel: wt
 verantwortlich: cn
 typ: projekt
