@@ -110,17 +110,23 @@ week-15:
     name: Dienstag
 week-16:
   day-1:
+    datum: 2020-07-15
+    start: "09:00"
+    end: "17:00"
+    name: Mittwoch
+week-17:
+  day-1:
     datum: 2020-08-04
     start: "09:00"
     end: "17:00"
     name: Dienstag
-week-17:
+week-18:
   day-1:
     datum: 2020-09-08
     start: "09:00"
     end: "17:00"
     name: Dienstag
-week-18:
+week-19:
   day-1:
     datum: 2020-09-29
     start: "09:00"
