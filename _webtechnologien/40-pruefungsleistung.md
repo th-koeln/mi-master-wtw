@@ -10,3 +10,10 @@ published: true
 ## Prüfung/ Bewertung
 
 Die Prüfungsleistung besteht aus einem (Online-)Workshop und einem fortlaufenden Projekt (Beiboot) zu je 50%.
+
+Dabei werden folgende Bewertungskriterien angelegt:
+- [Workshop](/mi-master-wtw/formate/#workshop)
+- [Beiboot Projekt](/mi-master-wtw/formate/#beiboot-projekt)
+
+
+
