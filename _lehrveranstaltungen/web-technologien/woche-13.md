@@ -1,45 +1,35 @@
 ---
-titel: Seminar Web-Technologien
+titel: Seminar Web-Technologien // Workshop Serverseitige Entwicklung mit Ktor
 kuerzel: s-wt
-verantwortlich: cn
+verantwortlich: Dominik Deimel
 typ: seminar
 pflicht: false
-termine: 2020-06-23 14:00
+termine: 2020-06-23 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: 3.216
+raum: https://us02web.zoom.us/j/83851106696 (Zugangscode webtech)
 info: 
 ---
 
 ## Zielsetzung des Tages
--
-<!--
-- alle Teilnehmer haben das JAMstack Konzept verstanden 
-- alle Teilnehmer sind in der Lage verteilte Informationen via Fetch API und Javascript zu visualisieren
--->
+* Erste Erfahrungen mit dem Framework Ktor und Kotlin als Programmiersprace sammeln
+* Überblick über die Funktionen des Frameworks Ktor gewinnen
+* Aussagen über die Vor und Nachteile des Frameworks Ktor treffen können
 
 ## Was passiert heute?
--
-<!--
-- Vortrag zum Thema JAMstack
-- Diskussion zu verteilten Informationssystemen
-- Javascript Hack, idealerweise mit [ReactJS](https://reactjs.org/)
-- Ableitung von Challenge Themen aus dem Tag
--->
+* Einführung in Ktor 
+* Umsetzung verschiedener Teile einer Server-Komponente 
+* Bestimmen von Vor und Nachteilen von Ktor
+* Vergleich von Ktor mit anderen Frameworks
 
 ## Was muss vorbereitet werden?
--
-<!--
-- Fetch API sollte implementiert werden können
-- erste Gehversuche in ReactJS sollten bereits absolviert sein
--->
+Eine genaue Anleitung ist im [Repository](https://github.com/Dominikdeimel/ktor-workshop) zu finden.
+
+**Einen Tag vor dem Workshop, bitte den aktuellen Stand pullen!**
+
 
 ## Material
--
-<!--
-- [Folien JAMstack](https://cnoss.github.io/talks/2018-jam-stack/#/)
-- [Classroom StarterPack](https://classroom.github.com/a/e8mhNeaZ)
-- [Minitutorial React Newsfeed](https://www.youtube.com/watch?v=3UtvN8EBGpg)
-- [Starterpack mit Vanilla und schlechte React Lösung](https://github.com/cnoss/mi-master-wtw-newsfeed-starterpack)
--->
+* [Repository](https://github.com/Dominikdeimel/ktor-workshop)
+* [Ktor Framework](https://ktor.io/)
+* [Kotlin](https://kotlinlang.org/)

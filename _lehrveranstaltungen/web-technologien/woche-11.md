@@ -2,7 +2,7 @@
 titel: Keine Veranstaltung wegen Berufungsvorträgen
 kuerzel: s-wt
 verantwortlich: cn
-typ: seminar
+typ: orga
 pflicht: false
 termine: 2020-06-09 13:00
 empfohlene-voraussetzungen: 
@@ -12,4 +12,4 @@ raum:
 info: 
 ---
 
-
+Hier finden Sie weitere [Informationen zu den Berufungsvorträgen](https://www.medieninformatik.th-koeln.de/events/2020-06-04-berufungsvortraege/).

@@ -1,10 +1,10 @@
 ---
-titel: Seminar Web-Technologien - Retrospektive & Vorstellungen von Angeboten für der Lernportfolio
+titel: Seminar Web-Technologien // Mündliche Prüfung – Retrospektive & Vorstellungen von Beiboot Projekt und Workshop
 kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2020-09-29 09:00
+termine: 2020-09-29 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -12,9 +12,24 @@ raum: 3.216
 info: 
 ---
 
-## Themen/ Challenges 
-Im Repo habe ich einige [Vorschläge für Themen und Challenges](https://github.com/th-koeln/mi-master-wtw/issues?q=is%3Aopen+is%3Aissue+label%3ALP-Thema-SS2019), die in der Vorlesungsfreien Zeit bearbeitet werden können. Eigene Vorschläge sind auch willkommen. Mehr dazu am Dienstag. 
+## Anmeldung & Ablauf
+Im Rahmen dieser Prüfung stellen Sie die wesentlichen und interessanten Teile Ihres Beiboot Projekts noch mal vor und wir führen auf dieser Basis ein Fachgespräch zum Beiboot Projekt. Darüber hinaus reflektieren wir den von Ihnen gehaltenen Workshop. Wesentliche Ziele der Prüfung sind:
+- Überprüfung, dass der Prüfling Schöpfer des eingereichten Beiboot Projekts ist
+- Überprüfung der Diskursfähigkeit des Prüflings
 
-## Zielsetzung des Tages
-- alle haben ein Review der Veranstaltung abgegeben und wir haben gemeinsam Ideen für den nächsten Durchlauf generiert
-- alle haben eine Idee, wie sie in der Vorlesungsfreien Zeit die notwendigen Artefakte für die Benotung zu erarbeiten
+Bitte reservieren Sie hier einen Termin via Pull Request. Für die Prüfung sollten Sie eine kurze Vorstellung des Beiboot Projekts und eine kurze Reflexion Ihres Workshops vorbereiten. Hierzu ist nicht zwingend eine Präsentation erforderlich, andere unterstützende Formate/ Dokumente oder eine freie Vorstellung sind auch willkommen.
+
+## Running Order
+
+| Uhrzeit |Name |Link zum Beiboot Repo|
+| --- | --- | --- |
+|10:00| Pascal Schorde | [https://github.com/mi-classroom/mi-web-technologien-beiboot-ss2020-p2sk](https://github.com/mi-classroom/mi-web-technologien-beiboot-ss2020-p2sk) |
+|10:30 | - | - |
+|11:00 | - | - |
+|11:30 | - | - |
+|13:00 | - | - |
+|13:30 | - | - |
+|14:00 | - | - |
+|14:30 | - | - |
+|15:00 | - | - |
+|15:30 | - | - |

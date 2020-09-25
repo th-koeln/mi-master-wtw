@@ -87,7 +87,7 @@ Folgende Bewertungskriterien sind relevant:
 - [Klarheit, Verständlichkeit & Richtigkeit](/mi-master-wtw/formate/#klarheit-verständlichkeit--richtigkeit)
 - [Nutz- & Anwendbarkeit](/mi-master-wtw/formate/#nutz---anwendbarkeit)
 - [Darstellung, Artikulationsfähigkeit & Eloquenz](/mi-master-wtw/formate/#darstellung-artikulationsfähigkeit--eloquenz)
-- [Zeitmanagement, Flexibilität, Motivation &amp; Empathie (Workshops)](zeitmanagement-flexibilität-motivation--empathie-workshops)
+- [Zeitmanagement, Flexibilität, Motivation &amp; Empathie (Workshops)](/mi-master-wtw/formate/#zeitmanagement-flexibilität-motivation--empathie-workshops)
 - [Durchdringung & Substanz](/mi-master-wtw/formate/#recherche-durchdringung--substanz)
 - [Kenntnisse und Fertigkeiten](/mi-master-wtw/formate/#kenntnisse-und-fertigkeiten)
 - [Quellcode & Dokumentation](/mi-master-wtw/formate/#quellcode--dokumentation)
@@ -112,6 +112,17 @@ Folgende Bewertungskriterien sind relevant:
 - [Kenntnisse und Fertigkeiten](/mi-master-wtw/formate/#kenntnisse-und-fertigkeiten)
 - [Nutz- & Anwendbarkeit](/mi-master-wtw/formate/#nutz---anwendbarkeit)
 - [Quellcode & Dokumentation](/mi-master-wtw/formate/#quellcode--dokumentation)
+
+## Beiboot Projekt
+
+Das Beiboot Projekt läuft parallel zum Modul. Hier wird ein grobes Projektthema vorgegeben und alle zwei bis drei Wochen werden Features publiziert, die dann integriert werden müssen. Im Rahmen der Veranstaltung werden dann gemeinsame Code Vorstellungen, Diskussionen und Reviews durchgeführt. Das Beiboot Projekt dient als Diskusionsgrundlage und zeigt, wie verschiedene Teilnehmer/ Entwickler das gleiche Feature implementieren, es die als Grundlage für die Diskussion zu Technologie- und Implementierungsentscheidungen, es hilft den Teilnehmern bei der Selbsteinschätzung der eigenen Skills und es dient zur Inspirationen für alternative Implementierungsansätze und Ideen.
+
+Folgende Bewertungskriterien sind relevant:
+- [Ausarbeitungsprozess & Wiederholbarkeit](/mi-master-wtw/formate/#ausarbeitungsprozess--wiederholbarkeit)
+- [Kenntnisse und Fertigkeiten](/mi-master-wtw/formate/#kenntnisse-und-fertigkeiten)
+- [Nutz- & Anwendbarkeit](/mi-master-wtw/formate/#nutz---anwendbarkeit)
+- [Quellcode & Dokumentation](/mi-master-wtw/formate/#quellcode--dokumentation)
+- [Ökonomie](/mi-master-wtw/formate/#ökonomie)
 
 ## Übersicht der Kriterien
 
@@ -143,7 +154,7 @@ Wie verständlich kann sich der/die Studierende ausdrücken und komplexe Sachve
 
 #### Kritik- & Diskursfähigkeit
 <!-- [Kritik- & Diskursfähigkeit](/mi-master-wtw/formate/#kritik---diskursfähigkeit)-->
-Wird mit kritischen und schwierigen Aspekten der Ausarbeitung offensiv und sachlich umgegangen? Findet eine ausreichende Differenzierung zwischen Person und Sache statt? Ist der/die Studierende in der Lage auf angemessenem fachlichen und wissenschaftlichen Niveau über die Ausarbeitung zu diskutieren?
+Wird mit kritischen und schwierigen Aspekten der Ausarbeitung/ des Projekts offensiv und sachlich umgegangen? Findet eine ausreichende Differenzierung zwischen Person und Sache statt? Ist der/die Studierende in der Lage auf angemessenem fachlichen und wissenschaftlichen Niveau über die Ausarbeitung/ des Projekts zu diskutieren?
 
 #### Kenntnisse und Fertigkeiten
 <!-- [Kenntnisse und Fertigkeiten](/mi-master-wtw/formate/#kenntnisse-und-fertigkeiten)-->
@@ -159,8 +170,12 @@ Sind die Ergebnisse und Artefakte so aufbereitet, dass sie in der Praxis oder du
 
 #### Quellcode & Dokumentation
 <!-- [Quellcode & Dokumentation](/mi-master-wtw/formate/#quellcode--dokumentation) -->
-Wurde Quellcode verständlich strukutriert und dokumentiert? Gibt es eine Übersicht über die verschiedenen Artefakte und Komponenten? Wird klar, wie die verschiedenen Einzelteile zusammen hängen? Werden notwendige Voraussetzungen explizit gemacht?
+Wurde Quellcode verständlich strukutriert und dokumentiert? Gibt es eine Übersicht über die verschiedenen Artefakte und Komponenten? Wird klar, wie die verschiedenen Einzelteile zusammen hängen? Werden notwendige Voraussetzungen explizit gemacht? Sind wesentliche Entscheidungen dokumentiert? Kann das Projekt durch Dritte genutzt, gestartet, installiert oder/ oder erweitert werden?
 
 #### Zeitmanagement, Flexibilität, Motivation & Empathie (Workshops)
-<!-- [Zeitmanagement, Flexibilität, Motivation &amp; Empathie (Workshops)](zeitmanagement-flexibilität-motivation--empathie-workshops)-->
-Werden die Teilnehmer gut unterstützt? Wird Rücksicht auf verschiedenen Arbeits- und Lerngeschwindigkeiten genommen? Werden die Teilnehmer motiviert, ins Thema einzusteigen? Sind die Arbeitsanweisungen verständlich und eindeutig? Wird auf RÜckfragen und Probleme von Teilnehmern eingegangen?
+<!-- [Zeitmanagement, Flexibilität, Motivation &amp; Empathie (Workshops)](/mi-master-wtw/formate/#zeitmanagement-flexibilität-motivation--empathie-workshops)-->
+Werden die Teilnehmer gut unterstützt? Wird Rücksicht auf verschiedenen Arbeits- und Lerngeschwindigkeiten genommen? Werden die Teilnehmer motiviert, ins Thema einzusteigen? Sind die Arbeitsanweisungen verständlich und eindeutig? Wird auf Rückfragen und Probleme von Teilnehmern eingegangen?
+
+#### Ökonomie
+<!-- [Ökonomie](/mi-master-wtw/formate/#ökonomie) -->
+Kann der/die Studierende ökonomische Maßstäbe an die Umsetzung einschätzen? Gibt es eine realistische Einschätzung zum Aufwand/Nutzen-Verhältnis? Werden die gegebenen Ressourcen umsichtig, präzise und aktiv eingesetzt?

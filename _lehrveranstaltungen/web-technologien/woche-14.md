@@ -1,53 +1,34 @@
 ---
-titel: Seminar Web-Technologien
+titel: Seminar Web-Technologien // Workshop Elastic Search
 kuerzel: s-wt
-verantwortlich: cn
+verantwortlich: Benjamin Pagelsdorf
 typ: seminar
 pflicht: false
-termine: 2020-06-30 14:00
+termine: 2020-06-30 13:30
 empfohlene-voraussetzungen: 
 published: true
-dauer: 180
-raum: 3.216
+dauer: 150
+raum: https://us02web.zoom.us/j/84344509899 (Zugangscode webtech)
 info: 
 ---
 
 ## Zielsetzung des Tages
--
-<!--
-- alle haben einen guten Überblick über die Startphase des Projekts
-- wir haben Teams und Arbeitspakete überprüft und ggf. neu ausgerichtet
-- wir haben einen kleine Programmiersportaufgabe gelöst
--->
+* Erste Schritte mit Elasticsearch und Kibana machen
+* Eine Übersicht über die Vielzahl der Einsatzgebiete bekommen
 
 ## Was passiert heute?
--
-<!--
-- Retrospektive zum Projektstart
-- Programmiersportaufgabe: hier stehen zwei Themen zur Auswahl (siehe unten)
--->
+* Einführung in Elasticsearch
+* Implementierungen verschiedener Elasticsearch APIs
+* Bestimmen von Einsatzgebieten von Elasticsearch
+* Aufzeigen der Komplexität und des Potenzials von Elasticsearch
 
 ## Was muss vorbereitet werden?
--
-<!--
-- jedes Team sollte seinen Projektteil kurz vorstellen und kritisch reflektieren
--->
-
-## Programmiersportaufgabe
--
-<!--
-Folgende Themen stehen zu Auswahl:
-
-- Überarbeitung des Hacks von vor zwei Wochen (MI News Integration). Diesmal mit dem Wissen aus dem React Workshop
-- HandsOn PageSpeed Analyse und Optimierung
--->
+* Alle Abhängigkeiten gemäß der Anleitung im [Repository](https://github.com/BenPag/elasticsearch-workshop) installieren.
+* Vor dem Beigin des Workshops einmal den letzten Stand vom Repository ziehen.
 
 ## Material
--
-<!--
-- [Removing Friction In UX: Last-Minute Travel Planning And Activity Booking (A Case Study)](https://www.smashingmagazine.com/2017/08/removing-friction-ux-last-minute-travel-planning-activity-booking/)
-- [Sven Schiffer: Identiﬁkation und Evaluation von Maßnahmen zur efﬁzienten Performanceoptimierung eines web-basierten Buchungsprozesses](../material/pp-dokumentation-sven_schiffer.pdf)
-- [Bandwidth Calculator](https://www.omnicalculator.com/other/bandwidth)
-- [2G, 3G, 4G & 5G Download Speeds](https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning)
-- [Lighthouse Extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=de)
--->
+* [Repository](https://github.com/BenPag/elasticsearch-workshop)
+* [Elasticsearch Reference](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
+* [Elasticsearch Clients](https://www.elastic.co/guide/en/elasticsearch/client/index.html)
+* [Kibana Guide](https://www.elastic.co/guide/en/kibana/current/index.html)
+* [Docker](https://docker.com/)
