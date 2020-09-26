@@ -27,9 +27,7 @@ Bitte reservieren Sie hier einen Termin via Pull Request. Für die Prüfung soll
 |10:30 | Dominik Deimel | [https://github.com/mi-classroom/mi-web-technologien-beiboot-ss2020-Dominikdeimel](https://github.com/mi-classroom/mi-web-technologien-beiboot-ss2020-Dominikdeimel) |
 |11:00 | Anja Bertels |  [https://github.com/mi-classroom/mi-web-technologien-beiboot-ss2020-AnleAnja](https://github.com/mi-classroom/mi-web-technologien-beiboot-ss2020-AnleAnja)
 |11:30 | Alexander Strutz | [Repo (PWA siehe Readme)](https://github.com/mi-classroom/mi-web-technologien-beiboot-ss2020-astrutz) |
-|13:00 | - | - |
+|13:00 | Dmitrii Kuznetcov | https://github.com/mi-classroom/mi-web-technologien-beiboot-ss2020-d-kuznetsov |
 |13:30 | - | - |
 |14:00 | - | - |
-|14:30 | - | - |
-|15:00 | - | - |
-|15:30 | - | - |
+
