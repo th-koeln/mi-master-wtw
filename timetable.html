@@ -1,9 +1,10 @@
 --- 
-layout: default 
+layout: default
+title: Zeitplan
 --- 
 
 <section class="section">
-    <div class="container">
+    <div class="container" data-starting-date="date-{{site.data['dates-web-technologien']['week-1']['day-1']['datum']}}">
         <h2 class="title is-1" style="display: inline-block; margin-right: 5px">Zeitplan</h2> <button class="button is-1" href="#" onclick="javascript:cal.download('Web-Technologien')">iCal</button>
         <script>
             var cal = ics()
@@ -11,3 +12,26 @@ layout: default
         {% include /functions/zeitplan.html modul="web-technologien" %}
     </div>
 </section>
+
+<script>
+
+Date.prototype.getWeek = function () {
+    var onejan = new Date(this.getFullYear(), 0, 1);
+    return Math.ceil((((this - onejan) / 86400000) + onejan.getDay() + 1) / 7);
+};
+
+let startingDateData = document.querySelector("[data-starting-date]").dataset.startingDate.replace("date-", "");
+let startingDate = new Date(startingDateData);
+let startingWeek = startingDate.getWeek();
+
+let today = new Date();
+let thisWeek = today.getWeek();
+
+let diffWeek = thisWeek - startingWeek;
+let scrollTarget = `#week-${diffWeek}`;
+
+document.querySelector(scrollTarget).scrollIntoView({ 
+  behavior: 'smooth' 
+});
+
+</script>
