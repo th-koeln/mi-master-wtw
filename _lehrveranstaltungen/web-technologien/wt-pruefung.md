@@ -8,7 +8,7 @@ termine: 2020-09-29 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: 3.216
+raum: https://us02web.zoom.us/j/3691635119 (Kennwort via Slack)
 info: 
 ---
 
