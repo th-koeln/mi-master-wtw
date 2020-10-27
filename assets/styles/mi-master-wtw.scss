@@ -772,6 +772,8 @@ pre code {
 }
 
 .is-marginalia{
+  border-left: solid 1px $mi-blau;
+  padding-left: $bfs;
   opacity: 0.6;
   transition: opacity 0.2s;
 
