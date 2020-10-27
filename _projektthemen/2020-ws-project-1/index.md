@@ -36,3 +36,5 @@ Im Rahmen dieses Master Projekts sollen Möglichkeiten konzipiert und deren tech
 - Verknüpfung von Gemälden, Archivalien und Literatur
 
 Da in diesem Bereich schon viel geforscht und erarbeitet wurde, ist eine überaus sorgfältige Recherche, Marktanalyse und Erhebung des aktuellen Forschungsstandes enorm wichtig.
+
+Hier finden Sie den [Zeitplan](/mi-master-wtw/timetable/).
