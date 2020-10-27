@@ -1,0 +1,68 @@
+---
+layout: default-reduced
+---
+
+{% include /functions/resolve-names.html verantwortlich=page.verantwortlich %}
+
+  <section class="hero is-success is-large with-space-m">
+    <!-- Hero header: will stick at the top -->
+    <div class="hero-body is-header {has-gradient" style="background-image: url({{site.baseurl}}{{page.id}}/../{{page.bild}});">
+      <div class="container">
+        <h1 class="title is-1 is-inverted">
+          {{ page.titel }}
+        </h1>
+        <h2 class="subtitle is-2 is-inverted">
+          {{ page.untertitel }}
+        </h2>
+      </div>
+    </div>
+  </section>
+
+
+<section class="section">
+
+  <div class="container">
+    <div class="content">
+      <div class="columns">
+        <div class="column is-8">
+          <dl>
+            <dt>Startsemester</dt>
+            <dd>{{page.semester}}</dd>
+
+            <dt>Projektowner</dt>
+            <dd>{{verantwortliche}}</dd>
+
+            <dt>Bild</dt>
+            <dd>{{page.bildcredits}}</dd>
+          </dl>
+        </div>
+        <div class="column is-4 has-text-right">
+          <a target="_blank" href="https://github.com/th-koeln/mi-master-wtw/edit/master/{{ page.path }}">
+            <span class="icon">
+              <i class="fa fa-edit"></i>
+            </span> Bearbeiten</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="container">
+   <div class="columns">
+    <div class="column is-half-desktop">
+      <div class="content ">
+        {{ page.content }}
+      </div>
+    </div>
+
+    {% if page.marginalie %}
+    <div class="column is-one-third-desktop">
+      <div class="content is-marginalia">
+        {{ page.marginalie | markdownify }}
+      </div>
+    </div>
+    {% endif %}
+
+   </div>
+  </div>
+</section>

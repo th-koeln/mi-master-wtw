@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="de">
+
+{% include /partials/head.html %}
+
+<body data-url="{{page.url}}">
+  <section class="hero is-medium">
+    <!-- Hero header: will stick at the top -->
+    {% include /partials/header.html %}
+  </section>
+
+  {{ content }}
+
+  {% include /partials/footer.html %}
+
+</body>
+
+</html>

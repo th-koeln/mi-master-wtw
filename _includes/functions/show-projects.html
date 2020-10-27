@@ -1,0 +1,26 @@
+{% assign projektthemen = site.projektthemen %}
+<!-- Formatierung muss leider so bleiben, weil Jekyell sonst den Code ausgibt :) -->
+<div class="columns is-multiline">
+{% for projektthema in projektthemen %}
+{% include /functions/resolve-names.html verantwortlich=projektthema.verantwortlich %}
+<div class="column is-one-third-tablet is-half-desktop" data-href="{{site.baseurl}}{{projektthema.url}}">
+<div class="card bm--card-equal-height">
+<div class="card-image">
+<figure class="image is-16by9">
+<img src="{{site.baseurl}}{{projektthema.id}}/../{{projektthema.bild}}">
+</figure>
+</div>
+<div class="card-content">
+<h3>{{projektthema.titel}}
+</h3>
+<dl>
+<dd>{{projektthema.untertitel}}
+</dd>
+<dd>{{projektthema.semester}}
+</dd>
+</dl>
+</div>
+</div>
+</div>
+{% endfor %}
+</div>
