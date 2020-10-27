@@ -2,7 +2,6 @@
 layout: projektthema
 titel: Can't touch this
 untertitel: Konzeption und Entwicklung von Interaktionen zur Erkundung verschiedener digitalisierter Werke von Lucas Cranach.
-social-media-untertitel: Online-Workshop am 30. Juni 2020
 semester: Wintersemester 2020/21
 verantwortlich: cn
 bild: cranach-interactions.jpg
