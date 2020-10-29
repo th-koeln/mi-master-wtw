@@ -25,6 +25,9 @@ Der Schwerpunkt richtet sich an Studierende mit großem Interesse am Web und den
 * Berater oder Beraterin für die Integration von Prozessen mit dem Web
 * Web Enthusiast oder Web Enthusiastin
 
+### Was sollten Sie mitbringen?
+Für den Schwerpunkt werden einschlägige Kenntnisse und Fertigkeiten im Bereich Web-Technologien und Web-Development vorausgesetzt. Nähere Informationen finden Sie unter [Empfohlene Voraussetzungen, Kenntnisse und Fertigkeiten](/mi-master-wtw/empfohlene-voraussetzungen/).
+
 ### Schwerpunktspezifische Pflichtmodule
 
 Innerhalb des Schwerpunkts müssen die folgenden Module als Pflichtmodule belegt werden:
