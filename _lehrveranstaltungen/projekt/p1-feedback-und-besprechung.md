@@ -4,7 +4,7 @@ kuerzel: wt
 verantwortlich: cn
 typ: projekt
 pflicht: false
-termine: 2020-11-18 11:00, 2020-11-25 11:00, 2020-12-09 11:00, 2020-12-16 11:00, 2021-01-27 12:00, 2021-02-03 11:00
+termine: 2021-11-18 11:00, 2021-11-25 11:00, 2021-12-09 11:00, 2021-12-16 11:00, 2022-01-27 12:00, 2022-02-03 11:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 60
