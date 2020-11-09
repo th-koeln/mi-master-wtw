@@ -19,6 +19,8 @@ Zugangscode ist im [Ilias](https://ilias.th-koeln.de/goto.php?target=fold_165817
 
 Hier bitte keine Präsentation oder Ähnliches, sondern ganz kurz das Ergebnis zeigen (5min) und dann schauen wir uns den Code/ die Entwicklung an und führen ein kurzes Fachgespräch.
 
+**Falls Ihr Ergebnis im Web aufrufbar ist, bitte via Passwort schützen(cranach-timeline:cranach-timeline)!**
+
 - 13:00 - 13:25 Uhr //  Dmitrii Kuznetcov & Sarfaroz Khakimov & Nazi Derwesh 
 - 13:25 - 13:50 Uhr // Anja Bertels, Dominik Deimel, Benjamin Pagelsdorf, Alex Strutz
 - 13:50 - 14:15 Uhr // Maher Mahouachi, Youssef Mestiri, Rami Cheikh Rouhou
