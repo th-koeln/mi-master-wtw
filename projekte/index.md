@@ -23,8 +23,41 @@ In diesem Projekt wird, basierend auf einem bereits erstellten Konzept, ein „M
 
 Auf Basis eines bereits ausgearbeiteten Minimum Viable Products werden in diesem Projekt die Schritte Deployment, Qualitätssicherung und Evaluierung, Kontinuierliche Integration sowie Produktmanagement und -marketing geplant, durchgeführt und kritisch reflektiert. Bei einem Projekt mit Forschungsschwerpunkt werden die Schritte Entwicklung, Qualitätssicherung und Evaluierung, kritischer Vergleich, wissenschaftliches Schreiben und Präsentation geplant, durchgeführt und kritisch reflektiert.
 
+Für Projekte im Schwerpunkt Weaving the Web gilt es im ersten Schritt ein geeignetes Ergebnis aus Projekt 2 zu wählen. Hierbei muss nicht zwingend ein Projekt 2 aus dem vorhergehenden Semester gewählt werden, sondern es kann auch ein Projekt 2 aus früheren Semestern als Ausgangspunkt genommen werden. Für Projekt 3 ist es sehr wichtig eine passende Zielformulierung mit einem messbaren Ziel und ein angemessenes Aufgabenpaket zu erarbeiten und dies mit dem Projektbetreuer zu diskutieren und abzustimmen. Die Zielsetzung und Aufgabenstellung muss zum Start des Projekts in der Dokumentation (GitHub Wiki) verschriftlicht werden. Eine Veränderung der Zielsetzung und Aufgabenstellung zur Projektlaufzeit ist in begründeten Fällen möglich, muss aber dokumentiert und zuvor mit dem Projektbetreuer abgesprochen werden. Denken Sie daran sicher zu stellen, dass Zielsetzung und Aufgabenstellung auf die Modulziele ausgerichtet sind. Verhandeln und verschriftlichen Sie zum Start des Projekts mit dem Projektbetreuer die Artefakte und Ergebnisse die am Ende geliefert werden sollen.
+
+Folgende Bewertungskriterien werden angewendet:
+
+### [Recherche, Durchdringung & Substanz](/mi-master-wtw/bewertungskriterien/#recherche-durchdringung--substanz)
+Hiermit wird bewertet, ob das Projekt 3 nicht nur als geradlinige Fortsetzung zu Projekt 2 verstanden wurde, sondern es als eigenständiges neues Projekt aufgefasst wurde. Wurden Möglichkeiten und Potenziale im Sinne des Projektergebnisses aus Projekt 2 und der Vision aus Projekt 1 gesucht, identifiziert und mit den Modulzielen von Projekt 3 abgeglichen?
+
+### [Zielsetzung & Lösungsstrategie](/mi-master-wtw/bewertungskriterien/#zielsetzung--lösungsstrategie)
+Auf Basis dieses Kriteriums wird bewertet, inwieweit die Modulziele berücksichtigt und ein darauf ausgerichtetes, messbares Aufgabenpaket formuliert wurde.
+
+### [Ausarbeitungsprozess & Wiederholbarkeit](/mi-master-wtw/bewertungskriterien/#ausarbeitungsprozess--wiederholbarkeit)
+Anhand dieses Kriteriums, als auch anhand des Kriteriums [Darstellung, Artikulationsfähigkeit & Eloquenz](/mi-master-wtw/bewertungskriterien/#darstellung-artikulationsfähigkeit--eloquenz), wird im Rahmen von Projekt 3 bewertet, inwieweit es gelungen ist, den Ausarbeitungs- und Entscheidungsprozess zu argumentieren, mögliche Optionen zu diskutieren und Themen zu identifzieren, wo andere Projekte ggf. ansetzen könnten. Im Rahmen der Bewertung wird auch berücksichtigt, inwieweit [ökonomische Aspekte](/mi-master-wtw/bewertungskriterien/#ökonomie) während des Ausarbeitungsprozesess einbezogen wurden.
+
+### [Kritik- & Diskursfähigkeit](/mi-master-wtw/bewertungskriterien/#kritik---diskursfähigkeit)
+Ein wichtiger Punkt bei der Bewertung ist der Umgang mit kritischen und schwierigen Aspekten des Projekts. Werden diese transparent gemacht, wird damit offensiv als auch sachlich und lösungsorientiert umgegangen? 
+
+### [Kenntnisse und Fertigkeiten](/mi-master-wtw/bewertungskriterien/#kenntnisse-und-fertigkeiten)
+Anhand dieses Kriteriums wird das Repertoire der Projektteilnehmer bewertet: welche Techniken und Methoden stehen den einzelnen zur Verfügung und wie werden diese eingesetzt?
+
+### [Nutz- & Anwendbarkeit](/mi-master-wtw/bewertungskriterien/#nutz---anwendbarkeit)
+Auf Basis dieses Kriteriums, als auch auf Basis des Kriteriums [Quellcode & Dokumentation](/mi-master-wtw/bewertungskriterien/#quellcode--dokumentation) wird bewertet, in wie weit das Arbeitsergebnis inkl. aller Artefakte und der Dokumentation für andere nutzbar ist und wie niedrig die Schwelle für andere Teams oder neue Projektteilnehmer ist, das Projekt zu verstehen und fortzusetzen.
+
+### [Kooperationsfähigkeit](/mi-master-wtw/bewertungskriterien/#kooperationsfähigkeit)
+Entlang dieses Kriteriums wird bewertet, inwieweit die einzelnen Teilnehmer sich eingebracht haben, inwieweit Arbeitspakete und Arbeitslast verteilt wurden, wie das Projekt und die Projektrollen organisiert und verteilt wurden. 
+
+
 ## Projektthemen
 
 Ein Projektthema wird im Normalfall über alle drei Projektphasen und somit über drei Semester bearbeitet. Die Teams oder Teammitglieder können von Phase zu Phase variieren.
 
 {% include functions/show-projects.html %}
+
+
+## Rahmenbedingungen für alle Projekte
+
+Erzeugen Sie für Ihr Projekt ein Git Repo und nutzen Sie die Werkzeuge der Git Forge (Issues, Wiki, Projects, etc.). Projektrepos in Weaving the Web sind in der Regel öffentlich und mit einer entsprechenden Lizenz ausgestattet. Die Autorenschaft muss sichtbar sein und es versteht sich von selbst, dass Sie keine Rechte von Dritten verletzen. Laden Sie den Projektbetreuer zu Ihrem Repo ein. Zur Projektabgabe muss ihr Repo so aufbereitet sein, dass ein anderes Team Ihre Arbeit fortsetzen kann, ohne eine große Übergabe machen zu müssen. Dokumentieren Sie Ihr Projekt im Repo via Wiki oder Markdown Files. Vermeiden Sie geschlossene oder proprietäre Formate wie \*.pdf oder \*.doc. 
+
+Eine kurze Zusammenfassung Ihres Projekts muss via Pull Request in das Weaving the Web Repo integriert werden. Weitere Informationen dazu folgen in Kürze.
