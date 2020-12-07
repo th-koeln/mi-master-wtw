@@ -78,9 +78,14 @@ Sind die Ergebnisse und Artefakte so aufbereitet, dass sie in der Praxis oder du
 <!-- [Quellcode & Dokumentation](/mi-master-wtw/bewertungskriterien/#quellcode--dokumentation) -->
 Wurde der Quellcode verständlich strukutriert und dokumentiert? Gibt es eine Übersicht über die verschiedenen Artefakte und Komponenten? Wird klar, wie die verschiedenen Einzelteile zusammen hängen? Werden notwendige Voraussetzungen explizit gemacht? Sind wesentliche Entscheidungen dokumentiert? Kann das Projekt durch Dritte genutzt, gestartet, installiert und/ oder erweitert werden? Sind die Commits verständlich und nachvollziehbar?
 
-#### Zeitmanagement, Flexibilität, Motivation & Empathie bei Workshops
+#### (Zeit)management, Flexibilität, Motivation & Empathie
 <!-- [Zeitmanagement, Flexibilität, Motivation &amp; Empathie (Workshops)](/mi-master-wtw/bewertungskriterien/#zeitmanagement-flexibilität-motivation--empathie)-->
+
+**Bei Workshops:**
 Werden die Teilnehmer gut unterstützt? Wird Rücksicht auf verschiedenen Arbeits- und Lerngeschwindigkeiten genommen? Werden die Teilnehmer motiviert, ins Thema einzusteigen? Sind die Arbeitsanweisungen verständlich und eindeutig? Wird auf Rückfragen und Probleme von Teilnehmern eingegangen? Ist das begleitetende Material gut strukuriert und nachhaltig bereit gestellt?
+
+**Im Projekt:**
+Wird aktiv und umsichtig mit der Ressource «Zeit» umgegangen? Wird der Zeitaufwand von Tasks geschätzt und dokumentiert? Werden die Schätzungen im Nachgang überprüft und Rückschlüsse für zukünftige Schätzungen gezogen? Werden adäquate Projektmanagementstrategieren und -werkzeuge eingesetzt? Sind die Teilnehmer engagiert? Wie wird mit Hindernissen und Problemen umgegangen?
 
 #### Ökonomie
 <!-- [Ökonomie](/mi-master-wtw/bewertungskriterien/#ökonomie) -->
