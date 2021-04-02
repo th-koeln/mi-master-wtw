@@ -1,134 +1,150 @@
 week-1:
   day-1:
-    datum: 2020-03-31
+    datum: 2021-04-13
     start: "09:00"
     end: "17:00"
     name: Dienstag
 week-2:
   day-1:
-    datum: 2020-04-07
+    datum: 2021-04-20
     start: "09:00"
     end: "17:00"
     name: Dienstag
 week-3:
   day-1:
-    datum: 2020-04-14
+    datum: 2021-04-27
     start: "09:00"
     end: "17:00"
     name: Dienstag
 week-4:
   day-1:
-    datum: 2020-04-21
+    datum: 2021-05-04
     start: "09:00"
     end: "17:00"
     name: Dienstag
 week-5:
   day-1:
-    datum: 2020-04-28
+    datum: 2021-05-11
     start: "09:00"
     end: "17:00"
     name: Dienstag
 week-6:
   day-1:
-    datum: 2020-05-05
+    datum: 2021-05-18
     start: "09:00"
     end: "17:00"
     name: Dienstag
 week-7:
   day-1:
-    datum: 2020-05-12
+    datum: 2021-05-25
     start: "09:00"
     end: "17:00"
     name: Dienstag
 week-8:
   day-1:
-    datum: 2020-05-19
+    datum: 2021-06-01
     start: "09:00"
     end: "17:00"
     name: Dienstag
 week-9:
   day-1:
-    datum: 2020-05-26
+    datum: 2021-06-08
     start: "09:00"
     end: "22:00"
     name: Dienstag
 week-10:
   day-1:
-    datum: 2020-06-02
+    datum: 2021-06-14
     start: "09:00"
     end: "17:00"
     name: Dienstag
-  day-2:
-    datum: 2020-06-03
-    start: "09:00"
-    end: "17:00"
-    name: Mittwoch
 week-11:
   day-1:
-    datum: 2020-06-09
+    datum: 2021-06-21
     start: "09:00"
     end: "17:00"
     name: Dienstag
 week-12:
   day-1:
-    datum: 2020-06-16
+    datum: 2021-06-28
     start: "09:00"
     end: "17:00"
     name: Dienstag
-  day-2:
-    datum: 2020-06-17
-    start: "09:00"
-    end: "13:00"
-    name: Mittwoch
 week-13:
   day-1:
-    datum: 2020-06-23
+    datum: 2021-07-06
     start: "09:00"
     end: "17:00"
     name: Dienstag
-  day-2:
-    datum: 2020-06-24
-    start: "09:00"
-    end: "13:00"
-    name: Mittwoch
 week-14:
   day-1:
-    datum: 2020-06-29
+    datum: 2021-07-12
     start: "09:00"
-    end: "17:00"
-    name: Montag
-  day-2:
-    datum: 2020-06-30
-    start: "09:00"
-    end: "17:00"
+    end: "13:00"
     name: Dienstag
 week-15:
   day-1:
-    datum: 2020-07-07
+    datum: 2021-07-19
     start: "09:00"
     end: "17:00"
     name: Dienstag
 week-16:
   day-1:
-    datum: 2020-07-15
+    datum: 2021-07-26
     start: "09:00"
-    end: "17:00"
-    name: Mittwoch
+    end: "13:00"
+    name: Dienstag
 week-17:
   day-1:
-    datum: 2020-08-04
+    datum: 2021-08-02
     start: "09:00"
     end: "17:00"
     name: Dienstag
 week-18:
   day-1:
-    datum: 2020-09-08
+    datum: 2021-08-09
     start: "09:00"
     end: "17:00"
     name: Dienstag
 week-19:
   day-1:
-    datum: 2020-09-29
+    datum: 2021-08-16
+    start: "09:00"
+    end: "17:00"
+    name: Dienstag
+week-20:
+  day-1:
+    datum: 2021-08-23
+    start: "09:00"
+    end: "17:00"
+    name: Dienstag
+week-21:
+  day-1:
+    datum: 2021-08-30
+    start: "09:00"
+    end: "17:00"
+    name: Dienstag
+week-22:
+  day-1:
+    datum: 2021-09-06
+    start: "09:00"
+    end: "17:00"
+    name: Dienstag
+week-23:
+  day-1:
+    datum: 2021-09-13
+    start: "09:00"
+    end: "17:00"
+    name: Dienstag
+week-24:
+  day-1:
+    datum: 2021-09-20
+    start: "09:00"
+    end: "17:00"
+    name: Dienstag
+week-25:
+  day-1:
+    datum: 2021-09-27
     start: "09:00"
     end: "17:00"
     name: Dienstag

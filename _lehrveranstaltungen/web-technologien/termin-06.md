@@ -4,11 +4,11 @@ kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2020-05-19 13:00
+termine: 2021-06-01 13:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 150
-raum: https://conf.dfn.de/webapp/conference/979113104
+dauer: 180
+raum: Online, Zugangsdaten im Ilias
 info: How-To Workshop
 ---
 

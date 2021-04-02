@@ -4,11 +4,11 @@ kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2020-09-29 10:00
+termine: 2021-09-27 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: https://us02web.zoom.us/j/3691635119 (Kennwort via Slack)
+raum: Online, Zugangsdaten im Ilias
 info: 
 ---
 
@@ -23,11 +23,10 @@ Bitte reservieren Sie hier einen Termin via Pull Request. Für die Prüfung soll
 
 | Uhrzeit |Name |Link zum Beiboot Repo|
 | --- | --- | --- |
-|10:00| Pascal Schorde | [https://github.com/mi-classroom/mi-web-technologien-beiboot-ss2020-p2sk](https://github.com/mi-classroom/mi-web-technologien-beiboot-ss2020-p2sk) |
-|10:30 | Dominik Deimel | [https://github.com/mi-classroom/mi-web-technologien-beiboot-ss2020-Dominikdeimel](https://github.com/mi-classroom/mi-web-technologien-beiboot-ss2020-Dominikdeimel) |
-|11:00 | Anja Bertels |  [https://github.com/mi-classroom/mi-web-technologien-beiboot-ss2020-AnleAnja](https://github.com/mi-classroom/mi-web-technologien-beiboot-ss2020-AnleAnja)
-|11:30 | Alexander Strutz | [Repo (PWA siehe Readme)](https://github.com/mi-classroom/mi-web-technologien-beiboot-ss2020-astrutz) |
-|13:00 | Dmitrii Kuznetcov | https://github.com/mi-classroom/mi-web-technologien-beiboot-ss2020-d-kuznetsov |
-|13:30 | Benjamin Pagelsdorf | [https://github.com/mi-classroom/mi-web-technologien-beiboot-ss2020-BenPag](https://github.com/mi-classroom/mi-web-technologien-beiboot-ss2020-BenPag) |
-|14:00 | - | - |
+|10:00 | - | - |
+|10:30 | - | - |
+|11:00 | - | - |
+|11:30 | - | - |
+|12:00 | - | - |
+|12:30 | - | - |
 

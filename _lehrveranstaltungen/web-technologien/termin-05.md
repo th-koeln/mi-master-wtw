@@ -4,11 +4,11 @@ kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2020-05-05 13:00
+termine: 2021-05-18 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
-raum: Online
+raum: Online, Zugangsdaten im Ilias
 info: 
 ---
 

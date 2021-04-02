@@ -4,11 +4,11 @@ kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2020-04-14 13:00
+termine: 2021-04-20 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: Online
+raum: Online, Zugangsdaten im Ilias
 info: 
 ---
 
@@ -39,8 +39,7 @@ Kurze Begriffsklärung: was ist der Unterschied zwischen **Technologiescouting**
 ## Was muss vorbereitet werden?
 
 ### Beiboot Projekt
-Folgendes Feature muss implementiert sein und Sie müssen in der Lage sein Ihren Code und die Gedanken dahinter in 3 - 5 Minuten vorzustellen:
-[https://github.com/mi-classroom/mi-master-wt-beiboot-2020/issues/1](Image Upload)
+tbd
 
 ### Themen für Technologiescouting
 Sichten Sie drei Themen im Rahmen des **Technologiescoutings**. Sie müssen in der Lage sein die Themen, deren Relevanz und Ihre Motivation zu den Themen kurz gegenüber der Gruppe vorzustellen. Hier ein paar Vorschläge für mögliche Quellen & Inspiration:
