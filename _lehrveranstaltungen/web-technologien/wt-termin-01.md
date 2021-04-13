@@ -29,7 +29,7 @@ info:
 4. Eröterung möglicher Felder für die eigene Know-how Erweiterung im Anwendungsgebiet mit Hilfe der Developer Roadmap (alle)
 5. Vorstellung von drei eigenen Web-Dev Projekten (alle)
 6. Ausblick auf die nächste Session (alle)
-7. Vorstellung des [«Beiboot» Projekts](https://github.com/mi-classroom/mi-master-wt-beiboot-2021) und dem zugehörigen [Issue](https://github.com/mi-classroom/mi-master-wt-beiboot-2021/issues/1)
+7. Vorstellung des [«Beiboot» Projekts](https://classroom.github.com/a/dZI7lhjO) und dem zugehörigen [Issue](https://github.com/mi-classroom/mi-master-wt-beiboot-2021/issues/1)
 
 ## Was muss vorbereitet werden?
 
