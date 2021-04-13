@@ -5,7 +5,25 @@ titel: Bewertungskriterien
 
 ## Workshop
 
-Hierbei handelt es sich um eine interaktive Lern- oder Trainingseinheit zu einem Thema. Der Workshop wird vom Autor in einer Live-Situation in maximal 180 Minuten durchgeführt. Dem Workshop muss ein kurzes Abstract vorangestellt werden, aus dem auch hervorgeht an welche Zielgruppe sich der Workshop richtet, welche Kenntnisse und Voraussetzung gegeben sein müssen und was durch den Workshop vermittelt wird. Die erforderlichen Dokumente müssen als Hypertexte oder Markdown Files bereit gestellt werden und alle enthaltenen Ressourcen wie Grafiken und Bilder referenzieren. Sollten Videosequenzen enthalten sein, dann müssen diese über den Youtube Kanal der Medieninformatik verfügbar gemacht und ins Dokument eingebunden werden.
+Hierbei handelt es sich um eine interaktive Lern- oder Trainingseinheit zu einem Thema. Der Workshop wird vom Autor in einer Live-Situation in maximal 180 Minuten durchgeführt. Alternativ kann der Workshop, in Absprache mit dem Dozenten, auch als Online Workshop konzipiert werden. Der Workshop sollte folgende Komponenten enthalten:
+
+### Einführung ins Thema
+Warum ist das Thema relevant für das Modul? Wie hat sich das Thema entwickelt und woher kommt es? Wer treibt das Thema voran und warum? Für wenn ist das Thema interessant?
+
+### Kurzübersicht über den Workshop
+Was passiert im Workshop? Was muss ich als Teilnehmer mitbringen? Was muss ich vorbereiten? Was kann ich nach dem Workshop besser als vorher?
+
+### Theoretischer/ Grundlagenteil
+Wesentliche Konzepte, Ideen, Techniken, Kontexte etc. um das Thema zu verstehen und im Themenfeld agieren zu können.
+
+### Praktischer Teil
+Das ist der wichtigste Teil des Workshops, denn hier findet eine konkrete, praktische Auseinandersetzung mit dem Thema statt: Übungen, Aufgaben, Analysen, Synthese, etc. Der oder die praktischen Teile müssen gut an- und abmoderiert werden und auch gut begleitet und dokumentiert werden.
+
+### Zusammenfassung, WrapUp & Feedback
+Was wurde gemacht? Was sollen/ können die Teilnehmer mitnehmen? Wie kann man das Thema vertiefen? Was haben die Teilnehmer mitgenommen?
+
+### Abstract
+Dem Workshop muss ein kurzes Abstract vorangestellt werden, aus dem auch hervorgeht an welche Zielgruppe sich der Workshop richtet, welche Kenntnisse und Voraussetzung gegeben sein müssen und was durch den Workshop vermittelt wird. Die erforderlichen Dokumente müssen als Hypertexte oder Markdown Files bereit gestellt werden und alle enthaltenen Ressourcen wie Grafiken und Bilder referenzieren. Sollten Videosequenzen enthalten sein, dann müssen diese über den Youtube Kanal der Medieninformatik verfügbar gemacht und ins Dokument eingebunden werden. 
 
 Folgende Angaben müssen enthalten sein:
 - Thema

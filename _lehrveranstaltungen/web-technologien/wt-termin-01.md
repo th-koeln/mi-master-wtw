@@ -14,8 +14,8 @@ info:
 
 
 ## Zielsetzung des Tages
-
 - gemeinsames Bild des Moduls erarbeiten
+- [Empfohlene Voraussetzungen/ Kenntnisse und Fertigkeiten](/mi-master-wtw/empfohlene-voraussetzungen/) besprechen
 - aktuellen Leistungsstand erfassen
 - Stärken und Schwächen ermitteln
 - Ziele für die persönliche Kompetenzentwicklung eruieren
@@ -26,10 +26,10 @@ info:
 1. Erläuterung des Moduls (c.noss)
 2. Zusammenfassung der wesentlichen Outcomes aus den Modulen Web-Architekturen und «Sicherheit, Privatsphäre und Vertrauen» (Teilnehmer)
 3. Verortung des aktuellen Know-how Standes auf der [Developer Roadmap von Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap) (alle)
-4. Entwicklung einer vorläufigen Zielsetzung für eigene Know-how Erweiterung im Anwendungsgebiet mit Hilfe der Developer Roadmap (alle)
+4. Eröterung möglicher Felder für die eigene Know-how Erweiterung im Anwendungsgebiet mit Hilfe der Developer Roadmap (alle)
 5. Vorstellung von drei eigenen Web-Dev Projekten (alle)
-6. Schnüren von Arbeitspaketen für die nächste Session (alle)
-7. Vorstellung des [«Beiboot» Projekts](https://github.com/mi-classroom/mi-master-wt-beiboot-2021) und dem zugehörigen Assignment
+6. Ausblick auf die nächste Session (alle)
+7. Vorstellung des [«Beiboot» Projekts](https://github.com/mi-classroom/mi-master-wt-beiboot-2021) und dem zugehörigen [Issue](https://github.com/mi-classroom/mi-master-wt-beiboot-2021/issues/1)
 
 ## Was muss vorbereitet werden?
 
@@ -71,3 +71,7 @@ Machen Sie sich ein Bild von aktuellen Strömungen beim W3C:
 - [W3C: Standards and Drafts](https://www.w3.org/TR/)
 - [W3C: Standards](https://www.w3.org/standards/)
 
+## Kommunikation
+
+Für das Modul gibt es einen Slack Kanal. Die Anmeldung zu diesem Kanal ist **freiwillig**. Manchmal ist es, gerade in der aktuellen Situation, einfacher mich via Slack zu erreichen.
+- [Weaving The Web Slack Einladung](https://join.slack.com/t/weavingthewebgruppe/shared_invite/zt-oyj4usmq-04XhRCt0UB5Cq~vmVAYibA)
