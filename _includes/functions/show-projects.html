@@ -1,9 +1,9 @@
 {% assign projektthemen = site.projektthemen %}
 <!-- Formatierung muss leider so bleiben, weil Jekyell sonst den Code ausgibt :) -->
-<div class="columns is-multiline">
+<div class="grid">
 {% for projektthema in projektthemen %}
 {% include /functions/resolve-names.html verantwortlich=projektthema.verantwortlich %}
-<div class="column is-one-third-tablet is-half-desktop" data-href="{{site.baseurl}}{{projektthema.url}}">
+<div class="grid-item" data-href="{{site.baseurl}}{{projektthema.url}}">
 <div class="card bm--card-equal-height">
 <div class="card-image">
 <figure class="image is-16by9">

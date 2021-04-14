@@ -781,3 +781,27 @@ pre code {
     opacity: 1;
   }
 }
+
+
+
+/**************/
+
+
+/* Projekte  */
+
+
+/**************/
+
+.grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: $bfs;
+
+  &-item{
+    height: 100%;
+  }
+
+  .card{
+    height: 100%;
+  }
+}

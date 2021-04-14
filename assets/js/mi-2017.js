@@ -364,7 +364,6 @@ showIssues.func = (function() {
 
 document.querySelectorAll('[data-href]').forEach((ele) => {
   let href = ele.dataset.href;
-  console.log(href);
   ele.addEventListener('click', () => {
     location.href = href;
   });
