@@ -22,6 +22,7 @@ info:
 ## Was passiert heute?
 0. Fragen zum Modul beantworten.
 <!--1. Vorstellung von drei eigenen Web-Dev Projekten (wer noch nicht vorgestellt hat, z.B. Herr Deimel, Frau Bertels)-->
+2. Zusammenfassung der wesentlichen Outcomes aus den Modulen Web-Architekturen und «Sicherheit, Privatsphäre und Vertrauen» (Teilnehmer)
 1. Vorstellung von drei Technologiescouting Themen (alle)
 <!--2. Vorstellung der Ergebnisse aus Projekt 1 (Projektverantwortliche)-->
 3. Zusammenfassung der Roadmaps wird vorgestellt und mögliche Themen besprochen (Christian Noss)
@@ -34,7 +35,7 @@ Beim **Technologiescouting** geht es darum über den Tellerrand des persönliche
 ## Was muss vorbereitet werden?
 
 ### Beiboot Projekt
-Hier das Classrooom Assignment des [«Beiboot» Projekts](https://classroom.github.com/a/dZI7lhjO) und das zugehörige [Issue #1](https://github.com/mi-classroom/mi-master-wt-beiboot-2021/issues/1). Bitte alle wichtigen Entscheidungen mit Hilfe des [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture_decision_record) dokumentieren.
+Hier das Classrooom Assignment des [«Beiboot» Projekts](https://classroom.github.com/a/dZI7lhjO) und das zugehörige [Issue #1](https://github.com/mi-classroom/mi-master-wt-beiboot-2021/issues/1). Bitte alle relevanten Entscheidungen mit Hilfe des [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture_decision_record) dokumentieren.
 
 ### Themen für Technologiescouting
 Sichten Sie drei Themen im Rahmen des **Technologiescoutings**. Sie müssen in der Lage sein die Themen, deren Relevanz und Ihre Motivation zu den Themen kurz gegenüber der Gruppe vorzustellen. Hier ein paar Vorschläge für mögliche Quellen & Inspiration:
@@ -42,14 +43,8 @@ Sichten Sie drei Themen im Rahmen des **Technologiescoutings**. Sie müssen in d
 - [Working Draft](http://workingdraft.de/)
 - [ThoughtWorks TechRadar](https://www.thoughtworks.com/de/radar)
 
+<!-->
+## Kleine Sprintaufgabe
+Finden Sie mit dem Team Ihres Breakout Rooms eine (zeitgemäße) Website, die bei der Analyse der Startseite via [Google LightHouse](https://developers.google.com/web/tools/lighthouse) mit max. 70 Punkte pro Kriterium abschneidet. Analysieren Sie die Vorschläge für Performance und Best-Practices und erläutern Sie, was zu deren Optimierung zu tun ist.-->
 
-{% include online-session.md %}
-
-## Zusammenfassung der Roadmaps
-
-### [Frontend Development](../../../images/WebTech-Roadmaps-frontend.png)
-tbd.
-
-### [Backend Development](../../../images/WebTech-Roadmaps-backend.png)
-tbd.
-
+<!-- wget -E -H -k -p https://google.com-- >
