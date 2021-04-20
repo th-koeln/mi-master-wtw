@@ -43,8 +43,8 @@ Sichten Sie drei Themen im Rahmen des **Technologiescoutings**. Sie müssen in d
 - [Working Draft](http://workingdraft.de/)
 - [ThoughtWorks TechRadar](https://www.thoughtworks.com/de/radar)
 
-<!-->
+<!--
 ## Kleine Sprintaufgabe
 Finden Sie mit dem Team Ihres Breakout Rooms eine (zeitgemäße) Website, die bei der Analyse der Startseite via [Google LightHouse](https://developers.google.com/web/tools/lighthouse) mit max. 70 Punkte pro Kriterium abschneidet. Analysieren Sie die Vorschläge für Performance und Best-Practices und erläutern Sie, was zu deren Optimierung zu tun ist.-->
 
-<!-- wget -E -H -k -p https://google.com-- >
+<!-- wget -E -H -k -p https://google.com-->
