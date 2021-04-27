@@ -13,20 +13,22 @@ info:
 ---
 
 ## Zielsetzung des Tages
-- Überblick über den Stand der Technologiescoutings bekommen
-- Themen ggf. nachschärfen und ausrichten
+- Überblick über die Workshopthemen und -termine bekommen, ggf. Themen nachschärfen und ausrichten
 - Wissentransfer im Team
-- Code vorstellen & Technologieentscheidungen argumentieren
+- Wissentransfer durch Beiboot Codevorstellung und Argumentation der Technologieentscheidungen
+- Nächstes Issue kennen lernen
+- Haltung zu bestimmten Fragen/ Themen/ Technologien entwickeln
 
 ## Was passiert heute?
-- Snapshots/ Kurzvorträge zum aktuellen Stand des Technologiescoutings und resultierenden Workshopideen
-- Diskussion der Ergebnisse des Technologiescoutings und deren Passgenauigkeit zum Modul
-- kurzer Impuls für die Durchführung von Workshops
-- Codereviews des Beibootprojekts
+- Codevorstellung Beiboot Issue #1
+- Vorstellung & Start [Issue #2](https://github.com/mi-classroom/mi-master-wt-beiboot-2021/issues/2)
+- Besprechung Workshopthemen
+- Diskussion WebTech Bausteine
+- Diskussion Simplicity
 
 ## Was muss vorbereitet werden?
-- Issue#1 des Beiboot Projekts muss fertig sein
-- die recherchierten Themen des Technologiescoutings müssen vorgestellt werden können
+- Issue#1 des Beiboot Projekts muss fertig sein und vorgestellt werden können
+- Workshopthemen müssen vorgestellt werden können
 
 - 
 <!--
