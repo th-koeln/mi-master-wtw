@@ -1,30 +1,25 @@
 ---
-titel: Seminar Web-Technologien // How-To Workshop?
+titel: Feedbacktermin Web-Technologien // Rücksprache zum Workshop &/ Beibootprojekt
 kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2021-06-01 13:00
+termine: 2021-05-25 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
 raum: Online, Zugangsdaten im Ilias
-info: How-To Workshop
+info: 
 ---
 
+Dieser Termin ist optional und richtet sich an diejenigen, die Feedback/ Support zu ihrem Workshop oder dem Beiboot Projekt benötigen.
 
 ## Zielsetzung des Tages
-- Alle haben die notwendigen Grundlagen zur Erarbeitung und Durchführung ihres Workshops
-- Alle kennen die [Bewertungskriterien für den Workshop](https://th-koeln.github.io/mi-master-wtw/formate/#workshop)
+- etwaige RÜckfragen/ Absprachen zu den einzelnen Workshops und dem Beiboot Projekt klären 
 
 ## Was passiert heute?
-- Input/ Workshop zum Thema Workshop :)
-- Diskussion über den Stand der Teilnehmer-Workshops
-- Review Beiboot Projekte
+- Besprechung der Workshops
 
 ## Was muss vorbereitet werden?
-- Alle sollten die Grundstruktur ihres Workshops vorbereitet haben
-
-## Material
-- [Mindmap zum Thema Workshops](../../../material/web-technologien/gedanken-zum-workshopping.pdf)
+- Fragen :)
 

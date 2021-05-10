@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien // Absprache Workshopthemen & Code Review Beiboot Projekt
+titel: Seminar Web-Technologien // HowTo Workshop & Git Workflow Tipps …
 kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
@@ -13,16 +13,20 @@ info:
 ---
 
 ## Zielsetzung des Tages
-- Wir haben einen groben Terminplan für die Workshops
+- Alle haben eine Idee/ Grundstruktur zur Erarbeitung und Durchführung ihres Workshops
+- Alle kennen die [Bewertungskriterien für den Workshop](https://th-koeln.github.io/mi-master-wtw/bewertungskriterien/#workshop)
 
 ## Was passiert heute?
-- kurzer Impuls für die Durchführung von Workshops
+- Review Beiboot Projekte
+- Input/ Fragerunde zu Git Specials mit [Dirk Breuer](https://codelater.de/)
+- kurzer Input zum Thema Workshop :)
+- Diskussionsrunde zu verschiedenen Tools & Frameworks
+- bei Bedarf: Absprachen Stand der Teilnehmer-Workshops
 
 ## Was muss vorbereitet werden?
-
+- Issue 2 des Beiboot Projekts muss fertig sein
 
 ## Material
+- [Mindmap zum Thema Workshops](../../../material/web-technologien/gedanken-zum-workshopping.pdf)
 - [Styleguide MI](https://www.medieninformatik.th-koeln.de/tools/styleguide/)
 - [Mi Slides](https://github.com/cnoss/mi-slides)
-
-

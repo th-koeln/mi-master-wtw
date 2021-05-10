@@ -1,5 +1,5 @@
 ---
-titel: Feedbacktermin Web-Technologien // Rücksprache zu Workshop & Beibootprojekt
+titel: Seminar Web-Technologien // What's up?
 kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
@@ -7,18 +7,24 @@ pflicht: false
 termine: 2021-05-18 13:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 120
+dauer: 180
 raum: Online, Zugangsdaten im Ilias
 info: 
 ---
 
-Dieser Termin ist optional und richtet sich an diejenigen, die Feedback/ Support zu ihrem Workshop oder dem Beiboot Projekt benötigen.
-
 ## Zielsetzung des Tages
-- etwaige RÜckfragen/ Absprachen zu den einzelnen Workshops und dem Beiboot Projekt klären 
+- Jeder  Teilnehmer kann ein WebTech Thema vorstellen, argumentieren, diskutieren und die Diskussion zusammen fassen.
 
 ## Was passiert heute?
-- Besprechung der Workshops
+- Vorstellung und Besprechung von *Staff Picks* aus der [DEV Community](https://dev.to/) oder dem [W3C](https://www.w3.org/blog/news/)
 
 ## Was muss vorbereitet werden?
-- Fragen :)
+1. Beitrag suchen, der alle Teilnehmer interessieren/ angehen (sollte).
+2. Beitrag vorstellen können:
+  - warum ist der Beitrag im Kontext von WebTech relevant/ interessant?
+  - was ist die Kernaussage?
+3. Diskussion zum Beitrag anregen, moderieren und zusammenfassen können.
+
+## Material
+- [DEV Community](https://dev.to/) 
+- [W3C News](https://www.w3.org/blog/news/)
