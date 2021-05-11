@@ -22,6 +22,7 @@ info:
 - kurzer Input zum Thema Workshop :)
 - Diskussionsrunde zu verschiedenen Tools & Frameworks
 - bei Bedarf: Absprachen Stand der Teilnehmer-Workshops
+- neues Beiboot Feature vorstellen
 
 ## Was muss vorbereitet werden?
 - Issue 2 des Beiboot Projekts muss fertig sein
