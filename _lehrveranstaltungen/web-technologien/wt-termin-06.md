@@ -15,7 +15,7 @@ info:
 Dieser Termin ist optional und richtet sich an diejenigen, die Feedback/ Support zu ihrem Workshop oder dem Beiboot Projekt benötigen.
 
 ## Zielsetzung des Tages
-- etwaige RÜckfragen/ Absprachen zu den einzelnen Workshops und dem Beiboot Projekt klären 
+- etwaige Rückfragen/ Absprachen zu den einzelnen Workshops und dem Beiboot Projekt klären 
 
 ## Was passiert heute?
 - Besprechung der Workshops
