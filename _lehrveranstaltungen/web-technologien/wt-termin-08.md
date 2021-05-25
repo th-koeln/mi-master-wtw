@@ -1,7 +1,7 @@
 ---
-titel: Workshop Web-Technologien // Testing
+titel: Workshop Web-Technologien // Clean Develop Environment
 kuerzel: s-wt
-verantwortlich: Nickolas Beckel
+verantwortlich: Yannic Brügger
 typ: seminar
 pflicht: false
 termine: 2021-06-08 13:00
