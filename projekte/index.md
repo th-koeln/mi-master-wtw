@@ -12,7 +12,32 @@ Im [Medieninformatik Master](https://www.medieninformatik.th-koeln.de/study/mast
 
 
 ## [Projekt 1: Vision und Konzept](https://www.medieninformatik.th-koeln.de/study/master/moduls/ma_modul_projekt_visionkonzept/)
-In diesem Projekt wird eine Idee für ein Produkt oder einen Dienst entwickelt oder weiterentwickelt, eine Recherche des Marktes und Standes von Wissenschaft und Technik durchgeführt, und ein Konzept soweit definiert und dokumentiert, dass in einem nachfolgenden Projekt ein Entwicklerteam in der Lage ist, einen ersten Prototyp zu realisieren oder zu erweitern.
+In diesem Projekt wird eine Idee für ein Produkt oder einen Dienst entwickelt oder weiterentwickelt, eine Recherche des Marktes und Standes von Wissenschaft und Technik durchgeführt und ein Konzept soweit definiert und dokumentiert, dass in einem nachfolgenden Projekt(Projekt 2) ein Entwicklerteam in der Lage ist, ein „Minimum Viable Product“ zu realisieren. Beachten Sie bitte, dass in Projekt 2 möglichst viel Workload in die Entwicklung gesteckt werden soll. Somit sollte die Vorentwicklung bereits mit dem Projekt 1 abgeschlossen werden, dazu können u.A. gehören: Entwicklung von Datenstrukturen, Entwicklung des Designs, Proof of Concepts, Gestaltung der Anwendungsarchitektur, etc.
+
+Folgende Bewertungskriterien werden angewendet:
+
+### [Recherche, Durchdringung & Substanz](/mi-master-wtw/bewertungskriterien/#recherche-durchdringung--substanz)
+Wurden Stakeholder, Problemfeld und -kontext verstanden? Wurde der Forschungsstand und Entwicklungsstand im Gegenstandsbereich umfassend recherchiert? 
+
+### [Ausarbeitungsprozess & Wiederholbarkeit](/mi-master-wtw/bewertungskriterien/#ausarbeitungsprozess--wiederholbarkeit)
+Wurdem wesentliche Entscheidungen thematisiert, diskutiert und dokumentiert, so dass eine vergleichbare Ergebnisqualität in anderen Zusammenhängen und Projekten prinzipiell wiederholbar wäre? Wird das Ergebnis kritisch reflektiert?
+
+### [Darstellung, Artikulationsfähigkeit & Eloquenz](/mi-master-wtw/bewertungskriterien/#darstellung-artikulationsfähigkeit--eloquenz)
+Wie verständlich kann sich der/die Studierende ausdrücken? Ist die Dokumentation im Repo klar, nachvollziehbar und glaubhaft? Ist das Product-Backlog wurde verständlich und konsistent ausgearbeitet? Sind die einzelnen Stories sind nachvollziehbar und detailliert genug ausgearbeitet, so dass Entwickler:innen mühelos mit der Implementierung beginnen können? 
+### [Kritik- & Diskursfähigkeit](/mi-master-wtw/bewertungskriterien/#kritik---diskursfähigkeit)
+Wird mit kritischen und schwierigen Aspekten des Projekts offensiv und sachlich umgegangen? Ist der/die Studierende in der Lage auf angemessenem fachlichen und wissenschaftlichen Niveau über  das Projekt zu diskutieren? Wie geht der/die Studierende mit Fragen um?
+
+### [Kenntnisse und Fertigkeiten](/mi-master-wtw/bewertungskriterien/#kenntnisse-und-fertigkeiten)
+Wie groß ist das fachliche Repertoire des/der Studierende/n und wie reflektiert wird dieses im Sinne des Projekts eingesetzt? 
+
+### [Nutz- & Anwendbarkeit](/mi-master-wtw/bewertungskriterien/#nutz---anwendbarkeit)
+Sind die Ergebnisse und Artefakte so aufbereitet, dass sie in der Praxis oder durch die Community oder andere Projektteams nutzbar sind? Wurden verständliche und sinnvolle Strukturen für die Artefakte gewählt? Werden die Ergebnisse nachhaltig bereit gestellt. Ist die Urheberschaft der einzelnen Artefakte und des gesamten Projekts erkennbar? Ist offensichtlich, welchen Stand das Projekt hat? 
+
+### [Quellcode & Dokumentation](/mi-master-wtw/bewertungskriterien/#quellcode--dokumentation)
+Wurde der Quellcode verständlich struktutriert und dokumentiert? Gibt es eine Übersicht über die verschiedenen Artefakte und Komponenten? Wird klar, wie die verschiedenen Einzelteile zusammen hängen? Werden notwendige Voraussetzungen explizit gemacht? 
+
+### [Kooperationsfähigkeit](/mi-master-wtw/bewertungskriterien/#kooperationsfähigkeit)
+Hat der/die Studierende ein hohes Interesse am gemeinsamen Erfolg und ist bereit sich einzubringen? In wie weit werden professionelle Werkzeuge und Techniken eingesetzt, um gemeinsames Handeln unabhängig von zeitlichen und räumlichen Faktoren zu organisieren und zu koordinieren? Werden Informationen und Dokumente in geeigneter Form der Gruppe bereit gestellt? Werden die oder der Kooperationspartner gut integriert? Werden zeitliche Vorgaben und Absprachen getroffen und eingehalten?
 
 ## [Projekt 2: Entwicklung](https://www.medieninformatik.th-koeln.de/study/master/moduls/ma_modul_projekt_entwicklung/)
 
