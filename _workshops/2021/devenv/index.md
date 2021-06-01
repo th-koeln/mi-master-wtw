@@ -58,10 +58,8 @@ I will use the following setup:
 - Pamac / pacman package manager
 - Git
 
-
 ## Target group
 If you are a serious and / or passionate developer, the workshop might be interesting for you. A clean environment is important for yourself and even has a great impact on your productivity. Additionally, a proper management of your setup can save you valuable time.
-
 
 ## Material
 - [Workshop Survey](https://ilias.th-koeln.de/ilias.php?baseClass=ilObjSurveyGUI&ref_id=1924966&cmd=infoScreen)
