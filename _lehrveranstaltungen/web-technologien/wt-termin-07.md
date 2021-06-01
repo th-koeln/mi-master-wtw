@@ -18,7 +18,7 @@ info:
 
 ## Was passiert heute?
 - Review Beiboot Projekte
-- neues Beiboot Feature vorstellen
+- [neues Beiboot Feature vorstellen](https://github.com/mi-classroom/mi-master-wt-beiboot-2021/issues/4)
 - Recherche und Hands-on zum Thema Web Performance
 
 ## Was muss vorbereitet werden?
