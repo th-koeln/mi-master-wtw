@@ -12,5 +12,5 @@ raum: Online, Zugangsdaten im Ilias
 info: 
 ---
 
-Weitere Infos folgen
+Weitere Infos auf der Seite zum [Getting started with Alpine.js](/mi-master-wtw/workshops/2021/alpinejs/index/)
 
