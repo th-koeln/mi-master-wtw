@@ -23,7 +23,7 @@ Das ist der wichtigste Teil des Workshops, denn hier findet eine konkrete, prakt
 Was wurde gemacht? Was sollen/ können die Teilnehmer mitnehmen? Wie kann man das Thema vertiefen? Was haben die Teilnehmer mitgenommen?
 
 ### Abstract
-Dem Workshop muss ein kurzes [Abstract](/mi-master-wtw/workshops/info-workshop-abstract/) vorangestellt werden, aus dem auch hervorgeht an welche Zielgruppe sich der Workshop richtet, welche Kenntnisse und Voraussetzung gegeben sein müssen und was durch den Workshop vermittelt wird. Die erforderlichen Dokumente müssen als Hypertexte oder Markdown Files bereit gestellt werden und alle enthaltenen Ressourcen wie Grafiken und Bilder referenzieren. Sollten Videosequenzen enthalten sein, dann müssen diese über den Youtube Kanal der Medieninformatik verfügbar gemacht und ins Dokument eingebunden werden. 
+Dem Workshop muss ein kurzes [Abstract](/mi-master-wtw/info-workshop-abstract/) vorangestellt werden, aus dem auch hervorgeht an welche Zielgruppe sich der Workshop richtet, welche Kenntnisse und Voraussetzung gegeben sein müssen und was durch den Workshop vermittelt wird. Die erforderlichen Dokumente müssen als Hypertexte oder Markdown Files bereit gestellt werden und alle enthaltenen Ressourcen wie Grafiken und Bilder referenzieren. Sollten Videosequenzen enthalten sein, dann müssen diese über den Youtube Kanal der Medieninformatik verfügbar gemacht und ins Dokument eingebunden werden. 
 
 Folgende Angaben müssen enthalten sein:
 - Thema
@@ -42,6 +42,7 @@ Folgende Bewertungskriterien sind relevant:
 - [Nutz- & Anwendbarkeit](/mi-master-wtw/bewertungskriterien/#nutz---anwendbarkeit)
 - [Kenntnisse und Fertigkeiten](/mi-master-wtw/bewertungskriterien/#kenntnisse-und-fertigkeiten)
 - [Quellcode & Dokumentation](/mi-master-wtw/bewertungskriterien/#quellcode--dokumentation)
+- [Kooperationsfähigkeit](/mi-master-wtw/bewertungskriterien/#kooperationsfähigkeit) 
 
 
 ## Beiboot Projekt
