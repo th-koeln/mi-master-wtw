@@ -27,12 +27,13 @@ Kenntnisse in Vue oder React erleichtern den Einstieg, sind aber keine muss, um 
 ## Vorbereitungen
 - [Alpine.js Devtools](https://github.com/alpine-collective/alpinejs-devtools) installieren (nur für Chrome & Firefox erhältlich ✌️)
 - (Optional) [Alpine.js IntelliSense](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.alpine-js-intellisense) für VSCode installieren
-- Github Repo zum Workshop clonen (TBA)
+- [Github Repo zum Workshop](https://github.com/WasMachenSachen/alpine-workshop-wtw) clonen 
 
 ## Material
 
-- Alpine.js [Dokumentation](https://github.com/alpinejs/alpine)
+- Alpine.js [Dokumentation](https://github.com/alpinejs/alpine/tree/2.x)
+- Alpine.js V3 [Dokumentation](https://alpinejs.dev/)
 - Alpine.js [Devtools](https://github.com/alpine-collective/alpinejs-devtools)
 - Alpine.js [IntelliSense](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.alpine-js-intellisense)
-- Github Repo mit Übungen (TBA)
-- Folien (TBA)
+- [Github Repo mit Übungen](https://github.com/WasMachenSachen/alpine-workshop-wtw)
+- [Folien](https://github.com/WasMachenSachen/alpine-workshop-wtw/tree/main/folien/export)
