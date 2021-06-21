@@ -12,5 +12,5 @@ raum: Online, Zugangsdaten im Ilias
 info: 
 ---
 
-Weitere Infos folgen
+Weitere Infos auf der [Workshopankündigung](/mi-master-wtw/workshops/2021/vuejs-pwa/index/)
 
