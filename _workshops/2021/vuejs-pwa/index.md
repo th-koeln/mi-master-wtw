@@ -1,6 +1,6 @@
 ---
 layout: workshop
-titel: Set up your first PWA with Vue.js
+titel: Setting up your first PWA with Vue.js
 social-media-untertitel: Online-Workshop am 22. Juni 2021
 datum: 2021-06-22
 modul: wt
@@ -12,9 +12,9 @@ dauer: 120-150 Minuten
 raum: https://th-koeln.zoom.us/j/89337586017?pwd=L2hBbmczaWJ6TStkUjMxTHlRc0ZhUT09
 ---
 
-In diesem Workshop werden Einblicke in die Grundlagen des Frameworks Vue.js und den rudimentären Funktionalitäten einer Progressive Web App (PWA) geben. Gemeinsam soll ich einzelnen Aufgaben jeder Teilnehmer am Ende dieser Veranstaltung eine eigene kleine Vue App mit PWA Funktionalität entwickeln.
+In diesem Workshop werden Einblicke in die Grundlagen des Frameworks Vue.js und den rudimentären Funktionalitäten einer Progressive Web App (PWA) geben. Gemeinsam soll in einzelnen Aufgaben jeder Teilnehmer am Ende dieser Veranstaltung eine eigene kleine Vue App mit PWA Funktionalität entwickeln.
 
-Im verlauf des Workshops werde aufgrund der Komplexität des Themas hauptsächlich die grundlegenden Konzepte und Funktionen beleuchtet. Mit den Erfahrungen aus dem Workshop, soll es den Teilnehmern jedoch möglich sein eigenständig darauf aufzubauen.
+Im Verlauf des Workshops werden, aufgrund der Komplexität des Themas, hauptsächlich die grundlegenden Konzepte und Funktionen beleuchtet. Mit den Erfahrungen aus dem Workshop, soll es den Teilnehmern möglich sein eigenständig darauf aufzubauen.
 
 In erster Linie hat der Workshop das Frontend im Fokus, die Hintergrundprozesse werden teilweise bedeutet, aber nicht vertieft. Vorkenntnisse in HTML, (S)CSS und JS sind für die Teilnahmen von Vorteil.
 
