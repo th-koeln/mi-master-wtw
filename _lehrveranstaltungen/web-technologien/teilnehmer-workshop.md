@@ -6,7 +6,7 @@ typ: seminar
 pflicht: false
 termine: 2021-07-12 13:00
 empfohlene-voraussetzungen: 
-published: true
+published: false
 dauer: 180
 raum: Online, Zugangsdaten im Ilias
 info: 
