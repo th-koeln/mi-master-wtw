@@ -1,0 +1,88 @@
+{% assign day = include.day %}
+{% assign difftime = include.difftime %}
+{% assign starttime = include.starttime %}
+{% assign time-correction = include.time-correction %}
+
+{% assign lehrveranstaltungen = (site.lehrveranstaltungen | where: "published", "true" |  sort: 'dauer,typ')) %}
+{% assign niceDate = day.datum | date: '%d. %B %Y' | replace:"January","Januar" |
+  replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" |
+  replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" %}
+
+
+
+<div class="column">
+
+  <h3 class="datum is-3 title" data-js-date-id="date-{{day.datum | date: '%Y-%m-%d' | replace: '-0', '-'}}">{{day.name}}, {{ niceDate }}</h3>
+
+  <div class="timetable-wrap">
+  
+  {% for i in (0..difftime) %}
+  
+    <div class="timetable-grid">
+      <div class="columns is-gapless">
+        <div class="column is-1">
+          {% assign stunde = i | plus: starttime | append: "" %}
+          {% if stunde.size == 1 %}
+          {% assign stunde = stunde | prepend: "0" %}
+          {% endif %}
+          {% assign searchTime = stunde | append: ":00" %}
+          {% assign searchTermin = day.datum | append: " " | append: searchTime %}
+          <p class="grid-time">{{searchTime}}</p>
+        </div>
+
+        {% assign veranstaltungenHeute = '' | split: '' %}
+        {% for veranstaltung in lehrveranstaltungen %}
+        {% assign termine = veranstaltung | join: "termine" %}
+        {% if veranstaltung.termine contains searchTermin%}
+        {% assign veranstaltungenHeute = veranstaltungenHeute | push: veranstaltung %}
+        {% endif %}
+        {% endfor %}
+
+        {% for veranstaltung in veranstaltungenHeute %}
+
+          {% assign termine = veranstaltung.termine | split: "," %}
+          {% assign default-data = veranstaltung.raum | split: "|" %}
+          {% assign default-raum = default-data[0] %}
+          {% assign termin-start-min = termin | date: '%M'  %}
+
+          <div class="column">
+							{% include /functions/resolve-types.html typ=veranstaltung.typ %}
+              {% if veranstaltung.typ != "other" %}
+							<a href="{{site.baseurl}}{{veranstaltung.url}}">
+              {% endif %}
+							<div class="veranstaltung {{veranstaltung.typ}}" style="margin-top: {{termin-start-min}}px;  height: {{veranstaltung.dauer}}px">
+								{% assign verantwortlich = veranstaltung.verantwortlich %}
+								{% if dozent != "" and dozent != nil %}
+								{% assign verantwortlich = dozent %}
+								{% endif %}
+								{% include /functions/resolve-names.html verantwortlich=verantwortlich %}
+								<p class="title"><span class="is-hidden-tablet">{{termin | date: '%d. %B %Y, %H:%M Uhr'}}: </span>{{veranstaltung.titel}}</p>
+								<script>
+									cal.addEvent("{{veranstaltung.titel}}","Web-Technologien", "{{veranstaltung.raum}}", "{{termin}}", "{{termin}}");
+								</script>
+
+								{% if (veranstaltung.raum | append: "") != "" %}
+								{% assign raumnummer = veranstaltung.raum | append: "" %}
+								{% endif %}
+								
+								{% if raum.size > 1 %}
+								{% assign raumnummer = raum | append: "" %}
+								{% endif %}
+
+								{% assign check = typ-max-teilnehmer | strip_newlines %}
+								{% if check != ""  %}
+								<p class="subtitle">{{verantwortliche}} // {{typ-name}} {% if termine.size > 1 %} ({{termine.size}} Termine){% endif %}{% if raumnummer.size > 1 %} // Raum {{raumnummer}}{% endif %}</p>
+								{% endif %}
+								
+							</div>
+							{% if veranstaltung.typ != "other" %}
+							</a>
+              {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+  </div>
+
+</div>

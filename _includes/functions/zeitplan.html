@@ -16,8 +16,8 @@
     <hr> {% endcomment %}
 
     <!--div class="columns"-->
-    {% assign day1 = days["day-1"] %} {% include /timetable-day.html day=day1 starttime=starttime difftime=difftime time-correction=time-correction %} {% assign check = days["day-2"].datum | strip_newlines %} {% if check != "" %} {% assign day2 = days["day-2"]
-    %} {% include /timetable-day.html day=day2 starttime=starttime difftime=difftime time-correction=time-correction %} {% endif %}
+    {% assign day1 = days["day-1"] %} {% include /timetable-day-2021.html day=day1 starttime=starttime difftime=difftime time-correction=time-correction %} {% assign check = days["day-2"].datum | strip_newlines %} {% if check != "" %} {% assign day2 = days["day-2"]
+    %} {% include /timetable-day-2021.html day=day2 starttime=starttime difftime=difftime time-correction=time-correction %} {% endif %}
     <!--/div-->
 
     {% endif %} {% endfor %}
