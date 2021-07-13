@@ -84,67 +84,7 @@ week-14:
     name: Dienstag
 week-15:
   day-1:
-    datum: 2021-07-19
-    start: "09:00"
-    end: "17:00"
-    name: Dienstag
-week-16:
-  day-1:
-    datum: 2021-07-26
-    start: "09:00"
-    end: "13:00"
-    name: Dienstag
-week-17:
-  day-1:
-    datum: 2021-08-02
-    start: "09:00"
-    end: "17:00"
-    name: Dienstag
-week-18:
-  day-1:
-    datum: 2021-08-09
-    start: "09:00"
-    end: "17:00"
-    name: Dienstag
-week-19:
-  day-1:
-    datum: 2021-08-16
-    start: "09:00"
-    end: "17:00"
-    name: Dienstag
-week-20:
-  day-1:
-    datum: 2021-08-23
-    start: "09:00"
-    end: "17:00"
-    name: Dienstag
-week-21:
-  day-1:
-    datum: 2021-08-30
-    start: "09:00"
-    end: "17:00"
-    name: Dienstag
-week-22:
-  day-1:
-    datum: 2021-09-06
-    start: "09:00"
-    end: "17:00"
-    name: Dienstag
-week-23:
-  day-1:
-    datum: 2021-09-13
-    start: "09:00"
-    end: "17:00"
-    name: Dienstag
-week-24:
-  day-1:
-    datum: 2021-09-20
-    start: "09:00"
-    end: "17:00"
-    name: Dienstag
-week-25:
-  day-1:
-    datum: 2021-09-27
+    datum: 2021-09-28
     start: "09:00"
     end: "17:00"
     name: Dienstag
