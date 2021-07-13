@@ -16,7 +16,6 @@ info:
 
 ## Was passiert heute?
 
-- Wir sammeln Feedback zu den Workshops und Projektvorstellungen ein.
 - Wir schauen uns die letzten beiden Features des Beiboot Projekts an.
 - Wir diskutieren das Thema WebTech für das (Medien-)informatik.
 - Das letzte Beibootfeature wird vorgestellt.
