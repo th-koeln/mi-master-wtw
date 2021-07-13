@@ -18,7 +18,7 @@ info:
 
 - Wir schauen uns die letzten beiden Features des Beiboot Projekts an.
 - Wir diskutieren das Thema WebTech für das (Medien-)informatik.
-- Das letzte Beibootfeature wird vorgestellt.
+- Die letzten [Beibootfeatures](https://github.com/mi-classroom/mi-master-wt-beiboot-2021/issues/) werden vorgestellt.
 - Wir machen eine Feedbackrunde zum Modul.
 
 
