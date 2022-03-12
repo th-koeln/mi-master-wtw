@@ -4,7 +4,7 @@ kuerzel: frei
 verantwortlich: cn
 typ: other
 pflicht: false
-termine: 2021-05-04 13:00
+termine: 2022-04-12 13:00, 2022-04-19 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180

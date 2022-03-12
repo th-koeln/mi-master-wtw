@@ -1,10 +1,10 @@
 ---
-titel: Workshop Web-Technologien // Deno.js
+titel: Seminar Web-Technologien // Thema folgt
 kuerzel: s-wt
-verantwortlich: Benedikt Engel
+verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2021-07-06 13:00
+termine: 2022-06-28 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -12,5 +12,7 @@ raum: Online, Zugangsdaten im Ilias
 info: 
 ---
 
-Weitere Infos folgen
+## Was passiert heute?
+
+## Was muss vorbereitet werden?
 

@@ -4,7 +4,7 @@ kuerzel: wt
 verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2021-04-27 13:00
+termine: 2022-04-26 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180

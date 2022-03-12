@@ -4,7 +4,7 @@ kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2021-05-11 13:00
+termine: 2022-05-03 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180

@@ -5,7 +5,7 @@ titel: Bewertungskriterien
 
 ## Workshop
 
-Hierbei handelt es sich um eine interaktive Lern- oder Trainingseinheit zu einem Thema. Der Workshop wird vom Autor in einer Live-Situation in maximal 180 Minuten durchgeführt. Alternativ kann der Workshop, in Absprache mit dem Dozenten, auch als Online Workshop konzipiert werden. Der Workshop sollte folgende Komponenten enthalten:
+Hierbei handelt es sich um eine interaktive Informations-, Diskussions, Lern- oder Trainingseinheit zu einem Thema. Der Workshop wird von den Autor:innen in einer Live-Situation in maximal 180 Minuten durchgeführt. <!-- Alternativ kann der Workshop, in Absprache mit dem Dozenten, auch als Online Workshop konzipiert werden.--> Der Workshop sollte folgende Komponenten enthalten:
 
 ### Einführung ins Thema
 Warum ist das Thema relevant für das Modul? Wie hat sich das Thema entwickelt und woher kommt es? Wer treibt das Thema voran und warum? Für wenn ist das Thema interessant?

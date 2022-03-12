@@ -1,10 +1,10 @@
 ---
-titel: Workshop Web-Technologien // AlpineJS
+titel: Seminar Web-Technologien // Thema folgt
 kuerzel: s-wt
-verantwortlich: Tim Loges
+verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2021-06-15 13:00
+termine: 2022-06-07 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -12,5 +12,6 @@ raum: Online, Zugangsdaten im Ilias
 info: 
 ---
 
-Weitere Infos auf der Seite zum [Getting started with Alpine.js](/mi-master-wtw/workshops/2021/alpinejs/index/)
+## Was passiert heute?
 
+## Was muss vorbereitet werden?

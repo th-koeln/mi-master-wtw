@@ -1,10 +1,10 @@
 ---
-titel: Workshop Web-Technologien // PWA mit Vue.js
+titel: Seminar Web-Technologien // Thema folgt
 kuerzel: s-wt
-verantwortlich: Jan Koll
+verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2021-06-22 13:00
+termine: 2022-06-14 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -12,5 +12,7 @@ raum: Online, Zugangsdaten im Ilias
 info: 
 ---
 
-Weitere Infos auf der [Workshopankündigung](/mi-master-wtw/workshops/2021/vuejs-pwa/index/)
+## Was passiert heute?
+
+## Was muss vorbereitet werden?
 

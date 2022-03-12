@@ -4,7 +4,7 @@ kuerzel: s-ko
 verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2021-04-13 14:00
+termine: 2022-03-29 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
