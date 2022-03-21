@@ -19,6 +19,7 @@ info:
 - aktuellen Leistungsstand erfassen
 - Stärken und Schwächen ermitteln
 - Ziele für die persönliche Kompetenzentwicklung eruieren
+- Quellen für aktuelle Strömungen im Bereich Web Technologien erarbeiten
 - Arbeitspakete für die nächsten Sessions zusammen stellen
 
 ## Was passiert heute?
@@ -28,8 +29,9 @@ info:
 3. Verortung des aktuellen Know-how Standes auf der [Developer Roadmap von Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap) (alle)
 4. Eröterung möglicher Felder für die eigene Know-how Erweiterung im Anwendungsgebiet mit Hilfe der Developer Roadmap (alle)
 5. Vorstellung von drei eigenen Web-Dev Projekten (alle)
+5. Quellen für aktuelle Strömungen im Bereich Web Technologien erarbeiten
 6. Ausblick auf die nächste Session (alle)
-7. Vorstellung des [«Beiboot» Projekts](https://classroom.github.com/a/dZI7lhjO) und dem zugehörigen [Issue](https://github.com/mi-classroom/mi-master-wt-beiboot-2021/issues/1)
+<!-- 7. Vorstellung des [«Beiboot» Projekts](https://classroom.github.com/a/dZI7lhjO) und dem zugehörigen [Issue](https://github.com/mi-classroom/mi-master-wt-beiboot-2021/issues/1) -->
 
 ## Was muss vorbereitet werden?
 
@@ -39,17 +41,6 @@ Bitte bereiten Sie eine Zusammenfassung Ihrer persönlichen Outcomes und Finding
 - was war Ihr Beitrag?
 - was waren die wesentlichen Erkenntnisse?
 - welche neuen Fragen haben sich für Sie aufgetan?
-
-### Verortung des aktuellen Know-how Standes & Entwicklung einer vorläufigen Zielsetzung für eigene Know-how Erweiterung
-Nutzen Sie bitte die [Developer Roadmap von Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap) oder eine [vergleichbare Map](https://coggle.it/diagram/Vz9LvW8byvN0I38x/t/web-development) und markieren Sie relevante Elemente nach folgendem Schema:
-- pinker Punkt: habe ich bereits produktiv eingesetzt
-- grüner Punkt: habe ich schon einiges mit gemacht, aber noch nicht produktiv eingesetzt
-- grauer Punkt: habe ich mal ein bisschen mit gemacht
-- blauer Punkt: würde ich gerne vertiefen
-
-Elemente können auch mit mehreren Punkten markiert werden. 
-
-{% include image.html url="../images/dev-map-2018-cn.jpg" caption="Beispielmap (Ausschnitt)" %}
 
 ### Vorstellung vor drei eigenen Web-Dev Projekten
 

@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien // Absprache Technologiescouting & Technologierecherche
+titel: Seminar Web-Technologien // Thema folgt
 kuerzel: wt
 verantwortlich: cn
 typ: seminar
@@ -12,6 +12,12 @@ raum: Online, Zugangsdaten im Ilias
 info: 
 ---
 
+
+## Was passiert heute?
+
+## Was muss vorbereitet werden?
+
+<!--
 ## Zielsetzung des Tages
 - Überblick über die Workshopthemen und -termine bekommen, ggf. Themen nachschärfen und ausrichten
 - Wissentransfer im Team
@@ -31,6 +37,6 @@ info:
 - Workshopthemen müssen vorgestellt werden können
 
 - 
-<!--
+
 Jeder Teilnehmer hält einen Kurzvortrag (max. 7 Minuten) zum Stand seiner Recherche halten. Bitte nicht nur eine Übersicht geben, sondern auch konkrete Learnings ans Team weiter geben. Am Ende bitte drei bis fünf offene Fragen formulieren. Falls Material notwendig ist, dieses bitte ins Repo packen, so dass wir von einem Rechner aus präsentieren können.
 -->

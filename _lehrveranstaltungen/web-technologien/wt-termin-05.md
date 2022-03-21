@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien // What's up?
+titel: Seminar Web-Technologien // Thema folgt
 kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
@@ -12,6 +12,11 @@ raum: Online, Zugangsdaten im Ilias
 info: 
 ---
 
+## Was passiert heute?
+
+## Was muss vorbereitet werden?
+
+<!--
 ## Zielsetzung des Tages
 - Jeder  Teilnehmer kann ein WebTech Thema vorstellen, argumentieren, diskutieren und die Diskussion zusammen fassen.
 
@@ -28,3 +33,5 @@ info:
 ## Material
 - [DEV Community](https://dev.to/) 
 - [W3C News](https://www.w3.org/blog/news/)
+
+-->

@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien // HowTo Workshop & Git Workflow Tipps …
+titel: Seminar Web-Technologien // Thema folgt
 kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
@@ -12,6 +12,11 @@ raum: Online, Zugangsdaten im Ilias
 info: 
 ---
 
+
+## Was passiert heute?
+
+## Was muss vorbereitet werden?
+<!--
 ## Zielsetzung des Tages
 - Alle haben eine Idee/ Grundstruktur zur Erarbeitung und Durchführung ihres Workshops
 - Alle kennen die [Bewertungskriterien für den Workshop](https://th-koeln.github.io/mi-master-wtw/bewertungskriterien/#workshop)
@@ -31,3 +36,5 @@ info:
 - [Mindmap zum Thema Workshops](../../../material/web-technologien/gedanken-zum-workshopping.pdf)
 - [Styleguide MI](https://www.medieninformatik.th-koeln.de/tools/styleguide/)
 - [Mi Slides](https://github.com/cnoss/mi-slides)
+
+-->
