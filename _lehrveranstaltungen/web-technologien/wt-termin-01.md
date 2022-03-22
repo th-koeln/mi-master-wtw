@@ -26,7 +26,7 @@ info:
 
 1. Erläuterung des Moduls (c.noss)
 2. Zusammenfassung der wesentlichen Outcomes aus den Modulen Web-Architekturen und «Sicherheit, Privatsphäre und Vertrauen» (Teilnehmer)
-3. Verortung des aktuellen Know-how Standes auf der [Developer Roadmap von Kamran Ahmed](https://github.com/kamranahmedse/developer-roadmap) (alle)
+3. Verortung des aktuellen Know-how Standes auf der [Developer Roadmap von Kamran Ahmed](https://roadmap.sh/) (alle)
 4. Eröterung möglicher Felder für die eigene Know-how Erweiterung im Anwendungsgebiet mit Hilfe der Developer Roadmap (alle)
 5. Vorstellung von drei eigenen Web-Dev Projekten (alle)
 5. Quellen für aktuelle Strömungen im Bereich Web Technologien erarbeiten
