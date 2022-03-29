@@ -12,7 +12,6 @@ raum: Online, Zugangsdaten im Ilias
 info: 
 ---
 
-
 ## Was passiert heute?
 0. Fragen zum Modul beantworten.
 <!--1. Vorstellung von drei eigenen Web-Dev Projekten (wer noch nicht vorgestellt hat, z.B. Herr Deimel, Frau Bertels)-->
@@ -34,7 +33,7 @@ Beim **Technologiescouting** geht es darum über den Tellerrand des persönliche
 Hier das Classrooom Assignment des [«Beiboot» Projekts](https://classroom.github.com/a/dZI7lhjO) und das zugehörige [Issue #1](https://github.com/mi-classroom/mi-master-wt-beiboot-2021/issues/1). Bitte alle relevanten Entscheidungen mit Hilfe des [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture_decision_record) dokumentieren. -->
 
 ### Themen für Technologiescouting
-Sichten Sie drei Themen im Rahmen des **Technologiescoutings**. Sie müssen in der Lage sein die Themen, deren Relevanz und Ihre Motivation zu den Themen kurz gegenüber der Gruppe vorzustellen. Hier ein paar Vorschläge für mögliche Quellen & Inspiration:
+Sichten Sie drei Themen im Rahmen des **Technologiescoutings**. Sie müssen in der Lage sein die Themen, deren Relevanz und Ihre Motivation zu den Themen kurz gegenüber der Gruppe vorzustellen. Bitte nutzen Sie auf dem Miro Board zur Veranstaltung (Link im Ilias) das Frame «mögliche Workshopthemen» um Material für ihre 3 Themen bereit zu stellen. Hier ein paar Vorschläge für mögliche Quellen & Inspiration:
 - [W3C ALL STANDARDS AND DRAFTS](https://www.w3.org/TR/)
 - [Working Draft](http://workingdraft.de/)
 - [ThoughtWorks TechRadar](https://www.thoughtworks.com/de/radar)
