@@ -35,15 +35,13 @@ Folgende Angaben müssen enthalten sein:
 - notwendige Voraussetzungen
 
 Folgende Bewertungskriterien sind relevant:
-- [Zielsetzung & Lösungsstrategie](/mi-master-wtw/bewertungskriterien/#zielsetzung--lösungsstrategie)
+- [Recherche, Durchdringung & Substanz](/mi-master-wtw/bewertungskriterien/#recherche-durchdringung--substanz)
+- [Ausgangspunkt, Zielsetzung & Lösungsstrategie](/mi-master-wtw/bewertungskriterien/#ausgangspunkt--zielsetzung--lösungsstrategie)
 - [Zeitmanagement, Flexibilität, Motivation &amp; Empathie](/mi-master-wtw/bewertungskriterien/#zeitmanagement-flexibilität-motivation--empathie)
 - [Darstellung, Artikulationsfähigkeit & Eloquenz](/mi-master-wtw/bewertungskriterien/#darstellung-artikulationsfähigkeit--eloquenz)
 - [Klarheit, Verständlichkeit & Richtigkeit](/mi-master-wtw/bewertungskriterien/#klarheit-verständlichkeit--richtigkeit)
-- [Nutz- & Anwendbarkeit](/mi-master-wtw/bewertungskriterien/#nutz---anwendbarkeit)
-- [Kenntnisse und Fertigkeiten](/mi-master-wtw/bewertungskriterien/#kenntnisse-und-fertigkeiten)
-- [Quellcode & Dokumentation](/mi-master-wtw/bewertungskriterien/#quellcode--dokumentation)
-- [Kooperationsfähigkeit](/mi-master-wtw/bewertungskriterien/#kooperationsfähigkeit) 
-
+- [Material](/mi-master-wtw/bewertungskriterien/#material)
+- [Kooperationsfähigkeit](/mi-master-wtw/bewertungskriterien/#kooperationsfähigkeit)
 
 ## Beiboot Projekt
 
@@ -63,15 +61,15 @@ Hier eine Erläuterung der verschiedenen Kriterien.
 
 #### Recherche, Durchdringung & Substanz
 <!-- [Recherche, Durchdringung & Substanz](/mi-master-wtw/bewertungskriterien/#recherche-durchdringung--substanz) -->
-Wie weitreichend ist das Faktenwissen über den Gegenstandsbereich? Wurde für das Thema/ die Aufgabe in ausreichendem Maße recherchiert? Nimmt der Autor eine kritische und objektive Perspektive ein? Hat er das Problemfeld ausreichend tief durchdrungen und das Thema/ die Aufgabe in angemessenem Umfang durchdrungen/ gelöst? 
+Wie weitreichend ist das Faktenwissen über den Gegenstandsbereich? Wurde für das Thema/ die Aufgabe in ausreichendem Maße recherchiert? Wird eine kritische und objektive Perspektive eingenommen? 
 
 #### Klarheit, Verständlichkeit & Richtigkeit
 <!-- [Klarheit, Verständlichkeit & Richtigkeit](/mi-master-wtw/bewertungskriterien/#klarheit-verständlichkeit--richtigkeit) -->
-Ist der Vortrag/ Workshop oder die Dokumentation/ Ausarbeitung logisch aufgebaut und verständlich formuliert? Sind Sachverhalte korrekt dargestellt? Sind Gedankengänge, Lösungswege, Entscheidungen und Schlussfolgerung nachvollziehbar und begründet?
+Ist der Vortrag/ Workshop oder die Dokumentation/ Ausarbeitung logisch aufgebaut und verständlich formuliert? Sind Sachverhalte korrekt dargestellt? Sind Gedankengänge, Lösungswege, Entscheidungen und Schlussfolgerung nachvollziehbar und begründet? Wie verständlich kann sich der/die Studierende ausdrücken und komplexe Sachverhalte durch Wort, Ton und/oder Bild veranschaulichen? Ist die Darstellung bzw. Präsentation klar, nachvollziehbar, glaubhaft und zielsicher?
 
-#### Zielsetzung & Lösungsstrategie
-<!-- [Zielsetzung & Lösungsstrategie](/mi-master-wtw/bewertungskriterien/#zielsetzung--lösungsstrategie) -->
-Wird das zugrunde liegende Problemfeld dargestellt? Ist die Definition eines Zieles präzise und angemessen? Wird ein geeigneter Lösungsweg angestrebt und wird dieser begründet?
+#### Ausgangspunkt, Kontext, Zielsetzung & Lösungsstrategie
+<!-- [Zielsetzung & Lösungsstrategie](/mi-master-wtw/bewertungskriterien/#ausgangspunkt--zielsetzung--lösungsstrategie) -->
+Wird der Ausgangspunkt und das zugrunde liegende Problemfeld dargestellt? Ist die Definition eines Zieles präzise und angemessen? Wird ein geeigneter Lösungsweg angestrebt und wird dieser begründet? Wird der Kontext, z.B. Vorkenntnisse mit einbezogen und ist der Workshop/ die Arbeit darauf ausgerichtet?
 
 #### Ausarbeitungsprozess, Wiederholbarkeit & Resümee
 <!-- [Ausarbeitungsprozess & Wiederholbarkeit](/mi-master-wtw/bewertungskriterien/#ausarbeitungsprozess--wiederholbarkeit)-->
@@ -97,11 +95,15 @@ Sind die Ergebnisse und Artefakte so aufbereitet, dass sie in der Praxis oder du
 <!-- [Quellcode & Dokumentation](/mi-master-wtw/bewertungskriterien/#quellcode--dokumentation) -->
 Wurde der Quellcode verständlich strukutriert und dokumentiert? Gibt es eine Übersicht über die verschiedenen Artefakte und Komponenten? Wird klar, wie die verschiedenen Einzelteile zusammen hängen? Werden notwendige Voraussetzungen explizit gemacht? Sind wesentliche Entscheidungen dokumentiert? Kann das Projekt durch Dritte genutzt, gestartet, installiert und/ oder erweitert werden? Sind die Commits verständlich und nachvollziehbar?
 
+#### Material
+<!-- [Material](/mi-master-wtw/bewertungskriterien/#material) -->
+Wurde das Material verständlich strukturiert und dokumentiert? Gibt es eine Übersicht über die verschiedenen Artefakte?  Ist das Material so aufbereitet, dass sie in der Praxis oder durch die Community oder andere Projektteams nutzbar sind? Wird es nachhaltig bereit gestellt. Werden Urheberschaft und Nutzungsbedingungen, z.B. Lizenzen des Materials aufgezeigt? 
+
 #### (Zeit)management, Flexibilität, Motivation & Empathie
 <!-- [Zeitmanagement, Flexibilität, Motivation &amp; Empathie (Workshops)](/mi-master-wtw/bewertungskriterien/#zeitmanagement-flexibilität-motivation--empathie)-->
 
 **Bei Workshops:**
-Werden die Teilnehmer gut unterstützt? Wird Rücksicht auf verschiedenen Arbeits- und Lerngeschwindigkeiten genommen? Werden die Teilnehmer motiviert, ins Thema einzusteigen? Sind die Arbeitsanweisungen verständlich und eindeutig? Wird auf Rückfragen und Probleme von Teilnehmern eingegangen? Ist das begleitetende Material gut strukuriert und nachhaltig bereit gestellt?
+Werden die Teilnehmer gut unterstützt? Wird Rücksicht auf verschiedenen Arbeits- und Lerngeschwindigkeiten genommen? Werden die Teilnehmer motiviert, ins Thema einzusteigen? Sind die Arbeits- und Interaktionsanweisungen verständlich und eindeutig? Wird auf Rückfragen und Probleme von Teilnehmer:innen eingegangen? Ist das begleitetende Material gut strukuriert und wird es nachhaltig bereit gestellt?
 
 **Im Projekt:**
 Wird aktiv und umsichtig mit der Ressource «Zeit» umgegangen? Wird der Zeitaufwand von Tasks geschätzt und dokumentiert? Werden die Schätzungen im Nachgang überprüft und Rückschlüsse für zukünftige Schätzungen gezogen? Werden adäquate Projektmanagementstrategieren und -werkzeuge eingesetzt? Sind die Teilnehmer engagiert? Wie wird mit Hindernissen und Problemen umgegangen?
