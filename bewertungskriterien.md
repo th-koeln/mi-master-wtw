@@ -8,7 +8,7 @@ titel: Bewertungskriterien
 Hierbei handelt es sich um eine interaktive Informations-, Diskussions, Lern- oder Trainingseinheit zu einem Thema. Der Workshop wird von den Autor:innen in einer Live-Situation in maximal 180 Minuten durchgeführt. <!-- Alternativ kann der Workshop, in Absprache mit dem Dozenten, auch als Online Workshop konzipiert werden.--> Der Workshop sollte folgende Komponenten enthalten:
 
 ### Einführung ins Thema
-Warum ist das Thema relevant für das Modul? Wie hat sich das Thema entwickelt und woher kommt es? Wer treibt das Thema voran und warum? Für wenn ist das Thema interessant?
+Warum ist das Thema relevant für das Modul? Wie hat sich das Thema entwickelt und woher kommt es? Wer treibt das Thema voran und warum? Für wen ist das Thema interessant?
 
 ### Kurzübersicht über den Workshop
 Was passiert im Workshop? Was muss ich als Teilnehmer mitbringen? Was muss ich vorbereiten? Was kann ich nach dem Workshop besser als vorher?
@@ -36,9 +36,9 @@ Folgende Angaben müssen enthalten sein:
 
 Folgende Bewertungskriterien sind relevant:
 - [Recherche, Durchdringung & Substanz](/mi-master-wtw/bewertungskriterien/#recherche-durchdringung--substanz)
-- [Ausgangspunkt, Zielsetzung & Lösungsstrategie](/mi-master-wtw/bewertungskriterien/#ausgangspunkt--zielsetzung--lösungsstrategie)
+- [Ausgangspunkt, Kontext, Zielsetzung & Lösungsstrategie](/mi-master-wtw/bewertungskriterien/#ausgangspunkt-kontext-zielsetzung--lösungsstrategie)
 - [Zeitmanagement, Flexibilität, Motivation &amp; Empathie](/mi-master-wtw/bewertungskriterien/#zeitmanagement-flexibilität-motivation--empathie)
-- [Darstellung, Artikulationsfähigkeit & Eloquenz](/mi-master-wtw/bewertungskriterien/#darstellung-artikulationsfähigkeit--eloquenz)
+- [Form, Darstellung, Artikulationsfähigkeit & Eloquenz](/mi-master-wtw/bewertungskriterien/#form-darstellung-artikulationsfähigkeit--eloquenz)
 - [Klarheit, Verständlichkeit & Richtigkeit](/mi-master-wtw/bewertungskriterien/#klarheit-verständlichkeit--richtigkeit)
 - [Material](/mi-master-wtw/bewertungskriterien/#material)
 - [Kooperationsfähigkeit](/mi-master-wtw/bewertungskriterien/#kooperationsfähigkeit)
@@ -68,7 +68,7 @@ Wie weitreichend ist das Faktenwissen über den Gegenstandsbereich? Wurde für
 Ist der Vortrag/ Workshop oder die Dokumentation/ Ausarbeitung logisch aufgebaut und verständlich formuliert? Sind Sachverhalte korrekt dargestellt? Sind Gedankengänge, Lösungswege, Entscheidungen und Schlussfolgerung nachvollziehbar und begründet? Wie verständlich kann sich der/die Studierende ausdrücken und komplexe Sachverhalte durch Wort, Ton und/oder Bild veranschaulichen? Ist die Darstellung bzw. Präsentation klar, nachvollziehbar, glaubhaft und zielsicher?
 
 #### Ausgangspunkt, Kontext, Zielsetzung & Lösungsstrategie
-<!-- [Zielsetzung & Lösungsstrategie](/mi-master-wtw/bewertungskriterien/#ausgangspunkt--zielsetzung--lösungsstrategie) -->
+<!-- [Zielsetzung & Lösungsstrategie](/mi-master-wtw/bewertungskriterien/#ausgangspunkt-zielsetzung--lösungsstrategie) -->
 Wird der Ausgangspunkt und das zugrunde liegende Problemfeld dargestellt? Ist die Definition eines Zieles präzise und angemessen? Wird ein geeigneter Lösungsweg angestrebt und wird dieser begründet? Wird der Kontext, z.B. Vorkenntnisse mit einbezogen und ist der Workshop/ die Arbeit darauf ausgerichtet?
 
 #### Ausarbeitungsprozess, Wiederholbarkeit & Resümee
@@ -76,7 +76,7 @@ Wird der Ausgangspunkt und das zugrunde liegende Problemfeld dargestellt? Ist di
 Wie zielsicher wurde das zugrundeliegende Problem gelöst, so dass eine vergleichbare Ergebnisqualität in anderen Zusammenhängen und Projekten prinzipiell wiederholbar wäre? Werden wesentliche Entscheidungen thematisiert und diskutiert? Wird das Ergebnis kritisch reflektiert und kontextualisiert?
 
 #### Form, Darstellung, Artikulationsfähigkeit & Eloquenz
-<!-- [Darstellung, Artikulationsfähigkeit & Eloquenz](/mi-master-wtw/bewertungskriterien/#darstellung-artikulationsfähigkeit--eloquenz) -->
+<!-- [Darstellung, Artikulationsfähigkeit & Eloquenz](/mi-master-wtw/bewertungskriterien/#form-darstellung-artikulationsfähigkeit--eloquenz) -->
 Wie verständlich kann sich der/die Studierende ausdrücken und komplexe Sachverhalte durch Wort, Ton und/oder Bild veranschaulichen? Ist die Darstellung bzw. Präsentation klar, nachvollziehbar, glaubhaft und zielsicher? Kann der/die Studierende das eigene Thema im Bezug zu anderen (übergreifenden) Themen darstellen? Wie ausdrucksstark ist die Ausarbeitung, die Dokumentation oder der Workshop im Ganzen?
 
 #### Kritik- & Diskursfähigkeit
