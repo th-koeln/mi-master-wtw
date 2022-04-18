@@ -4,7 +4,6 @@ titel: Nebenläufigkeit in JavaScript
 social-media-untertitel: Online-Workshop am 26. April 2022
 datum: 2022-04-26
 modul: wt
-published: false
 autor: Tobias Hund
 bild: ../hero.png
 art: workshop
