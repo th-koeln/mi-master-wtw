@@ -1,7 +1,7 @@
 ---
-titel: Seminar Web-Technologien // Thema folgt
+titel: Seminar Web-Technologien // Kirby CMS & API
 kuerzel: s-wt
-verantwortlich: cn
+verantwortlich: Jan Koll & Marc Kevin Zenzen
 typ: seminar
 pflicht: false
 termine: 2022-05-03 13:00

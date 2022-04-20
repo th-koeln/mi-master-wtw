@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien // Thema folgt
+titel: Seminar Web-Technologien // Web Accessibility
 kuerzel: s-wt
 verantwortlich: cn
 typ: seminar

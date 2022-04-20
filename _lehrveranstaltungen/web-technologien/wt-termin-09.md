@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien // Thema folgt
+titel: Seminar Web-Technologien // Lightning Web Components
 kuerzel: s-wt
 verantwortlich: cn
 typ: seminar

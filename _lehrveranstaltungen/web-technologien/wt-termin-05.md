@@ -1,7 +1,7 @@
 ---
-titel: Seminar Web-Technologien // Thema folgt
+titel: Seminar Web-Technologien // Unit Tests
 kuerzel: s-wt
-verantwortlich: cn
+verantwortlich: Melvin Weiershäuser & Daniel Heuser
 typ: seminar
 pflicht: false
 termine: 2022-05-10 13:00

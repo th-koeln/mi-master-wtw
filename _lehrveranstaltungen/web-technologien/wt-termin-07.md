@@ -1,7 +1,7 @@
 ---
-titel: Seminar Web-Technologien // Thema folgt
+titel: Seminar Web-Technologien // Web Security – Authentication Fehler und wie man sie verhindert
 kuerzel: s-wt
-verantwortlich: cn
+verantwortlich: Christopher Toth
 typ: seminar
 pflicht: false
 termine: 2022-05-24 13:00
