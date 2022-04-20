@@ -9,7 +9,7 @@ bild: ../header.jpg
 art: workshop
 termin: Dienstag, 22. Juni 2021, 13:00 Uhr
 dauer: 120-150 Minuten 
-raum: https://th-koeln.zoom.us/j/89337586017?pwd=L2hBbmczaWJ6TStkUjMxTHlRc0ZhUT09
+
 ---
 
 In diesem Workshop werden Einblicke in die Grundlagen des Frameworks Vue.js und den rudimentären Funktionalitäten einer Progressive Web App (PWA) geben. Gemeinsam soll in einzelnen Aufgaben jeder Teilnehmer am Ende dieser Veranstaltung eine eigene kleine Vue App mit PWA Funktionalität entwickeln.

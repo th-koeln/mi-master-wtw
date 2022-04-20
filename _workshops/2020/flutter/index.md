@@ -10,7 +10,7 @@ bildcredits: Verwendung des offiziellen Flutter Logos nach den [Brand Guidelines
 art: workshop
 termin: Dienstag, 16. Juni 2020, 13:00 Uhr
 dauer: 150 Minuten 
-raum: https://us02web.zoom.us/j/85932560091 (Zugangscode webtech)
+
 ---
 
 Der Flutter Workshop soll einen ersten Einblick und eine Einführung in die Entwicklung mit Flutter geben. Der Fokus soll hierbei in erster Linie auf der Verwendung im Web liegen, aber auch die allgemeine Zielsetzung und Funktionsweise von Flutter sowie die Konzepte dahinter werden erläutert. In einem Praxisteil kann die Entwicklung im Web geübt werden und das Verständnis wird weiter vertieft. Abschließend wird ein Fazit aus dem Gelernten gezogen und das Framework Flutter bewertend in den Kontext von Webtechnologien eingeordnet.

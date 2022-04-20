@@ -9,7 +9,7 @@ bild: ../title.png
 art: workshop
 termin: Dienstag, 8. Juni 2021, 13:00 Uhr
 dauer: 120-150 Minuten 
-raum: https://th-koeln.zoom.us/j/89337586017?pwd=L2hBbmczaWJ6TStkUjMxTHlRc0ZhUT09
+
 ---
 
 Join our interactive workshop about technologies and techniques to manage your development environment and keep it clean and tidy. The workshop takes place on **08.06.2021 from 01:00 PM to 04:00 PM** via [Zoom](https://th-koeln.zoom.us/j/89337586017?pwd=L2hBbmczaWJ6TStkUjMxTHlRc0ZhUT09) in German.

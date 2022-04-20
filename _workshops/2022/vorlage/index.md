@@ -10,7 +10,7 @@ bild: ../hero.png
 art: workshop
 termin: Dienstag, 06. Juli 2021, 13:00 Uhr
 dauer: 120-150 Minuten
-raum: https://th-koeln.zoom.us/j/83055835045?pwd=ZWRCVVVPRUNNK1ZMQXplS0J1WEJkQT09
+raum: https://th-koeln.zoom.us/j/83055835045 (Zugangscode webtech) 
 ---
 
 In diesem Workshop werden wir die JS- & TS-Runtime `Deno` kennenlernen. Zum einen soll ein Überblick gegeben werden was `Deno` überhaupt ist und worin die Unterschiede und Gemeinsamkeiten zwischen `Deno` und `Node.js` liegen. Außerdem wird die `Deno CLI` vorgestellt und daraufhin genutzt um Projekte auszuführen, zu bundeln, zu formatieren und in eine einzelne ausführbare Datei zu überführen. Zudem werden wir grundlegende Funktionen der Runtime-API kennenlernen und in kleinen Übungen nutzen.

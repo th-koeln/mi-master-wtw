@@ -9,7 +9,7 @@ bild: ../hero.png
 art: workshop
 termin: Dienstag, 26. April 2022, 13:00 Uhr
 dauer: ca. 150 Minuten
-raum: https://th-koeln.zoom.us/j/83055835045?pwd=ZWRCVVVPRUNNK1ZMQXplS0J1WEJkQT09
+raum: https://th-koeln.zoom.us/j/83055835045 (Zugangscode webtech) 
 ---
 
 Wenn wir im Web entwickeln, dann werden wir mit höchster Wahrscheinlichkeit mit JavaScript (JS) konfrontiert. [W3Techs](https://w3techs.com/technologies/overview/client_side_language) stellte JS mit 97,9% als verbreitetste Client-Side Sprache für Websites fest. Um eine positive Benutzererfahrung zu erzielen, sollte die Website möglichst flüssig daher kommen, während externe Inhalte geladen und Berechnungen durchgeführt werden, der Nutzer mit der Seite interagiert und Aufgaben im Hintergrund laufen. Um das zu erreichen bedient man sich dem Konzept der Nebenläufigkeit in Verbindung zu Asynchronität.

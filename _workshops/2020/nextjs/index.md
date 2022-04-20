@@ -10,7 +10,7 @@ bildcredits: Next.js - https://nextjs.org/
 art: workshop
 termin: Dienstag, 7. Juli 2020, 13:00 Uhr
 dauer: 120-150 Minuten
-raum: https://us02web.zoom.us/j/83287975213 (Zugangscode webtech)
+
 ---
 
 Der Workshop _Getting Started in Next.js_ soll einen ersten Einblick in das Framework _Next.js_ geben. Während des Workshops erhalten die Teilnehmer Informationen darüber, welche Möglichkeiten das Framework bietet. Darüber hinaus erwerben die Teilnehmer

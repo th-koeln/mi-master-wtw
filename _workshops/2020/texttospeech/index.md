@@ -10,7 +10,7 @@ bildcredits: Bild von hamburgfinn - https://pixabay.com/de/photos/alexa-echo-sma
 art: workshop
 termin: Dienstag, 26. Mai 2020, 13:00 Uhr
 dauer: 150 Minuten
-raum: https://us02web.zoom.us/j/84465538620 (Zugangscode webtech)
+
 ---
 
 Dieser Workshop befasst sich mit den Grundlagen und Technologien für Text to Speech. Hierbei werden die Domänen und die technologischen Ansätze erläutert. Daraufhin optimieren die Teilnehmer selbstständig einen Teil der Website der Medieninformatik. Im Anschluss werden die Technologien anhand selbst definierter Kriterien bewertet und diskutiert. Abschließend erhalten die Teilnehmer einen Einblick in den neuen Draft Pronunciation und bewerten diesen anhand der Kriterien.

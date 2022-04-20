@@ -10,7 +10,7 @@ bildcredits: Jetbrains - https://www.jetbrains.com
 art: workshop
 termin: Dienstag, 23. Juni 2020, 13:00 Uhr
 dauer: 150 Minuten
-raum: https://us02web.zoom.us/j/84344509899 (Zugangscode webtech)
+
 ---
 
 Der Workshop _Serverseitige Entwicklung mit Ktor_ soll einen ersten Einblick in das Framework _Ktor_ geben.

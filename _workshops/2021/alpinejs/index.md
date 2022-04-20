@@ -9,7 +9,7 @@ bild: ../hero.png
 art: workshop
 termin: Dienstag, 15. Juni 2021, 13:00 Uhr
 dauer: 120-150 Minuten 
-raum: https://th-koeln.zoom.us/j/89337586017?pwd=L2hBbmczaWJ6TStkUjMxTHlRc0ZhUT09
+
 ---
 
 Dieser Workshop befasst sich mit dem JavaScript-Framework *Alpine.js*. Es wird versucht, den Teilnehmenden einen Überblick über die Nutzung und Anwendungsmöglichkeiten zu geben, um daraufhin das Erfahrene in kurzen Übungen zu vertiefen.

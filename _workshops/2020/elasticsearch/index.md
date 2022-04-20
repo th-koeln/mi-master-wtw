@@ -10,7 +10,7 @@ bildcredits: Elastic - https://www.elastic.co/de/brand
 art: workshop
 termin: Dienstag, 30. Juni 2020, 13:30 Uhr
 dauer: 150 Minuten
-raum: https://us02web.zoom.us/j/84344509899 (Zugangscode webtech)
+
 ---
 
 Der Workshop _Getting Started in Elasticsearch_ bietet den Teilnehmenden einen ersten Einblick in _Elasticsearch_.

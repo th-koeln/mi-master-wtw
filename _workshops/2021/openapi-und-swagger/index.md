@@ -9,7 +9,7 @@ bild: ../hero.png
 art: workshop
 termin: Dienstag, 29. Juni 2021, 13:00 Uhr
 dauer: 120-150 Minuten 
-raum: https://th-koeln.zoom.us/j/89337586017?pwd=L2hBbmczaWJ6TStkUjMxTHlRc0ZhUT09
+
 ---
 
 In diesem Workshop wird das Thema *OpenAPI und Swagger* Vorgestellt. Es soll ein Überblick über die Thematik gegeben, der Umgang vermittelt und die wichtigsten Anwendungen rund um Swagger vorgestellt werden.
