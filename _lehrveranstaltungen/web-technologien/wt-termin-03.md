@@ -16,5 +16,8 @@ info:
 ## Was passiert heute?
 Heute gibt es einen Workshop zum Thema [Nebenläufigkeit in JavaScript](https://th-koeln.github.io/mi-master-wtw/workshops/2022/async-js/index/) von Tobias Hund und das Beiboot Projekt wird vorgestellt.
 
+Außerdem wird das [«Beiboot» Projekts](https://classroom.github.com/a/c06cQVUX) und das zugehörige [Issue](https://github.com/mi-classroom/mi-master-wt-beiboot-2022/issues/1) vorgestellt und wir besprechen die Nomenklatur innerhalb der Domäne.
+
 ## Was muss vorbereitet werden?
 Siehe [Workshopbeschreibung](https://th-koeln.github.io/mi-master-wtw/workshops/2022/async-js/index/)
+
