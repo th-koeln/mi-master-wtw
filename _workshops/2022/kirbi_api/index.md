@@ -1,13 +1,12 @@
-
 ---
 layout: workshop
 titel: Kirby + API
 social-media-untertitel: Online-Workshop am 03. Mai 2022
 datum: 2022-05-03
 modul: wt
-published: false
+published: true
 autor: Jan Koll & Marc Kevin Zenzen
-bild: ../hero.png
+bild: ../header.jpg
 art: workshop
 termin: Dienstag, 03. Mai 2022, 13:00 Uhr
 dauer: 120-150 Minuten
