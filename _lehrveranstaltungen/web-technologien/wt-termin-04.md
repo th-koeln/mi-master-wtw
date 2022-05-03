@@ -14,8 +14,10 @@ info:
 
 
 ## Was passiert heute?
+Heute gibt es einen Workshop zum Thema [Kirby CMS + API](https://th-koeln.github.io/mi-master-wtw/workshops/2022/kirbi_api/index//) von Jan Koll und Marc Kevin Zenzen.
 
 ## Was muss vorbereitet werden?
+Siehe [Workshopbeschreibung](https://th-koeln.github.io/mi-master-wtw/workshops/2022/kirbi_api/index/)
 <!--
 ## Zielsetzung des Tages
 - Alle haben eine Idee/ Grundstruktur zur Erarbeitung und Durchführung ihres Workshops
