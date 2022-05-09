@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien // Unit Tests
+titel: Seminar Web-Technologien // Unit Tests & Issue 02 vom Beiboot Projekt
 kuerzel: s-wt
 verantwortlich: Melvin Weiershäuser & Daniel Heuser
 typ: seminar
@@ -11,27 +11,8 @@ dauer: 180
 raum: Online, Zugangsdaten im Ilias
 info: 
 ---
-
 ## Was passiert heute?
+Heute gibt es einen Workshop zum Thema [Softwarequalitätssicherung durch Unit Testing](https://th-koeln.github.io/mi-master-wtw/workshops/2022/sqs_unit-testing/index/) von Daniel Heuser und Melvin Weiershäuser.
 
 ## Was muss vorbereitet werden?
-
-<!--
-## Zielsetzung des Tages
-- Jeder  Teilnehmer kann ein WebTech Thema vorstellen, argumentieren, diskutieren und die Diskussion zusammen fassen.
-
-## Was passiert heute?
-- Vorstellung und Besprechung von *Staff Picks* aus der [DEV Community](https://dev.to/) oder dem [W3C](https://www.w3.org/blog/news/)
-
-## Was muss vorbereitet werden?
-1. Beitrag suchen, der alle Teilnehmer interessieren/ angehen (sollte).
-2. Beitrag vorstellen können:
-  - warum ist der Beitrag im Kontext von WebTech relevant/ interessant?
-  - was ist die Kernaussage?
-3. Diskussion zum Beitrag anregen, moderieren und zusammenfassen können.
-
-## Material
-- [DEV Community](https://dev.to/) 
-- [W3C News](https://www.w3.org/blog/news/)
-
--->
+Siehe [Workshopbeschreibung](https://th-koeln.github.io/mi-master-wtw/workshops/2022/sqs_unit-testing/index/)

@@ -4,7 +4,7 @@ titel: Softwarequalitätssicherung durch Unit Testing
 social-media-untertitel: Online-Workshop am 10. Mai 2022
 datum: 2022-05-10
 modul: wt
-published: false
+published: true
 autor: Daniel Heuser & Melvin Weiershäuser
 bild: ../wt_sqs-unit-testing-header.png
 art: workshop
