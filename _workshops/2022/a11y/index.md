@@ -22,7 +22,7 @@ Zum Anschluss geben wir ihnen außerdem einige Tools mit auf den Weg, welche die
 ## Vorraussetzungen
 
 - Editor ([Visual Studio Code](https://code.visualstudio.com/)) o.ä. für HTML und CSS
-- Clonen unseres [Repos](https://github.com/Moosgloeckchen/wt-workshop-a11y)
+- Clonen unseres [Repos](https://github.com/Moosgloeckchen/wt-workshop-a11y) (verfügbar ab Tag des Workshops)
 
 ## Material
 
