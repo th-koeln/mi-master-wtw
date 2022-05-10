@@ -17,15 +17,12 @@ A11y bedeutet ``Accessibility``. Verschiedene Menschen stehen vor verschiedenen 
 Wir möchten verdeutlichen, welche Arten der Einschränkungen es geben kann und worauf es sich zu achten lohnt bei der Entwicklung von Webseiten, um diese möglichst inklusiv zu gestalten.
 
 Wir werden Wissensgrundlagen vermitteln, einschließlich der WCAG 2.1 Richtlinien und die Teilnehmer*innen können diese direkt auf Beispielseiten anwenden.
-Zum Anschluss geben wir ihnen außerdem einige Tools mit auf den Weg, die die Accessibility-Analyse erleichtern.
+Zum Anschluss geben wir ihnen außerdem einige Tools mit auf den Weg, welche die Accessibility-Analyse erleichtern.
 
 ## Vorraussetzungen
 
-Clonen unseres [Repos](https://github.com/Moosgloeckchen/wt-workshop-a11y) und ein offenes Ohr.
-
-## Vorbereitungen
-
-<!-- Brauchen wir keine, oder? -->
+- Editor ([Visual Studio Code](https://code.visualstudio.com/)) o.ä. für HTML und CSS
+- Clonen unseres [Repos](https://github.com/Moosgloeckchen/wt-workshop-a11y)
 
 ## Material
 
