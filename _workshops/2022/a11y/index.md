@@ -2,7 +2,7 @@
 layout: workshop
 titel: Workshop zu A11y
 social-media-untertitel: Sensibilisierung auf Barrierefreiheit im Web
-datum:
+datum: 2022-05-17
 modul: wt
 published: false
 autor: Linnéa Doberstein & Valeria Orlova
