@@ -4,7 +4,7 @@ titel: Web Security – Authentication Fehler und wie man sie verhindert
 social-media-untertitel: Online-Workshop am 24. Mai 2022
 datum: 2022-05-24
 modul: wt
-published: false
+published: true
 autor: Christopher Toth
 bild: ../hero.png
 art: workshop
