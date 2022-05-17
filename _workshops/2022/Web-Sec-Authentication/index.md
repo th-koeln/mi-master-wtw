@@ -13,7 +13,7 @@ dauer: 120-150 Minuten
 raum: https://th-koeln.zoom.us/j/83055835045 (Zugangscode webtech) 
 ---
 
-In diesem Workshop geht es im Web Security, genauer um die Authentisierung und Authentifizierung, im Englischen einfach Authentication.
+In diesem Workshop geht es um Web Security, genauer um die Authentisierung und Authentifizierung, im Englischen einfach Authentication.
 Die Authentication ist der Prozess der Echtheitsüberprüfung einer Entität gegenüber einem System. Dies geschieht in aller Regel über Login-Daten wie Nutzername und Passwort und eventuell weiteren Faktoren. Die [OWASP-top-ten](https://owasp.org/www-project-top-ten/) Liste zeigt, das Authentication Fehler immer noch ein hohes Sicherheitsrisiko darstellen. Um dies mit ein paar Beispielen zu demonstrieren, werden wir uns mit dem `Juice-Shop` beschäftigen, welcher eine sehr unsichere Webanwendung darstellt. Außerdem wird ein bisschen OSINT (Open Source Intelligence, das Sammeln von öffentlich zugänglichen Informationen) einfließen, um zu zeigen, wie mittels bestimmter Informationen über ein Ziel in das System eingedrungen werden kann. Anhand eines kleinen Falles kommt auch die `Burp-Suite` zum Einsatz, die wie Metasploit ein Tool zum Testen der Sicherheit ist, nur etwas spezialisierter ausgerichtet auf die Sicherheit von Webanwendungen. 
 
 ## Voraussetzungen
