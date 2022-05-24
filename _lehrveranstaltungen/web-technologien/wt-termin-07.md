@@ -12,5 +12,7 @@ raum: Online, Zugangsdaten im Ilias
 info: 
 ---
 ## Was passiert heute?
+Heute gibt es einen Workshop zum Thema [Web Security](https://th-koeln.github.io/mi-master-wtw/workshops/2022/Web-Sec-Authentication/index/) von Christopher Toth.
 
 ## Was muss vorbereitet werden?
+Siehe [Workshopbeschreibung](https://th-koeln.github.io/mi-master-wtw/workshops/2022/Web-Sec-Authentication/index/)
