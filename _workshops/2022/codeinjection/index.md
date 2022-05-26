@@ -4,7 +4,7 @@ titel: Web Security - Code Injection
 social-media-untertitel: Online-Workshop am 31. Mai 2022
 datum: 2022-05-31
 modul: web
-published: false
+published: true
 autor: Luca Stamos, Stefan Steinhauer
 bild: ../codeinject.png
 art: workshop
