@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien // Web Neural Network API
+titel: Seminar Web-Technologien // State of CSS
 kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
@@ -13,6 +13,4 @@ info:
 ---
 
 ## Was passiert heute?
-
-## Was muss vorbereitet werden?
-
+Heute gebe ich einen kleinen Einblick in den Stand von CSS in 2022 (na gut, auch ein bisschen 2021). Außerdem schauen wir uns ihre Lösungen für das dritte Feature des Beiboot Projekts an und ich stelle das vierte Feature vor.
