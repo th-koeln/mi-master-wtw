@@ -3,7 +3,7 @@ titel: Workshop zu Lightning Web Components
 social-media-untertitel: Grundlagen von LWC
 datum: 2022-06-07
 modul: wt
-published: false
+published: true
 autor: Dennis Neumann
 bild: ../hero.png
 art: workshop
