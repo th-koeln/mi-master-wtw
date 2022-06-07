@@ -1,3 +1,4 @@
+---
 layout: workshop
 titel: Workshop zu Lightning Web Components
 social-media-untertitel: Grundlagen von LWC
@@ -5,7 +6,7 @@ datum: 2022-06-07
 modul: wt
 published: true
 autor: Dennis Neumann
-bild: ../hero.png
+bild: ../hero.jpg
 art: workshop
 termin: Dienstag, 7. Juni 2022, 13:00 Uhr
 dauer: ~150 Minuten
