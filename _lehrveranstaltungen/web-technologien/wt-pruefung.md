@@ -4,7 +4,7 @@ kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2022-09-28 10:00
+termine: 2022-09-27 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 480
