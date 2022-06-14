@@ -22,9 +22,5 @@ Das **dritte Feature des Beiboot Projekts** sollte fertig und präsentabel sein.
 
 ## Material
 
-Basis für den Input ist der Vortrag «The State of CSS» von [Adam Argyle](https://web.dev/authors/adamargyle/) auf der Google I/O '22.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xy9ZXRRgpLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-- [The State of CSS // Shownotes](https://web.dev/state-of-css-2022/)
-
+- [Workshop State of CSS // 2022](https://cnoss.github.io/my-state-of-css-2022/)
+- [Classroom Assignment](https://classroom.github.com/a/CN_5aE-S)
