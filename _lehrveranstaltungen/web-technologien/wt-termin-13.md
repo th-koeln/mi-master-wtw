@@ -1,7 +1,7 @@
 ---
-titel: Seminar Web-Technologien // Thema folgt
+titel: Seminar Web-Technologien // Vue JS & Tailwind
 kuerzel: s-wt
-verantwortlich: cn
+verantwortlich: Sarfaroz Khakimov & Javad Alamdar
 typ: seminar
 pflicht: false
 termine: 2022-07-05 13:00
@@ -15,4 +15,3 @@ info:
 ## Was passiert heute?
 
 ## Was muss vorbereitet werden?
-
