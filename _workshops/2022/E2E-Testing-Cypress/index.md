@@ -15,7 +15,7 @@ raum: https://th-koeln.zoom.us/j/83055835045 (Zugangscode webtech)
 
 In diesem Workshop werden wir eine Einführung ins E2E Web Testing mit Cypress.io geben. Wir werden lernen was E2E Testing ist und welche Ziele man damit erreichen möchte.
 
-Wir werden also nicht jeden Aspekt von Cypress erforschen, sondern viel mehr anhand einer Beispiel Anwendung die ersten Schritte erklären und wichtige und nützliche Aspkete aufzeigen, sodass jeder in der Lage ist tiefer in E2E Testing mit diesem Framework einzutauchen. Die Beispiel Applikation ist von [TodoMVC](https://todomvc.com/) entnommen wurden. 
+Wir werden also nicht jeden Aspekt von Cypress erforschen, sondern viel mehr anhand einer Beispiel Anwendung die ersten Schritte erklären und wichtige und nützliche Aspkete aufzeigen, sodass jeder in der Lage ist tiefer in E2E Testing mit diesem Framework einzutauchen. Die Beispiel Applikation ist von [TodoMVC](https://todomvc.com/) entnommen worden. 
 
 ## Vorkenntnisse:
 - HTML (+CSS)
