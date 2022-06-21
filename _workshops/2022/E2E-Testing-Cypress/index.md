@@ -43,4 +43,5 @@ Wir werden also nicht jeden Aspekt von Cypress erforschen, sondern viel mehr anh
 ### Material
 - [Workshop Repository](https://github.com/MaxHam/testing-workshop-cypress) (Wird spätestens am Tag des Workshops veröffentlicht)
 - [Cypress.io Dokumentation](https://docs.cypress.io/)
+- [Mocha Testing Library](https://mochajs.org/api/)
 - Folien (später im [Repo](https://github.com/MaxHam/testing-workshop-cypress))
