@@ -4,7 +4,7 @@ titel: Einführung zu End-to-End Testing mit Cypress.io
 social-media-untertitel: Online-Workshop am 27. Juni 2022
 datum: 2022-06-27
 modul: wt
-published: false
+published: true
 autor: Max Hammer, Alex Spindeler
 bild: ../hero.png
 art: workshop
