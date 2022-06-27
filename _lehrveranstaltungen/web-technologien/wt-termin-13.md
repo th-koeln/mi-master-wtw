@@ -13,5 +13,7 @@ info:
 ---
 
 ## Was passiert heute?
+Heute gibt es einen Workshop zum Thema [Tailwind & Vue JS](https://th-koeln.github.io/mi-master-wtw/workshops/2022/Tailwind_Vue JS/index/) von Javad Alamdar und Sarfaroz Khakimov.
 
 ## Was muss vorbereitet werden?
+Siehe [Workshopbeschreibung](https://th-koeln.github.io/mi-master-wtw/workshops/2022/Tailwind_Vue JS/index/)

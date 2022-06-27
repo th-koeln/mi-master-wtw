@@ -13,6 +13,7 @@ info:
 ---
 
 ## Was passiert heute?
+Heute gibt es einen Workshop zum Thema [Einführung in End-to-End Testing mit Cypress.io](https://th-koeln.github.io/mi-master-wtw/workshops/2022/E2E-Testing-Cypress/index/) von Max Hammer und Alex Spindeler.
 
 ## Was muss vorbereitet werden?
-
+Siehe [Workshopbeschreibung](https://th-koeln.github.io/mi-master-wtwmi-master-wtw/workshops/2022/E2E-Testing-Cypress/index/)
