@@ -31,9 +31,10 @@ layout: default-reduced
 
             <dt>Projektowner</dt>
             <dd>{{verantwortliche}}</dd>
-
+            {% if page.bildcredits %}
             <dt>Bild</dt>
             <dd>{{page.bildcredits}}</dd>
+            {% endif %}
           </dl>
         </div>
         <div class="column is-4 has-text-right">
