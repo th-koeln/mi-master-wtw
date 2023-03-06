@@ -1,18 +1,19 @@
 ---
-titel: Seminar Web-Technologien // Unit Tests & Issue 02 vom Beiboot Projekt
-kuerzel: s-wt
-verantwortlich: Melvin Weiershäuser & Daniel Heuser
+titel: Seminar Web-Technologien // Workshop
+kuerzel: wt
+verantwortlich: Seminarteilnehmer:in
 typ: seminar
 pflicht: false
-termine: 2022-05-10 13:00
+termine: 2023-05-09 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
 raum: Online, Zugangsdaten im Ilias
 info: 
 ---
+
+
 ## Was passiert heute?
-Heute gibt es einen Workshop zum Thema [Softwarequalitätssicherung durch Unit Testing](https://th-koeln.github.io/mi-master-wtw/workshops/2022/sqs_unit-testing/index/) von Daniel Heuser und Melvin Weiershäuser. Außerdem sprechen wir über das Beiboot Projekt und ich werde das nächste [Issue](https://github.com/mi-classroom/mi-master-wt-beiboot-2022/issues/2) vorstellen.
 
 ## Was muss vorbereitet werden?
-Siehe [Workshopbeschreibung](https://th-koeln.github.io/mi-master-wtw/workshops/2022/sqs_unit-testing/index/)
+
