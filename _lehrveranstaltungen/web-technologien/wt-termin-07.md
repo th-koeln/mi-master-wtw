@@ -1,18 +1,19 @@
 ---
-titel: Seminar Web-Technologien // Web Security – Authentication Fehler und wie man sie verhindert
-kuerzel: s-wt
-verantwortlich: Christopher Toth
+titel: Seminar Web-Technologien // Workshop
+kuerzel: wt
+verantwortlich: Seminarteilnehmer:in
 typ: seminar
 pflicht: false
-termine: 2022-05-24 13:00
+termine: 2023-05-30 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
 raum: 3.217
 info: 
 ---
+
+
 ## Was passiert heute?
-Heute gibt es einen Workshop zum Thema [Web Security](https://th-koeln.github.io/mi-master-wtw/workshops/2022/Web-Sec-Authentication/index/) von Christopher Toth.
 
 ## Was muss vorbereitet werden?
-Siehe [Workshopbeschreibung](https://th-koeln.github.io/mi-master-wtw/workshops/2022/Web-Sec-Authentication/index/)
+
