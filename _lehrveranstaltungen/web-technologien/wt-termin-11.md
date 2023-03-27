@@ -8,7 +8,7 @@ termine: 2022-06-21 13:00
 empfohlene-voraussetzungen: 
 published: false
 dauer: 180
-raum: Online, Zugangsdaten im Ilias
+raum: 3.217
 info: 
 ---
 

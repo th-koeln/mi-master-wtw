@@ -8,7 +8,7 @@ termine: 2022-04-26 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: Online, Zugangsdaten im Ilias
+raum: 3.217
 info: 
 ---
 
