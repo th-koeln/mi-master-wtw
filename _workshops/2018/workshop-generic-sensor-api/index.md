@@ -9,7 +9,7 @@ bildcredits: Bild von Hamza Butt http://www.buynothingnew.org/2017/06/sole-tread
 art: workshop
 termin: Dienstag, 05. Juni 2018
 dauer: 120 Minuten
-raum: 3.217
+raum: Online, siehe Ilias
 ---
 
 

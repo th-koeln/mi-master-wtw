@@ -9,7 +9,7 @@ bildcredits: Bild von Phil Nash (https://philna.sh/blog/2016/08/17/install-a-ser
 art: workshop
 termin: Dienstag, 14. Mai 2019, 14:30 Uhr
 dauer: 90 Minuten
-raum: 3.217
+raum: Online, siehe Ilias
 ---
 
 

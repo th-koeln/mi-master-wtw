@@ -8,7 +8,7 @@ termine: 2022-07-05 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: 3.217
+raum: Online, siehe Ilias
 info: 
 ---
 

@@ -9,7 +9,7 @@ bildcredits: Screenshot von GraphQL-Voyager (https://github.com/APIs-guru/graphq
 art: workshop
 termin: Dienstag, 14. Mai 2019, 13:00 Uhr
 dauer: 90 Minuten
-raum: 3.217
+raum: Online, siehe Ilias
 ---
 
 

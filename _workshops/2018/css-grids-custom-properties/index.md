@@ -8,7 +8,7 @@ art: workshop
 bild: ../teaser.jpg
 termin: Dienstag, 03. Juli 2018, 13:30 Uhr
 dauer: 120 Minuten
-raum: 3.217
+raum: Online, siehe Ilias
 ---
 
 In diesem Workshop befassen wir uns mit CSS Grids und Custom Properties. Beides sind Features, die CSS mit deutlich mehr Kraft ausstatten und das Front-End Development im Web enorm bereichern. Darüber hinaus werden wir die Methode *Expressive CSS* kurz anreißen und befassen uns kurz mit dem *Style Dictionary* von Amazon.

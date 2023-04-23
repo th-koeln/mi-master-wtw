@@ -9,7 +9,7 @@ bildcredits: Bild von Gabriel Barathieu - https://www.flickr.com/photos/barathie
 art: workshop
 termin: Dienstag, 07. Mai 2019, 14:30 Uhr
 dauer: 90 Minuten
-raum: 3.217
+raum: Online, siehe Ilias
 ---
 
 Dieser Workshop befasst sich mit den Grundlagen der Containerisierung via Docker. Hiermit haben wir sowohl bei der Entwicklung, als auch beim Deployment eine Reihe von Vorteilen. Containerisierte Applikationen können fast aus dem Stand gestartet werden. Im Container sind alle notwendigen Abhängigkeiten der Anwendung enthalten, so dass auch schnell und einfach weitere Entwickler hinzugenommen werden können. Mehr dazu im Workshop.

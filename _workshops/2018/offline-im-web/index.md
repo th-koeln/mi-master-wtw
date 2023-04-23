@@ -9,7 +9,7 @@ bild: ../teaser.jpg
 bildcredits: http://bit.ly/2zNywsP
 termin: Dienstag, 17. Juli 2018, 13:30 Uhr
 dauer: 120 Minuten
-raum: 3.217
+raum: Online, siehe Ilias
 ---
 
 

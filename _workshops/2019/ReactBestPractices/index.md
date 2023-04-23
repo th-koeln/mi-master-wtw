@@ -9,7 +9,7 @@ bildcredits: React Native Logo (https://upload.wikimedia.org/wikipedia/commons/1
 art: workshop
 termin: Dienstag, 25. Juni 2019, 13:00 Uhr
 dauer: 180 Minuten
-raum: 3.217
+raum: Online, siehe Ilias
 ---
 
 
