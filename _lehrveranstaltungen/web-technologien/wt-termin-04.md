@@ -4,7 +4,7 @@ kuerzel: wt
 verantwortlich: Seminarteilnehmer:in
 typ: seminar
 pflicht: false
-termine: 2023-05-02 13:00
+termine: 2099-05-02 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180

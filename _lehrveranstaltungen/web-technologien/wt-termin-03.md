@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien // Workshop
+titel: Seminar Web-Technologien
 kuerzel: wt
 verantwortlich: Seminarteilnehmer:in
 typ: seminar
