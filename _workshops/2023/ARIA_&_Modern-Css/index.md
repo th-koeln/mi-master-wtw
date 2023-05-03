@@ -10,7 +10,7 @@ bild: ../hero.png
 art: workshop
 termin: Dienstag, 09. Mai 2023, 13:00 Uhr
 dauer: ~120 Minuten
-raum: https://th-koeln.zoom.us/j/65505763132  Kenncode: webtech
+raum: https://th-koeln.zoom.us/j/65505763132  Kenncode webtech
 ---
 
 In diesem Workshop geht es darum, mit ARIA (Accessible Rich Internet Applications) und weiteren modernen CSS Lösungen, die Zugänglichkeit von Webseiten und Webanwendungen zu verbessern. 
