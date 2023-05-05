@@ -16,6 +16,9 @@ In diesem Projekt wird eine Idee für ein Produkt oder einen Dienst entwickelt o
 
 Folgende Bewertungskriterien werden angewendet:
 
+### Vision
+Liegt eine klare, prägnante und begründete Beschreibung des angestrebten Zustands vor, der mit dem Projekt erreicht werden soll? Gibt diese eine übergeordnete Orientierung und eine gemeinsame Zielvorstellung für alle beteiligten Personen und Interessengruppen, um ein einheitliches Verständnis für das Projekt zu schaffen? Ist die Vision inspirierend und motivierend und vermittelt sie den Zweck, den Nutzen und die Bedeutung des Projekts für die betroffenen Parteien und die Gesellschaft? Taugt sie als Leitbild für die Planung, Durchführung und Bewertung des Projekts und hilft sie dabei, Entscheidungen und Handlungen auf das Erreichen der gemeinsamen Zielvorstellung auszurichten?
+
 ### [Recherche, Durchdringung & Substanz](/mi-master-wtw/bewertungskriterien/#recherche-durchdringung--substanz)
 Wurden Stakeholder, Problemfeld und -kontext verstanden? Wurde der Forschungsstand und Entwicklungsstand im Gegenstandsbereich umfassend recherchiert? 
 
@@ -23,9 +26,10 @@ Wurden Stakeholder, Problemfeld und -kontext verstanden? Wurde der Forschungssta
 Wurdem wesentliche Entscheidungen thematisiert, diskutiert und dokumentiert, so dass eine vergleichbare Ergebnisqualität in anderen Zusammenhängen und Projekten prinzipiell wiederholbar wäre? Wird das Ergebnis kritisch reflektiert?
 
 ### [Darstellung, Artikulationsfähigkeit & Eloquenz](/mi-master-wtw/bewertungskriterien/#darstellung-artikulationsfähigkeit--eloquenz)
-Wie verständlich kann sich der/die Studierende ausdrücken? Ist die Dokumentation im Repo klar, nachvollziehbar und glaubhaft? Ist das Product-Backlog wurde verständlich und konsistent ausgearbeitet? Sind die einzelnen Stories sind nachvollziehbar und detailliert genug ausgearbeitet, so dass Entwickler:innen mühelos mit der Implementierung beginnen können? 
+Wie verständlich kann sich der/die Studierende ausdrücken? Ist die Dokumentation im Repo klar, nachvollziehbar und glaubhaft? Ist das Product-Backlog verständlich und konsistent ausgearbeitet? Sind die einzelnen Stories nachvollziehbar und detailliert genug ausgearbeitet, so dass Entwickler:innen mühelos mit der Implementierung beginnen können? 
+
 ### [Kritik- & Diskursfähigkeit](/mi-master-wtw/bewertungskriterien/#kritik---diskursfähigkeit)
-Wird mit kritischen und schwierigen Aspekten des Projekts offensiv und sachlich umgegangen? Ist der/die Studierende in der Lage auf angemessenem fachlichen und wissenschaftlichen Niveau über  das Projekt zu diskutieren? Wie geht der/die Studierende mit Fragen um?
+Wird mit kritischen und schwierigen Aspekten des Projekts offensiv und sachlich umgegangen? Ist der/die Studierende in der Lage auf angemessenem fachlichen und wissenschaftlichen Niveau über das Projekt zu diskutieren? Wie geht der/die Studierende mit Fragen um?
 
 ### [Kenntnisse und Fertigkeiten](/mi-master-wtw/bewertungskriterien/#kenntnisse-und-fertigkeiten)
 Wie groß ist das fachliche Repertoire des/der Studierende/n und wie reflektiert wird dieses im Sinne des Projekts eingesetzt? 
@@ -38,6 +42,11 @@ Wurde der Quellcode verständlich struktutriert und dokumentiert? Gibt es eine �
 
 ### [Kooperationsfähigkeit](/mi-master-wtw/bewertungskriterien/#kooperationsfähigkeit)
 Hat der/die Studierende ein hohes Interesse am gemeinsamen Erfolg und ist bereit sich einzubringen? In wie weit werden professionelle Werkzeuge und Techniken eingesetzt, um gemeinsames Handeln unabhängig von zeitlichen und räumlichen Faktoren zu organisieren und zu koordinieren? Werden Informationen und Dokumente in geeigneter Form der Gruppe bereit gestellt? Werden die oder der Kooperationspartner gut integriert? Werden zeitliche Vorgaben und Absprachen getroffen und eingehalten?
+
+### Bewertete Artfakte:
+- Repo und die darin enthaltenen Artefakte
+- Präsentation
+- ggf. Prototyp
 
 ## [Projekt 2: Entwicklung](https://www.medieninformatik.th-koeln.de/study/master/moduls/ma_modul_projekt_entwicklung/)
 
@@ -72,6 +81,10 @@ Im Projekt 2 wird mit diesem Kriterium im wesentlichen der Umgang mit der Ressou
 ### [Kooperationsfähigkeit](/mi-master-wtw/bewertungskriterien/#kooperationsfähigkeit)
 Hat der/die Studierende ein hohes Interesse am gemeinsamen Erfolg und ist bereit sich einzubringen? In wie weit werden professionelle Werkzeuge und Techniken eingesetzt, um gemeinsames Handeln unabhängig von zeitlichen und räumlichen Faktoren zu organisieren und zu koordinieren? Werden Informationen und Dokumente in geeigneter Form der Gruppe bereit gestellt? Werden die oder der Kooperationspartner gut integriert? Werden zeitliche Vorgaben und Absprachen getroffen und eingehalten?
 
+### Bewertete Artfakte:
+- MVP
+- Repo und die darin enthaltenen Artefakte
+- Präsentation
 
 
 ## [Projekt 3: Assessment/Evaluation, Forschung und Verwertung im Kontext des Studienschwerpunkts](https://www.medieninformatik.th-koeln.de/study/master/moduls/ma_modul_projekt_verwertung/)
