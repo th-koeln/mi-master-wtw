@@ -36,6 +36,6 @@ In diesem Workshop wird die Web Neural Network API vorgestellt. Die momentan (st
 ## Material
 - [VueJS & Vite Guide](https://vitejs.dev/guide/)
 
-### Hilfreiche Quelle
+### Hilfreiche Quellen
 - [W3C Spec](https://www.w3.org/TR/webnn/)
 - [WebNN Samples](https://webmachinelearning.github.io/webnn-samples-intro/)
