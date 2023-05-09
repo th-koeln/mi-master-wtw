@@ -8,7 +8,7 @@ termine: 2023-05-09 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: Online, siehe Ilias
+raum: https://th-koeln.zoom.us/j/65505763132 Kenncode webtech
 info: 
 ---
 
