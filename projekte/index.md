@@ -11,37 +11,40 @@ Im [Medieninformatik Master](https://www.medieninformatik.th-koeln.de/study/mast
 - Skalierbarkeit von Projekten auf verschiedene Teams in Abhängigkeit von der jeweiligen Projektphase
 
 
-## [Projekt 1: Vision und Konzept](https://www.medieninformatik.th-koeln.de/study/master/moduls/ma_modul_projekt_visionkonzept/)
-In diesem Projekt wird eine Idee für ein Produkt oder einen Dienst entwickelt oder weiterentwickelt, eine Recherche des Marktes und Standes von Wissenschaft und Technik durchgeführt und ein Konzept soweit definiert und dokumentiert, dass in einem nachfolgenden Projekt(Projekt 2) ein Entwicklerteam in der Lage ist, ein „Minimum Viable Product“ zu realisieren. Beachten Sie bitte, dass in Projekt 2 möglichst viel Workload in die Entwicklung gesteckt werden soll. Somit sollte die Vorentwicklung bereits mit dem Projekt 1 abgeschlossen werden, dazu können u.A. gehören: Entwicklung von Datenstrukturen, Entwicklung des Designs, Proof of Concepts, Gestaltung der Anwendungsarchitektur, etc.
+## [Projekt: Vision und Konzept](https://www.medieninformatik.th-koeln.de/study/master/moduls/ma_modul_projekt_visionkonzept/)
+In diesem Projekt wird eine Idee für ein Produkt oder einen Dienst entwickelt oder weiterentwickelt, eine Recherche des Marktes und Standes von Wissenschaft und Technik durchgeführt, Stakeholder analysiert, Anforderungen ermittelt und ein Konzept soweit definiert und dokumentiert, dass in einem nachfolgenden Projekt ein Entwicklungsteam in der Lage ist, ein „Minimum Viable Product“ zu realisieren. Beachten Sie bitte, dass im nachfolgenden Entwicklungsprojekt möglichst viel Workload in die Entwicklung gesteckt werden soll. Somit sollte die Vorentwicklung bereits mit dem «Projekt Vision und Konzept» abgeschlossen werden, dazu können u.A. gehören: Entwicklung von Datenstrukturen, Entwicklung des Designs, Proof of Concepts, Gestaltung der Anwendungsarchitektur, etc.
 
-Folgende Bewertungskriterien werden angewendet:
+Folgende Dimensionen werden  angewendet:
 
 ### Vision
 Liegt eine klare, prägnante und begründete Beschreibung des angestrebten Zustands vor, der mit dem Projekt erreicht werden soll? Gibt diese eine übergeordnete Orientierung und eine gemeinsame Zielvorstellung für alle beteiligten Personen und Interessengruppen, um ein einheitliches Verständnis für das Projekt zu schaffen? Ist die Vision inspirierend und motivierend und vermittelt sie den Zweck, den Nutzen und die Bedeutung des Projekts für die betroffenen Parteien und die Gesellschaft? Taugt sie als Leitbild für die Planung, Durchführung und Bewertung des Projekts und hilft sie dabei, Entscheidungen und Handlungen auf das Erreichen der gemeinsamen Zielvorstellung auszurichten?
 
-### [Recherche, Durchdringung & Substanz](/mi-master-wtw/bewertungskriterien/#recherche-durchdringung--substanz)
-Wurden Stakeholder, Problemfeld und -kontext verstanden? Wurde der Forschungsstand und Entwicklungsstand im Gegenstandsbereich umfassend recherchiert? 
+### Recherche, Durchdringung & Substanz
+Wurden Stakeholder, Problemfeld und -kontext verstanden? Wurde der Forschungs- und Entwicklungsstand im Gegenstandsbereich umfassend recherchiert, analysiert und dargelegt? 
 
-### [Ausarbeitungsprozess & Wiederholbarkeit](/mi-master-wtw/bewertungskriterien/#ausarbeitungsprozess--wiederholbarkeit)
+### Ausarbeitungsprozess & Wiederholbarkeit
 Wurdem wesentliche Entscheidungen thematisiert, diskutiert und dokumentiert, so dass eine vergleichbare Ergebnisqualität in anderen Zusammenhängen und Projekten prinzipiell wiederholbar wäre? Wird das Ergebnis kritisch reflektiert?
 
-### [Darstellung, Artikulationsfähigkeit & Eloquenz](/mi-master-wtw/bewertungskriterien/#darstellung-artikulationsfähigkeit--eloquenz)
-Wie verständlich kann sich der/die Studierende ausdrücken? Ist die Dokumentation im Repo klar, nachvollziehbar und glaubhaft? Ist das Product-Backlog verständlich und konsistent ausgearbeitet? Sind die einzelnen Stories nachvollziehbar und detailliert genug ausgearbeitet, so dass Entwickler:innen mühelos mit der Implementierung beginnen können? 
+### Darstellung, Artikulationsfähigkeit & Eloquenz
+Wie verständlich kann sich der/die Studierende ausdrücken? Ist die Dokumentation im Repo klar, nachvollziehbar und glaubhaft? Ist das Product-Backlog verständlich und konsistent ausgearbeitet? Sind die einzelnen Stories nachvollziehbar und detailliert genug ausgearbeitet, so dass Entwickler:innen mühelos mit der Implementierung beginnen können? Sind etwaige Präsentationen und Präsentationsmaterialien angemessen aus- und aufgearbeitet? 
 
-### [Kritik- & Diskursfähigkeit](/mi-master-wtw/bewertungskriterien/#kritik---diskursfähigkeit)
+### Kritik- & Diskursfähigkeit
 Wird mit kritischen und schwierigen Aspekten des Projekts offensiv und sachlich umgegangen? Ist der/die Studierende in der Lage auf angemessenem fachlichen und wissenschaftlichen Niveau über das Projekt zu diskutieren? Wie geht der/die Studierende mit Fragen um?
 
-### [Kenntnisse und Fertigkeiten](/mi-master-wtw/bewertungskriterien/#kenntnisse-und-fertigkeiten)
+### Kenntnisse und Fertigkeiten
 Wie groß ist das fachliche Repertoire des/der Studierende/n und wie reflektiert wird dieses im Sinne des Projekts eingesetzt? 
 
-### [Nutz- & Anwendbarkeit](/mi-master-wtw/bewertungskriterien/#nutz---anwendbarkeit)
-Sind die Ergebnisse und Artefakte so aufbereitet, dass sie in der Praxis oder durch die Community oder andere Projektteams nutzbar sind? Wurden verständliche und sinnvolle Strukturen für die Artefakte gewählt? Werden die Ergebnisse nachhaltig bereit gestellt. Ist die Urheberschaft der einzelnen Artefakte und des gesamten Projekts erkennbar? Ist offensichtlich, welchen Stand das Projekt hat? 
+### Nutz- & Anwendbarkeit
+Sind die Ergebnisse und Artefakte so aufbereitet, dass sie im «Projekt Entwicklung» durch andere Projektteams nutzbar sind? Wurden verständliche und sinnvolle Strukturen für die Artefakte gewählt? Werden die Ergebnisse nachhaltig bereit gestellt. Ist die Urheberschaft der einzelnen Artefakte und des gesamten Projekts erkennbar? Ist offensichtlich, welchen Stand das Projekt hat? 
 
-### [Quellcode & Dokumentation](/mi-master-wtw/bewertungskriterien/#quellcode--dokumentation)
+### Quellcode & Dokumentation
 Wurde der Quellcode verständlich struktutriert und dokumentiert? Gibt es eine Übersicht über die verschiedenen Artefakte und Komponenten? Wird klar, wie die verschiedenen Einzelteile zusammen hängen? Werden notwendige Voraussetzungen explizit gemacht? 
 
-### [Kooperationsfähigkeit](/mi-master-wtw/bewertungskriterien/#kooperationsfähigkeit)
+### Kooperationsfähigkeit
 Hat der/die Studierende ein hohes Interesse am gemeinsamen Erfolg und ist bereit sich einzubringen? In wie weit werden professionelle Werkzeuge und Techniken eingesetzt, um gemeinsames Handeln unabhängig von zeitlichen und räumlichen Faktoren zu organisieren und zu koordinieren? Werden Informationen und Dokumente in geeigneter Form der Gruppe bereit gestellt? Werden die oder der Kooperationspartner gut integriert? Werden zeitliche Vorgaben und Absprachen getroffen und eingehalten?
+
+### Gesamtpaket
+Wirkt das Gesamtpaket/ Gesamtprojekt stimmig, professionell und angemessen?
 
 ### Bewertete Artfakte:
 - Repo und die darin enthaltenen Artefakte
