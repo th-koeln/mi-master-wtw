@@ -126,7 +126,7 @@ Inwieweit ist das Arbeitsergebnis inkl. aller Artefakte und der Dokumentation f√
 Inwieweit haben die einzelnen Teilnehmer:innen sich eingebracht und wie werden die Arbeitsergebnisse transparent gemacht? Wie wurden Arbeitspakete und Arbeitslast verteilt? Wie wurde das Projekt und die Projektrollen organisiert und verteilt?
 
 ### Gesamtpaket
-Wirkt das Gesamtpaket/ Gesamtprojekt stimmig, professionell, fokussiert und angemessen?
+Wirkt das Gesamtpaket/ Gesamtprojekt stimmig, professionell, fokussiert und angemessen? Wird deutlich, was unternehmen wurde um den MVP nachhaltig verwertbar zu machen?
 
 ## Projektthemen
 
