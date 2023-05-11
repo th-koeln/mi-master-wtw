@@ -14,7 +14,7 @@ Im [Medieninformatik Master](https://www.medieninformatik.th-koeln.de/study/mast
 ## [Projekt: Vision und Konzept](https://www.medieninformatik.th-koeln.de/study/master/moduls/ma_modul_projekt_visionkonzept/)
 In diesem Projekt wird eine Idee für ein Produkt oder einen Dienst entwickelt oder weiterentwickelt, eine Recherche des Marktes und Standes von Wissenschaft und Technik durchgeführt, Stakeholder analysiert, Anforderungen ermittelt und ein Konzept soweit definiert und dokumentiert, dass in einem nachfolgenden Projekt ein Entwicklungsteam in der Lage ist, ein „Minimum Viable Product“ zu realisieren. Beachten Sie bitte, dass im nachfolgenden Entwicklungsprojekt möglichst viel Workload in die Entwicklung gesteckt werden soll. Somit sollte die Vorentwicklung bereits mit dem «Projekt Vision und Konzept» abgeschlossen werden, dazu können u.A. gehören: Entwicklung von Datenstrukturen, Entwicklung des Designs, Proof of Concepts, Gestaltung der Anwendungsarchitektur, etc.
 
-Folgende Dimensionen werden  angewendet:
+**Folgende Dimensionen werden bei der Bewertung betrachtet:**
 
 ### Vision
 Liegt eine klare, prägnante und begründete Beschreibung des angestrebten Zustands vor, der mit dem Projekt erreicht werden soll? Gibt diese eine übergeordnete Orientierung und eine gemeinsame Zielvorstellung für alle beteiligten Personen und Interessengruppen, um ein einheitliches Verständnis für das Projekt zu schaffen? Ist die Vision inspirierend und motivierend und vermittelt sie den Zweck, den Nutzen und die Bedeutung des Projekts für die betroffenen Parteien und die Gesellschaft? Taugt sie als Leitbild für die Planung, Durchführung und Bewertung des Projekts und hilft sie dabei, Entscheidungen und Handlungen auf das Erreichen der gemeinsamen Zielvorstellung auszurichten?
@@ -51,38 +51,41 @@ Wirkt das Gesamtpaket/ Gesamtprojekt stimmig, professionell und angemessen?
 - Präsentation
 - ggf. Prototyp
 
-## [Projekt 2: Entwicklung](https://www.medieninformatik.th-koeln.de/study/master/moduls/ma_modul_projekt_entwicklung/)
+## [Projekt: Entwicklung](https://www.medieninformatik.th-koeln.de/study/master/moduls/ma_modul_projekt_entwicklung/)
 
-In diesem Projekt wird, basierend auf einem bereits erstellten Konzept, ein „Minimum Viable Product“ entwickelt oder weiterentwickelt.
+In diesem Projekt wird, basierend auf einem bereits erstellten Konzept, ein „Minimum Viable Product“ entwickelt oder weiterentwickelt, dokumentiert und nachhaltig bereit gestellt.
 
-Folgende Bewertungskriterien werden angewendet:
+**Folgende Dimensionen werden bei der Bewertung betrachtet:**
 
-### [Recherche, Durchdringung & Substanz](/mi-master-wtw/bewertungskriterien/#recherche-durchdringung--substanz)
-Wurde das Konzept aus Projekt 1 noch mal kritisch hinterfragt und daraus ein konkreter Projektauftrag für Projekt 2 abgeleitet, explizit gemacht und mit dem Projektowner verhandelt?
+### Recherche, Durchdringung & Substanz
+Wurden Vision und Konzept noch mal kritisch hinterfragt und daraus ein konkreter Projektauftrag für das «Projekt Entwicklung» abgeleitet, explizit gemacht und mit dem Projektowner verhandelt?
 
-### [Ausarbeitungsprozess & Wiederholbarkeit](/mi-master-wtw/bewertungskriterien/#ausarbeitungsprozess--wiederholbarkeit)
+### Ausarbeitungsprozess & Wiederholbarkeit
 Wie zielsicher wurden die verschiedenen Issues konfektioniert und gelöst, so dass eine vergleichbare Ergebnisqualität in anderen Zusammenhängen und Projekten prinzipiell wiederholbar wäre? Werden wesentliche Entscheidungen thematisiert, diskutiert und dokumentiert? Wird das Ergebnis kritisch reflektiert?
 
-### [Darstellung, Artikulationsfähigkeit & Eloquenz](/mi-master-wtw/bewertungskriterien/#darstellung-artikulationsfähigkeit--eloquenz)
-Wie verständlich kann sich der/die Studierende ausdrücken? Ist die Dokumentation im Repo klar, nachvollziehbar und glaubhaft? 
+### Darstellung, Artikulationsfähigkeit & Eloquenz
+Wie verständlich kann sich der/die Studierende ausdrücken? Ist die Dokumentation im Repo klar, nachvollziehbar und glaubhaft? Wird das Vorhaben professionell vorgestellt und diskutiert?
 
-### [Kritik- & Diskursfähigkeit](/mi-master-wtw/bewertungskriterien/#kritik---diskursfähigkeit)
+### Kritik- & Diskursfähigkeit
 Wird mit kritischen und schwierigen Aspekten des Projekts offensiv und sachlich umgegangen? Ist der/die Studierende in der Lage auf angemessenem fachlichen und wissenschaftlichen Niveau über  das Projekt zu diskutieren? Wie geht der/die Studierende mit Fragen um?
 
-### [Kenntnisse und Fertigkeiten](/mi-master-wtw/bewertungskriterien/#kenntnisse-und-fertigkeiten)
+### Kenntnisse und Fertigkeiten
 Wie groß ist das fachliche Repertoire des/der Studierende/n und wie reflektiert wird dieses im Sinne des Projekts eingesetzt? 
 
-### [Nutz- & Anwendbarkeit](/mi-master-wtw/bewertungskriterien/#nutz---anwendbarkeit)
+### Nutz- & Anwendbarkeit
 Sind die Ergebnisse und Artefakte so aufbereitet, dass sie in der Praxis oder durch die Community oder andere Projektteams nutzbar sind? Wurden verständliche und sinnvolle Strukturen für die Artefakte gewählt? Werden die Ergebnisse nachhaltig bereit gestellt. Werden Nutzungsbedingungen, z.B. Lizenzen der verschiedenen Artefakte aufgezeigt? Ist die Urheberschaft der einzelnen Artefakte und des gesamten Projekts erkennbar? Kann das Projekt in anderen Kontexten deployt werden? Ist offensichtlich, welchen Stand das Projekt hat? 
 
-### [Quellcode & Dokumentation](/mi-master-wtw/bewertungskriterien/#quellcode--dokumentation)
-Wurde der Quellcode verständlich struktutriert und dokumentiert? Gibt es eine Übersicht über die verschiedenen Artefakte und Komponenten? Wird klar, wie die verschiedenen Einzelteile zusammen hängen? Werden notwendige Voraussetzungen explizit gemacht? Sind wesentliche Entscheidungen dokumentiert? Kann das Projekt durch Dritte genutzt, gestartet, installiert und/ oder erweitert werden? Sind die Commits verständlich und nachvollziehbar?
+### Quellcode & Dokumentation
+Wurde der Quellcode verständlich struktutriert und dokumentiert? Gibt es eine Übersicht über die verschiedenen Artefakte und Komponenten? Wird klar, wie die verschiedenen Einzelteile zusammen hängen? Werden notwendige Voraussetzungen explizit gemacht? Sind wesentliche Entscheidungen dokumentiert? Kann das Projekt durch Dritte genutzt, gestartet, installiert und/ oder erweitert werden? Sind die Commits verständlich und nachvollziehbar? Werden angemessene Werkzeuge und Vorgehensmodelle zur professionellen Entwicklung genutzt, z.B. Pull Requests, Sprints, Retros, ADRs? Werden offene Aufgaben und neue Herausforderungen, bzw. Änderungs- und Erweiterungsbedarfs sinnvoll dokumentiert und argumentiert?
 
-### [Zeitmanagement, Flexibilität, Motivation &amp; Empathie im Projekt](/mi-master-wtw/bewertungskriterien/#zeitmanagement-flexibilität-motivation--empathie)
-Im Projekt 2 wird mit diesem Kriterium im wesentlichen der Umgang mit der Ressource «Zeit» bewertet. Wurden die Zeitaufwände der Issues geschätzt? Wie wurde geschätzt? Gab es Reviews zu den Schätzungen? Wurden Issues ggf. verkleinert oder vergrößert, damit sie besser in die Sprintplanung passen? Werden verfügbare Ressourcen bei der Entscheidungsfindung berücksichtigt und sind sie Teil der Argumentation?
+### Zeitmanagement, Flexibilität, Motivation &amp; Empathie im Projekt
+Im Projekt wird mit diesem Kriterium im wesentlichen der Umgang mit der Ressource «Zeit» bewertet. Wurden die Zeitaufwände der Issues geschätzt? Wie wurde geschätzt? Gab es Reviews zu den Schätzungen? Wurden Issues ggf. verkleinert oder vergrößert, damit sie besser in die Sprintplanung passen? Werden verfügbare Ressourcen bei der Entscheidungsfindung berücksichtigt und sind sie Teil der Argumentation?
 
-### [Kooperationsfähigkeit](/mi-master-wtw/bewertungskriterien/#kooperationsfähigkeit)
+### Kooperationsfähigkeit
 Hat der/die Studierende ein hohes Interesse am gemeinsamen Erfolg und ist bereit sich einzubringen? In wie weit werden professionelle Werkzeuge und Techniken eingesetzt, um gemeinsames Handeln unabhängig von zeitlichen und räumlichen Faktoren zu organisieren und zu koordinieren? Werden Informationen und Dokumente in geeigneter Form der Gruppe bereit gestellt? Werden die oder der Kooperationspartner gut integriert? Werden zeitliche Vorgaben und Absprachen getroffen und eingehalten?
+
+### Endergebnis
+Wie lebensfähig ist der MVP und in wie weit zahlt er auf die Vision des Projekts ein?
 
 ### Bewertete Artfakte:
 - MVP
