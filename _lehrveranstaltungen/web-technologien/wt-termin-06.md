@@ -1,10 +1,10 @@
 ---
-titel: Seminar Web-Technologien // Web Neural Network API
+titel: Seminar Web-Technologien // Web Neural Network API // Start um 13:30!
 kuerzel: wt
 verantwortlich: Aljosha Cedric Merz
 typ: seminar
 pflicht: false
-termine: 2023-05-16 13:30
+termine: 2023-05-16 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
