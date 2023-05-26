@@ -1,14 +1,14 @@
 ---
-titel: Seminar Web-Technologien // Workshop
+titel: Workshop Web Capabilities
 kuerzel: wt
-verantwortlich: Seminarteilnehmer:in
+verantwortlich: Fin Gedrath
 typ: seminar
 pflicht: false
 termine: 2023-06-06 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: Online, siehe Ilias
+raum: 3.217
 info: 
 ---
 
