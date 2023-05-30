@@ -12,8 +12,5 @@ raum: 3.217
 info: 
 ---
 
-
-## Was passiert heute?
-
-## Was muss vorbereitet werden?
+Hier finden Sie [weitere Infos zum Workshop](https://th-koeln.github.io/mi-master-wtw/workshops/2023/WebSensor/index/)
 

@@ -10,7 +10,7 @@ bild: ../header.jpg
 art: workshop
 termin: Dienstag, 06. Juni 2023, 13:00 Uhr
 dauer: 120-150 Minuten
-raum: tbd.
+raum: 3.217
 ---
 
 In diesem Workshop werden wir uns mit den standardisierten Sensor APIs als Teil der [Web Capability Efforts](https://developer.chrome.com/capabilities/) und deren Anwendungsmöglichkeiten auf mobilen Endgeräten beschäftigen. Die API wird noch nicht von allen Geräten und Browsertypen unterstützt. Um den Workshop also gut durchführen zu können, wird ein Android Gerät mit Chrome benötigt. Ich stelle ein Gerät an dem Tag zur Verfügung. Wer ein eigenes Gerät mitbringen kann, ist herzlich dazu eingeladen.
