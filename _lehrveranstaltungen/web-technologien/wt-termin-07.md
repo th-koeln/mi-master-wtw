@@ -24,6 +24,6 @@ Bitte stellen Sie den aktuellen Stand Ihres Beiboot Projekts vor und zeigen/ erl
 - was ist die technische Grundlage?
 - wie haben Sie systematisch getestet und dokumentiert?
 - wie funktioniert Ihre Dev Umgebung?
-- was waren die größten Hinternisse?
+- was waren die größten Hindernisse?
 - was haben Sie bislang mitgenommen?
 
