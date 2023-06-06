@@ -54,6 +54,7 @@ Folgende Bewertungskriterien sind relevant:
 - [Quellcode & Dokumentation](/mi-master-wtw/bewertungskriterien/#quellcode--dokumentation)
 - [Ökonomie](/mi-master-wtw/bewertungskriterien/#ökonomie)
 - [Kooperationsfähigkeit](/mi-master-wtw/bewertungskriterien/#kooperationsfähigkeit) 
+- [Ergebnisqualität](/mi-master-wtw/bewertungskriterien/#ergebnisqualität)
 
 ## Übersicht der Kriterien
 
@@ -115,3 +116,7 @@ Kann der/die Studierende ökonomische Maßstäbe an die Umsetzung einschätzen? 
 #### Kooperationsfähigkeit
 <!-- [Kooperationsfähigkeit](/mi-master-wtw/bewertungskriterien/#kooperationsfähigkeit) -->
 Hat der/die Studierende ein hohes Interesse am gemeinsamen Erfolg und ist bereit sich einzubringen? In wie weit werden professionelle Werkzeuge und Techniken eingesetzt, um gemeinsames Handeln unabhängig von zeitlichen und räumlichen Faktoren zu organisieren und zu koordinieren? Werden Informationen und Dokumente in geeigneter Form der Gruppe bereit gestellt? Werden die oder der Kooperationspartner gut integriert? Werden zeitliche Vorgaben und Absprachen getroffen und eingehalten?
+
+#### Ergebnisqualität
+<!-- [Ergebnisqualität](/mi-master-wtw/bewertungskriterien/#ergebnisqualität) -->
+Wie ausgereift und überzeugend ist das Ergebnis?
