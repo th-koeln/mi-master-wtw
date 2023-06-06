@@ -1,7 +1,7 @@
 ---
 titel: Workshop Web Capabilities
 kuerzel: wt
-verantwortlich: Fin Gedrath
+verantwortlich: Finn Gedrath
 typ: seminar
 pflicht: false
 termine: 2023-06-06 13:00
