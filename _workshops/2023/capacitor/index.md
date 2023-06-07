@@ -19,7 +19,7 @@ raum: 3.217
 
 # Capacitor Workshop
 
-In diesem Workshop werden wir uns mit [capacitor](https://capacitorjs.com/) beschäftigen. Capacitor ist eine quelloffene natürliche Laufzeitumgebung zum Erstellen von Web Native-Apps. Dieses Sie plattformübergreifende iOS-, Android- und Progressive Web Apps mit JavaScript, HTML und CSS.
+In diesem Workshop werden wir uns mit [Capacitor](https://capacitorjs.com/) beschäftigen. Capacitor ist eine quelloffene Laufzeitumgebung zum Erstellen von Web Native-Apps. Damit kannst du plattformübergreifend iOS-, Android- und Progressive Web Apps mit JavaScript, HTML und CSS erstellen.
 
 ## Vorkenntnisse:
 - JavaScript
@@ -33,14 +33,14 @@ In diesem Workshop werden wir uns mit [capacitor](https://capacitorjs.com/) besc
 - (Xcode)
 
 ## Vorbereitung:
-- Bitte nehme ein Kabel mit, das es dir ermöglicht, dein Smartphone an dein Laptop anzuschließen.
+- Bitte nimm ein Kabel mit, das es dir ermöglicht, dein Smartphone an deinen Laptop anzuschließen.
 - Erstelle eine lauffähige Kopie deines Beiboot-Projekts.
-- Folge den Installations-Instruktionen unten.
+- Folge den Installationsanweisungen unten.
 
-**Xcode:** Solltest du einen Mac und ein iPhone nutzen, bitte ich dich Xcode zu installieren und einen belibigen Simulator in Xcode vorzubereiten. Die App kann auch direkt auf ein iPhone gebaut werden. (iOS 13+ und Xcode 14.1+ sind Vorraussetzung)
+**Xcode:** Solltest du einen Mac und ein iPhone nutzen, bitte ich dich, Xcode zu installieren und einen beliebigen Simulator in Xcode vorzubereiten. Die App kann auch direkt auf ein iPhone gebaut werden. (iOS 13+ und Xcode 14.1+ sind Voraussetzung)
 
-**Android Studio:** Solltest du ein Android nutzen, bitte ich dich Android Studio soweit einzurichten, das es dir möglich ist, einen belibigen Emulator zum testen der App nutzen zu können. (Android 5.1 ist Vorraussetzung)
+**Android Studio:** Solltest du ein Android-Gerät nutzen, bitte ich dich, Android Studio soweit einzurichten, dass du einen beliebigen Emulator zum Testen der App nutzen kannst. (Android 5.1 ist Voraussetzung)
 
 ### Material
-- [capacitor Website](https://capacitorjs.com/)
-- [capacitor Dokumentation](https://capacitorjs.com/docs)
+- [Capacitor Website](https://capacitorjs.com/)
+- [Capacitor Dokumentation](https://capacitorjs.com/docs)
