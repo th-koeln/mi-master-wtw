@@ -16,28 +16,26 @@ raum: https://th-koeln.zoom.us/j/6078076173?pwd=TjZXb1BoRUxYTktNQnVmZTducVhBQT09
 # Tesseract.Js
 
 In diesem Workshop werden wir das <i>Optical Character Recognition (OCR)</i> Tool  [Tesseract.Js](https://tesseract.projectnaptha.com) kennenlernen.<br><br>
-Dabei binden wir es als NPM-Package selbst in einem Prototypen ein und lernen dabei, wie man mit wenigen Zeilen Code Text auf Bildern identifizieren lassen kann. Der Workshop soll dabei zum Experimentieren einladen - wie gut ist Tesseract.Js gegen vergleichbare OCR-Tools? Wo liegen die Möglichkeiten und Grenzen? Welche Einsatzzwecke sind denkbar?
+Dabei binden wir es als NPM-Package selbst in einem Web-Prototypen ein und lernen dabei, wie man mit wenigen Zeilen Code Text auf Bildern identifizieren lassen kann. Der Workshop soll dabei zum Experimentieren einladen - wie gut ist Tesseract.Js gegen vergleichbare OCR-Tools? Wo liegen die Möglichkeiten und Grenzen? Welche Einsatzzwecke sind denkbar?<br><br>
+Ziel ist es, dass alle etwas über die aktuellen OCR-Möglichkeiten lernen und dabei bestenfalls Tesseract.Js als mögliches Tool für zukünftige Projekte mitnehmen können.
+
+
+---
+<br>
 
 ## Vorkenntnisse:
-- JavaScript
 - Git
-- Docker
+- JavaScript
 
 ## Benötigte Tools:
-- Android Studio
-- Node
+- IDE deiner Wahl
 - npm
-- (Xcode)
+- [Vue CLI](https://cli.vuejs.org/guide/installation.html)
+- (Optional) Webcam
 
-## Vorbereitung:
-- Bitte nimm ein Kabel mit, das es dir ermöglicht, dein Smartphone an deinen Laptop anzuschließen.
-- Erstelle eine lauffähige Kopie deines Beiboot-Projekts.
-- Folge den Installationsanweisungen unten.
-
-**Xcode:** Solltest du einen Mac und ein iPhone nutzen, bitte ich dich, Xcode zu installieren und einen beliebigen Simulator in Xcode vorzubereiten. Die App kann auch direkt auf ein iPhone gebaut werden. (iOS 13+ und Xcode 14.1+ sind Voraussetzung)
-
-**Android Studio:** Solltest du ein Android-Gerät nutzen, bitte ich dich, Android Studio soweit einzurichten, dass du einen beliebigen Emulator zum Testen der App nutzen kannst. (Android 5.1 ist Voraussetzung)
 
 ### Material
-- [Capacitor Website](https://capacitorjs.com/)
-- [Capacitor Dokumentation](https://capacitorjs.com/docs)
+- <b>[Aufgaben-Repo mit Basiscode](https://github.com/sebastianbroc/workshopTesseract)</b>
+- [Tesseract.Js Projektseite](https://tesseract.projectnaptha.com)
+- [Tesseract.Js GitHub Repo](https://github.com/naptha/tesseract.js#tesseractjs)
+- [Project Naptha Projektseite](https://projectnaptha.com)
