@@ -10,7 +10,7 @@ bild: ../hero.png
 art: workshop
 termin: Dienstag, 27. Juni 2023, 13:00 Uhr
 dauer: ~120 Minuten
-raum: https://th-koeln.zoom.us/j/6078076173?pwd=TjZXb1BoRUxYTktNQnVmZTducVhBQT09 Kenncode: noss
+raum: https://th-koeln.zoom.us/j/6078076173?pwd=TjZXb1BoRUxYTktNQnVmZTducVhBQT09 Kenncode noss
 ---
 
 # Tesseract.Js
