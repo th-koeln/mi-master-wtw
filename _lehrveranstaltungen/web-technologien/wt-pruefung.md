@@ -4,7 +4,7 @@ kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2022-09-27 10:00
+termine: 2023-09-26 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 480
@@ -17,9 +17,9 @@ Im Rahmen dieser Prüfung stellen Sie die wesentlichen und interessanten Teile I
 - Überprüfung, dass der Prüfling Schöpfer des eingereichten Beiboot Projekts ist
 - Überprüfung der Diskursfähigkeit des Prüflings
 
-<!--
-Bitte reservieren Sie [hier einen Termin](https://ilias.th-koeln.de/goto.php?target=xpdl_2309594&client_id=ILIAS_FH_Koeln). Für die Prüfung sollten Sie eine kurze Vorstellung des Beiboot Projekts und eine kurze Reflexion Ihres Workshops vorbereiten. Hierzu ist nicht zwingend eine Präsentation erforderlich, andere unterstützende Formate/ Dokumente oder eine freie Vorstellung sind auch willkommen.-->
+Bitte reservieren Sie [hier einen Termin]([https://ilias.th-koeln.de/goto.php?target=xpdl_2309594&client_id=ILIAS_FH_Koeln](https://ilias.th-koeln.de/goto.php?target=xpdl_2521547&client_id=ILIAS_FH_Koeln)). Für die Prüfung sollten Sie eine kurze Vorstellung des Beiboot Projekts und eine kurze Reflexion Ihres Workshops vorbereiten. Hierzu ist nicht zwingend eine Präsentation erforderlich, andere unterstützende Formate/ Dokumente oder eine freie Vorstellung sind auch willkommen.
 
+<!--
 ## Running Order
 
 | Uhrzeit |Name |Link zum Beiboot Repo|Ort|
@@ -38,5 +38,5 @@ Bitte reservieren Sie [hier einen Termin](https://ilias.th-koeln.de/goto.php?tar
 |16:00 | Sarfaroz Khakimov | [Beiboot Repo](https://github.com/mi-classroom/mi-web-technologien-beiboot-ss2022-Sarfaroz) | online |
 |16:30 | Javad Alamdar | [Beiboot Repo](https://github.com/mi-classroom/mi-web-technologien-beiboot-ss2022-javadalam) | online |
 |17:00 | Jan Koll | [Beiboot Repo](https://github.com/mi-classroom/mi-web-technologien-beiboot-ss2022-JanKoll) | online |
-
+-->
 
