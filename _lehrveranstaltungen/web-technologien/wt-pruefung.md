@@ -8,7 +8,7 @@ termine: 2023-09-26 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 480
-raum: Online, Zugangsdaten im Ilias
+raum: Online (Zugangsdaten im Ilias) oder Vor Ort 3.240
 info: 
 ---
 
