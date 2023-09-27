@@ -1,6 +1,7 @@
 version: "3.8"
 services:
   webserver:
+    platform: linux/amd64
     image: jekyll/jekyll:4.2.0
     command: jekyll serve
     ports:
