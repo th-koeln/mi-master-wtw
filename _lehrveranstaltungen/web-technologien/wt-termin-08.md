@@ -1,16 +1,13 @@
 ---
-titel: Workshop Web Capabilities
+titel: Seminar Web-Technologien // Workshop
 kuerzel: wt
-verantwortlich: Finn Gedrath
+verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2023-06-06 13:00
+termine: 2024-06-11 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: 3.217
+raum: folgt
 info: 
 ---
-
-Hier finden Sie [weitere Infos zum Workshop](https://th-koeln.github.io/mi-master-wtw/workshops/2023/WebSensor/index/)
-

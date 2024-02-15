@@ -4,11 +4,11 @@ kuerzel: s-ko
 verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2023-03-28 13:00
+termine: 2024-04-16 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: Online, siehe Ilias
+raum: folgt
 info: 
 ---
 

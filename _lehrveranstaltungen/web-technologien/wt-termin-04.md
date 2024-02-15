@@ -4,11 +4,11 @@ kuerzel: wt
 verantwortlich: Seminarteilnehmer:in
 typ: seminar
 pflicht: false
-termine: 2099-05-02 13:00
+termine: 2024-05-14 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: Online, siehe Ilias
+raum: folgt
 info: 
 ---
 

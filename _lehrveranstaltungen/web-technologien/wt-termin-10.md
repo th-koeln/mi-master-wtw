@@ -1,15 +1,15 @@
 ---
-titel: Seminar Web-Technologien // Tesseract.Js
+titel: Seminar Web-Technologien // Workshop
 kuerzel: wt
-verantwortlich: Sebastian Brock
+verantwortlich: Seminarteilnehmer:in
 typ: seminar
 pflicht: false
-termine: 2023-06-27 13:00
+termine: 2024-06-25 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: Online, siehe Ilias
+raum: folgt
 info: 
 ---
 
-Hier finden Sie [weitere Infos zum Workshop](https://th-koeln.github.io/mi-master-wtw/workshops/2023/tesseractJS/index/)
+

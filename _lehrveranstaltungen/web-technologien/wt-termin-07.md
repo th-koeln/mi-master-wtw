@@ -4,11 +4,11 @@ kuerzel: wt
 verantwortlich: Seminarteilnehmer:in
 typ: seminar
 pflicht: false
-termine: 2023-05-30 14:00
+termine: 2024-06-04 13:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 120
-raum: 3.217
+dauer: 180
+raum: folgt
 info: 
 ---
 
