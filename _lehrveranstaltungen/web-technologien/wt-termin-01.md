@@ -8,7 +8,7 @@ termine: 2024-04-16 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: folgt
+raum: 3.216
 info: 
 ---
 
@@ -62,7 +62,3 @@ Machen Sie sich ein Bild von aktuellen Strömungen beim W3C:
 - [W3C: Standards and Drafts](https://www.w3.org/TR/)
 - [W3C: Standards](https://www.w3.org/standards/)
 
-## Kommunikation
-
-Für das Modul gibt es einen Slack Kanal. Die Anmeldung zu diesem Kanal ist **freiwillig**. Manchmal ist es, gerade in der aktuellen Situation, einfacher mich via Slack zu erreichen.
-- [Weaving The Web Slack Einladung](https://join.slack.com/t/weavingthewebgruppe/shared_invite/zt-oyj4usmq-04XhRCt0UB5Cq~vmVAYibA)
