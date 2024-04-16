@@ -8,6 +8,6 @@ termine: 2024-06-11 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: folgt
+raum: 3.217
 info: 
 ---

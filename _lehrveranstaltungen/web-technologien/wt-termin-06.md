@@ -8,7 +8,7 @@ termine: 2024-05-28 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: Online, siehe Ilias
+raum: 3.217
 info: 
 ---
 
