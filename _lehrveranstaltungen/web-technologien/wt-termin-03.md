@@ -15,6 +15,7 @@ info:
 ## Was passiert heute?
 - Checkin (Setup)
 - Review Issue 1 Beiboot
+- Bisschen Input zum Beiboot Projekt
 - Fragen zum Workshop
 
 ## Was muss vorbereitet werden?
