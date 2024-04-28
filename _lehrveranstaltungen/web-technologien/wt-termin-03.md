@@ -8,7 +8,7 @@ termine: 2024-04-30 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: 3.217
+raum: Online, Zugangsdaten sind auf dem Miro Board
 info: 
 ---
 
