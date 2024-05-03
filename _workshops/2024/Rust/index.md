@@ -33,6 +33,7 @@ Rust kombiniert eine außergewöhnliche Laufzeiteffizienz mit einer starken Beto
 
 Dieser Workshop richtet sich an Entwickler, die ein Interesse an der Programmiersprache Rust haben und einen ersten Eindruck von der Sprache gewinnen möchten.
 
+
 ## Voraussetzungen
 
 Die Teilnehmenden sollten folgendes mitbringen:
