@@ -14,11 +14,20 @@ dauer: ~120 Minuten
 raum: 3.216
 ---
 
-Der Workshop _Einführung in Rust_ soll einen ersten Einblick in die Programmiersprache _Rust_ geben.
+# Workshop Einführung in Rust
 
-Rust ist eine moderne, performante und speichersichere Programmiersprache, die sich besonders für die Entwicklung von Systemanwendungen und Web-Services eignet. Sie zeichnet sich durch ihre hohe Leistungsfähigkeit, Sicherheit und Zuverlässigkeit aus und bietet gleichzeitig ein modernes Sprachdesign mit vielen innovativen Funktionen. Rust ist eine kompilierte Sprache, d.h. der Code wird in Maschinensprache übersetzt, bevor er ausgeführt wird, was zu einer hohen Ausführungsgeschwindigkeit führt.
+> Dieser Workshop bietet einen umfassenden Einblick in Rust – eine moderne und sichere Programmiersprache, die für ihre hohe Leistung und Zuverlässigkeit in der System- und Webanwendungsentwicklung bekannt ist.
 
-Während des Workshops sollen Teilnehmer in einem ersten Hands-On einen RESTful Webservice mit dem Framework Actix Web und der Programmiersprache Rust umsetzen.
+Rust kombiniert eine außergewöhnliche Laufzeiteffizienz mit einer starken Betonung der Speichersicherheit, was es zu einer idealen Wahl für leistungsstarke Softwarelösungen macht. Durch sein modernes Design und innovative Features bietet Rust eine attraktive Alternative zu traditionellen Programmiersprachen wie C und C++.
+
+**Während des Workshops lernen die Teilnehmer**:
+
+* Die Grundlagen und Konzepte von Rust
+    * Den Umgang mit dem Package Manager Cargo
+    * Die Rust-Syntax anhand von einfachen Beispielen
+    * Das Ownership Model und wie Rust damit Speicherfehler verhindert
+* Wie man RESTful APIs mit dem Actix Web Framework erstellt.
+
 
 ## Zielgruppe
 
@@ -36,7 +45,7 @@ Die Teilnehmenden sollten folgendes mitbringen:
 * [Postman](https://www.postman.com/downloads/)
 * Git
 
-Ihr könnt alternativ auch eine andere Entwicklungsumgebung eurer Wahl benutzen, allerdings empfehle ich die Nutzung von _RustRover_. Bitte sieht zu, dass ihr vorab ein Hello World Programm kompiliert und ausführen könnt.
+Alternativ kann eine Entwicklungsumgebung Ihrer Wahl benutzt werden, allerdings empfehle ich die Nutzung von RustRover. Bitte sorgen Sie dafür, dass Sie vorab ein "Hello World"-Programm kompilieren und ausführen können.
 
 
 ## Material
