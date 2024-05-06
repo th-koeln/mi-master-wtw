@@ -7,7 +7,7 @@ modul: wt
 published: true
 autor: Andre-Johannes Müller
 bild: ../thumbnail.png
-bildcredits: R Logo von https://www.rust-lang.org/, Krabbe von https://rustacean.net/
+bildcredits: "R Logo von https://www.rust-lang.org/, Krabbe von https://rustacean.net/"
 art: workshop
 termin: Dienstag, 14. Mai 2024, 13:00 Uhr
 dauer: ~120 Minuten
