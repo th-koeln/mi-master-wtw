@@ -2,7 +2,7 @@
 layout: workshop
 titel: Einführung in Rust
 social-media-untertitel: Workshop am 14. Mai 2024
-datum: 2024-14-05
+datum: 2024-05-14
 modul: wt
 published: true
 autor: Andre-Johannes Müller
