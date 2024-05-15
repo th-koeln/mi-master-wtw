@@ -4,7 +4,7 @@ titel: A11y-Testing
 social-media-untertitel: Workshop am 21. Mai 2024
 datum: 2024-05-21
 modul: wt
-published: false
+published: true
 autor: Jona Dielmann
 bild: ../thumbnail.png
 bildcredits: "Hintergrund von https://unsplash.com/de/fotos/zeilen-von-html-codes-4hbJ-eymZ1o, Piktogramme von Microsoft-PowerPoint"
