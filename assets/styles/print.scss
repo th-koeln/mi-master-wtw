@@ -1,0 +1,93 @@
+--- 
+--- 
+//
+// IMPORTS
+//
+@import "reset";
+@import "variables";
+
+
+/* Base
+############################################################################ */
+
+body{
+  font-family: $family-primary;
+  line-height: 130%;
+}
+
+section{
+  padding: $bfs;
+}
+
+h1{
+  font-size: $size-1;
+}
+
+header{
+  margin-bottom: $size-2;
+}
+
+
+/* Overview
+############################################################################ */
+
+.overview{
+  display: grid;
+  gap: $bfs;
+  grid-template-columns: repeat(auto-fill,minmax(16em,1fr));
+}
+
+/* Portfolio
+############################################################################ */
+
+.portfolio{
+
+  &.is-active{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    aspect-ratio: 210/297;
+    border: solid 1px #eee;
+    background-color: #fff;
+    max-width: $bfs * 50;
+  }
+
+
+  img{
+    width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+  }
+
+  figure{
+    margin-bottom: $bfs;
+  }
+
+  h1{
+    font-family: $family-headlines;
+    font-size: $size-1;
+    line-height: 130%;
+  }
+
+  h2{
+    margin-bottom: $size-1;
+  }
+
+  .grid{
+    display: grid;
+    gap: $bfs;
+    padding: $size-2;
+
+    &[data-cols="2"]{
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  .content{
+    p{
+      margin-bottom: 1em;
+    }
+  }
+}
