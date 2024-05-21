@@ -55,8 +55,6 @@ _(Es sind keine Vorkenntnisse im Bereich der Barrierefreiheit notwendig.)_
 
 ## Material
 
-* [Miro](https://miro.com/app/board/uXjVOFsx-Os=/?share_link_id=638615588424)
-
 * Github-Repository
   * [a11y-workshop](https://github.com/jona-d01/a11y-workshop)
 
