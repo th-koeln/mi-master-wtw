@@ -4,7 +4,7 @@
 {% assign workshops=site.workshops|sort:'datum' |reverse %}
 {% for item in  workshops %}
 {
-  "title": "{{ item.titel }}",
+  "title": "Workshop: {{ item.titel }}",
   "date": "{{ item.datum }}",
   "termin": "{{ item.termin }}",
   "autor": "{{ item.autor }}",
