@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien // Vue JS & Tailwind
+titel: Seminar Web-Technologien // State of CSS in 2024 
 kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
@@ -12,3 +12,5 @@ raum: 3.217
 info: 
 ---
 
+
+Infos und Material folgen.

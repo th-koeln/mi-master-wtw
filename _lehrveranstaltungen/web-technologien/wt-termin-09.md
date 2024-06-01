@@ -1,7 +1,7 @@
 ---
-titel: Seminar Web-Technologien // Workshop
+titel: Seminar Web-Technologien // Micro-Frontends mit Webpack
 kuerzel: wt
-verantwortlich: Seminarteilnehmer:in
+verantwortlich: Maik Roth
 typ: seminar
 pflicht: false
 termine: 2024-06-18 13:00
@@ -12,8 +12,5 @@ raum: 3.217
 info: 
 ---
 
-
-## Was passiert heute?
-
-## Was muss vorbereitet werden?
+Material und Infos folgen.
 

@@ -1,7 +1,7 @@
 ---
-titel: Seminar Web-Technologien // Workshop
+titel: Seminar Web-Technologien // Rust
 kuerzel: wt
-verantwortlich: Seminarteilnehmer:in
+verantwortlich: Andre Müller
 typ: seminar
 pflicht: false
 termine: 2024-05-14 13:00
@@ -13,7 +13,5 @@ info:
 ---
 
 
-## Was passiert heute?
-
-## Was muss vorbereitet werden?
+## Infos und Material unter [Einführung in Rust](https://th-koeln.github.io/mi-master-wtw/workshops/2024/Rust/index/)
 

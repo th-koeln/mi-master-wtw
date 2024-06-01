@@ -1,29 +1,15 @@
 ---
-titel: Seminar Web-Technologien // Demo Day
-kuerzel: wt
-verantwortlich: Seminarteilnehmer:in
+titel: Seminar Web-Technologien // Skia (React-Native)
+verantwortlich: Taha S. Moujtahid
 typ: seminar
 pflicht: false
 termine: 2024-06-04 13:00
 empfohlene-voraussetzungen: 
-published: true
+published: false
 dauer: 180
 raum: 3.217
 info: 
 ---
 
-## Was passiert heute?
-
-Heute stellen alle ihren aktuellen Stand des Beibootprojekts möglichst interessant und anschaulich vor. Jede:r Teilnehmer:in hat 20 Minuten Zeit.
-
-## Was muss vorbereitet werden?
-
-Bitte stellen Sie den aktuellen Stand Ihres Beiboot Projekts vor und zeigen/ erläutern Sie kurz:
-- was kann die Anwendung?
-- was kann sie (noch) nicht und warum?
-- was ist die technische Grundlage?
-- wie haben Sie systematisch getestet und dokumentiert?
-- wie funktioniert Ihre Dev Umgebung?
-- was waren die größten Hindernisse?
-- was haben Sie bislang mitgenommen?
+Infos und Material unter [Einführung in Skia (React-Native)](https://th-koeln.github.io/mi-master-wtw/workshops/2024/Skia/index/).
 

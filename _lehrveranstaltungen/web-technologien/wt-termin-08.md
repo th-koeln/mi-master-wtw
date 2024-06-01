@@ -1,7 +1,7 @@
 ---
-titel: Seminar Web-Technologien // Workshop
+titel: Seminar Web-Technologien // Augmented Reality im Web mit Three.js
 kuerzel: wt
-verantwortlich: cn
+verantwortlich: Methusshan Elankumaran
 typ: seminar
 pflicht: false
 termine: 2024-06-11 13:00
@@ -11,3 +11,6 @@ dauer: 180
 raum: 3.217
 info: 
 ---
+
+
+Infos und Material folgen.
