@@ -11,7 +11,7 @@ bildcredits: "Bild von https://pixabay.com/de/photos/hmd-cyberbrille-cyber-brill
 art: workshop
 termin: Dienstag, 11. Juni 2024, 13:00 Uhr
 dauer: ~120 Minuten
-raum: 3.216
+raum: 3.217
 ---
 
 # Workshop Augmented Reality im Web mit Three.js
