@@ -5,7 +5,7 @@ typ: seminar
 pflicht: false
 termine: 2024-06-04 13:00
 empfohlene-voraussetzungen: 
-published: false
+published: true
 dauer: 180
 raum: 3.217
 info: 
