@@ -7,7 +7,7 @@ modul: wt
 published: true
 autor: Methusshan Elankumaran
 bild: ../thumbnail.png
-bildcredits: "R Logo von https://www.rust-lang.org/, Krabbe von https://rustacean.net/"
+bildcredits: "Bild von https://pixabay.com/de/photos/hmd-cyberbrille-cyber-brille-4140960/"
 art: workshop
 termin: Dienstag, 11. Juni 2024, 13:00 Uhr
 dauer: ~120 Minuten
@@ -16,41 +16,44 @@ raum: 3.216
 
 # Workshop Augmented Reality im Web mit Three.js
 
-> Dieser Workshop bietet einen umfassenden Einblick in Rust – eine moderne und sichere Programmiersprache, die für ihre hohe Leistung und Zuverlässigkeit in der System- und Webanwendungsentwicklung bekannt ist.
-
-Rust kombiniert eine außergewöhnliche Laufzeiteffizienz mit einer starken Betonung der Speichersicherheit, was es zu einer idealen Wahl für leistungsstarke Softwarelösungen macht. Durch sein modernes Design und innovative Features bietet Rust eine attraktive Alternative zu traditionellen Programmiersprachen wie C und C++.
+> Dieser Workshop bietet eine einsteigerfreundliche Einführung in das Thema 3D-Rendering und Augmented Reality. Nach dem Workshop sollten die Teilnehmenden in der Lage sein die grundlegenden Konzepte zu verstehen und mit Three.js implementieren zu können.
 
 **Während des Workshops lernen die Teilnehmer**:
 
-* Die Grundlagen und Konzepte von Rust
-    * Den Umgang mit dem Package Manager Cargo
-    * Die Rust-Syntax anhand von einfachen Beispielen
-    * Das Ownership Model und wie Rust damit Speicherfehler verhindert
-* Wie man RESTful APIs mit dem Actix Web Framework erstellt.
+* Die Grundlagen des 3D-Rendering und Augmented-Reality
+    * Aufbau einer Rendering-Pipeline
+    * Berechnung von Koordinatensystemen
+    * Wie Trannsformationen im 3D-Space berechnet werden
+* Das Konzept hinter Hit-Testing zur Platzierung von Modellen
 
 
 ## Zielgruppe
 
-Dieser Workshop richtet sich an Entwickler, die ein Interesse an der Programmiersprache Rust haben und einen ersten Eindruck von der Sprache gewinnen möchten.
+Dieser Workshop richtete sich an Programmierer, die wenig bis gar keine Berührungspunkte mit 3D-Rendering haben und gerne eine Einführung in das Thema haben wollen.
 
 
 ## Voraussetzungen
 
 Die Teilnehmenden sollten folgendes mitbringen:
 
-* Grundlegende Kenntnisse in Typisierten Sprachen 
+* HTML
+* CSS
+* Javascript
+* Git
+
+_(Es sind keine Kenntnisse im Bereich 3D-Rendering erforderlich)_
 
 
 ## Technische Vorbereitung
-* [RustRover IDE](https://www.jetbrains.com/de-de/rust/) 
-* [Postman](https://www.postman.com/downloads/)
+* [VS Code](https://code.visualstudio.com/) 
+* [NodeJS umgebung mit npm](https://nodejs.org/en)
+* Google Chrome auf dem Smartphone
+* USB-Kabel zur Verbindung des Smartphones mit dem Rechner 
 * Git
 
-Alternativ kann eine Entwicklungsumgebung Ihrer Wahl benutzt werden, allerdings empfehle ich die Nutzung von RustRover. Bitte sorgen Sie dafür, dass Sie vorab ein "Hello World"-Programm kompilieren und ausführen können.
+Vorab sollte gewährleistet sein, dass USB-Debugging freigeschaltet ist. Hier Tutorials zur Umsetzung in [iOS/MacOS](https://dev.to/nimajafari/remote-debugging-using-google-chrome-on-ios-devices-with-macos-ca9) und [Android/Windows](https://dev.to/nimajafari/remote-debugging-using-google-chrome-on-android-devices-with-windows-2630).
 
 
 ## Material
 
-* [Repository](https://github.com/Amueller36/rust-workshop)
-* [Rust](https://www.rust-lang.org/)
-* [Actix Framework](https://actix.rs/)
+* [Repository](https://github.com/Methusshan25/AugmentedRealityWeb)
