@@ -1,7 +1,7 @@
 ---
-titel: Seminar Web-Technologien // Workshop
+titel: Seminar Web-Technologien // Echtzeit Kommunikation
 kuerzel: wt
-verantwortlich: Seminarteilnehmer:in
+verantwortlich: Joshua Gawenda
 typ: seminar
 pflicht: false
 termine: 2024-06-25 13:00
@@ -12,4 +12,4 @@ raum: 3.217
 info: 
 ---
 
-
+Infos und Material folgen.

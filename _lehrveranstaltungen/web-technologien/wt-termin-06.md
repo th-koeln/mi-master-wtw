@@ -1,7 +1,7 @@
 ---
-titel: Seminar Web-Technologien // Thema folgt
+titel: Seminar Web-Technologien // Animierte SVGs
 kuerzel: wt
-verantwortlich: cn
+verantwortlich: Lioba Brandhoff
 typ: seminar
 pflicht: false
 termine: 2024-05-28 13:00
@@ -12,3 +12,4 @@ raum: 3.217
 info: 
 ---
 
+Infos und Material unter [Workshop Animierte SVGs](https://th-koeln.github.io/mi-master-wtw/workshops/2024/AnimierteSVGs/index/).

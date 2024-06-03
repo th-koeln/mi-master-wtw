@@ -1,7 +1,7 @@
 ---
-titel: Seminar Web-Technologien // Workshop
+titel: Seminar Web-Technologien // Server Side Rendering
 kuerzel: wt
-verantwortlich: Seminarteilnehmer:in
+verantwortlich: Dennis Wäckerle
 typ: seminar
 pflicht: false
 termine: 2024-07-02 13:00
@@ -13,3 +13,4 @@ info:
 ---
 
 
+Infos und Material folgen.
