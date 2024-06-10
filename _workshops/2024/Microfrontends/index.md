@@ -6,7 +6,7 @@ datum: 2024-06-18
 modul: wt
 published: true
 autor: Maik Roth
-bild: 
+bild: https://www.it-labs.com/wp-content/uploads/2021/01/micro-front-end-01-1.png
 art: workshop
 termin: Dienstag, 18. Juni 2024, 13:00 Uhr
 dauer: ~120 Minuten
