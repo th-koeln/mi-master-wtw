@@ -1,7 +1,7 @@
 ---
 layout: workshop
 titel: Microfrontends mit Webpack - Module Federation
-social-media-untertitel: Online-Workshop am 18. Juni 2024
+social-media-untertitel: Workshop am 18. Juni 2024 // Campus Gummersbach Raum 3.217 // 13:00 - 16:00 Uhr 
 datum: 2024-06-18
 modul: wt
 published: true
