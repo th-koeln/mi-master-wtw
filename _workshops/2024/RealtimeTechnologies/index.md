@@ -53,3 +53,4 @@ Die Teilnehmenden sollten grundlegende Kenntnisse in folgenden Bereichen besitze
 - Dokumentation
   - [SSE](https://html.spec.whatwg.org/multipage/server-sent-events.html#server-sent-events)
   - [WebSockets](https://websockets.spec.whatwg.org/#network-intro)
+- [Eva](https://evasys.th-koeln.de/evasys/online/)
