@@ -24,7 +24,6 @@ Wir gehen u.A. auf folgende Themen ein:
 - [Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 - [Scroll Driven Animations](https://scroll-driven-animations.style)
 - [View Transitions](https://developer.chrome.com/blog/whats-new-css-ui-2023#view_transitions)
-- [Scoped Styles](https://developer.chrome.com/blog/whats-new-css-ui-2023#scoped_css)
 - [CSS Nesting](https://developer.chrome.com/docs/css-ui/css-nesting)
 - [Popover](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/popover)
 - [Broken Grid via CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
@@ -48,7 +47,8 @@ Die Teilnehmenden sollten Kenntnisse in folgenden Bereichen mitbringen:
 - aktuellste Version des [Chrome Browsers](https://www.google.com/chrome/)
 
 ## Material
-- Workshop Repository (kommt am 15.07.2024)
+- [Workshop Repository](https://github.com/cnoss/state-of-css-2024)
+- [Foliensatz](https://cnoss.github.io/slides/presentations/misc/css-2024/)
 
 ## Further Readings
 - [What's new in CSS and UI: I/O 2023 Edition](https://developer.chrome.com/blog/whats-new-css-ui-2023)
