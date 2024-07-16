@@ -24,7 +24,6 @@ Wir gehen u.A. auf folgende Themen ein:
 - [Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 - [Scroll Driven Animations](https://scroll-driven-animations.style)
 - [View Transitions](https://developer.chrome.com/blog/whats-new-css-ui-2023#view_transitions)
-- [Scoped Styles](https://developer.chrome.com/blog/whats-new-css-ui-2023#scoped_css)
 - [CSS Nesting](https://developer.chrome.com/docs/css-ui/css-nesting)
 - [Popover](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/popover)
 - [Broken Grid via CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
@@ -48,9 +47,13 @@ Die Teilnehmenden sollten Kenntnisse in folgenden Bereichen mitbringen:
 - aktuellste Version des [Chrome Browsers](https://www.google.com/chrome/)
 
 ## Material
-- Workshop Repository (kommt am 15.07.2024)
+- [Workshop Repository](https://github.com/cnoss/state-of-css-2024)
+- [Foliensatz](https://cnoss.github.io/slides/presentations/misc/css-2024/)
 
 ## Further Readings
 - [What's new in CSS and UI: I/O 2023 Edition](https://developer.chrome.com/blog/whats-new-css-ui-2023)
 - [The latest in CSS and web UI: I/O 2024 recap](https://developer.chrome.com/blog/new-in-web-ui-io-2024)
+- [Videos zum Workshop](https://www.youtube.com/watch?v=pMtB59MqrlE&t=4s)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pMtB59MqrlE?si=pxMa2FjWL_yUgDvP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
