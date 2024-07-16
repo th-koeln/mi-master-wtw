@@ -53,4 +53,7 @@ Die Teilnehmenden sollten Kenntnisse in folgenden Bereichen mitbringen:
 ## Further Readings
 - [What's new in CSS and UI: I/O 2023 Edition](https://developer.chrome.com/blog/whats-new-css-ui-2023)
 - [The latest in CSS and web UI: I/O 2024 recap](https://developer.chrome.com/blog/new-in-web-ui-io-2024)
+- [Videos zum Workshop](https://www.youtube.com/watch?v=pMtB59MqrlE&t=4s)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pMtB59MqrlE?si=pxMa2FjWL_yUgDvP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
