@@ -6,7 +6,7 @@ datum: 2024-05-21
 modul: wt
 published: true
 autor: Jona Dielmann
-bild: ../thumbnail.png
+bild: ../thumbnail.png.webp
 bildcredits: "Hintergrund von https://unsplash.com/de/fotos/zeilen-von-html-codes-4hbJ-eymZ1o, Piktogramme von Microsoft-PowerPoint"
 art: workshop
 termin: Dienstag, 21. Mai 2024, 13:00 Uhr
