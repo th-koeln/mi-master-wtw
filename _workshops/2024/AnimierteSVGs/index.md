@@ -6,7 +6,7 @@ datum: 2024-05-28
 modul: wt
 published: true
 autor: Lioba Brandhoff
-bild: ../thumbnail.png
+bild: ../thumbnail.png.webp
 bildcredits: "Hintergrund von https://unsplash.com/de/fotos/zeilen-von-html-codes-4hbJ-eymZ1o, Piktogramme von Microsoft-PowerPoint"
 art: workshop
 termin: Dienstag, 28. Mai 2024, 13:00 Uhr

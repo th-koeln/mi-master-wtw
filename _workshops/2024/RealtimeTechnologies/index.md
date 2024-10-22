@@ -6,7 +6,7 @@ datum: 2024-06-25
 modul: wt
 published: true
 autor: Joshua Gawenda
-bild: ../thumbnail.png
+bild: ../thumbnail.png.webp
 bildcredits: "Icons von Lucide Icons (https://lucide.dev/icons/)"
 art: workshop
 termin: Dienstag, 25. Juni 2024, 13:00 Uhr

@@ -6,7 +6,7 @@ datum: 2024-07-09
 modul: wt
 published: true
 autor: Oliver Wichmann
-bild: ../thumbnail.png
+bild: ../thumbnail.png.webp
 bildcredits: DALL·E 3 (OpenAI)
 art: workshop
 termin: Dienstag, 9. Juli 2024, 13:00 Uhr

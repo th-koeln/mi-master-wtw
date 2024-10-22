@@ -6,7 +6,7 @@ datum: 2024-06-04
 modul: wt
 published: true
 autor: Taha Sirajeddin Moujtahid
-bild: ../thumbnail.png
+bild: ../thumbnail.png.webp
 bildcredits: "react-native-skia Logo von https://github.com/shopify/react-native-skia"
 art: workshop
 termin: Dienstag, 04. Juni 2024, 13:00 Uhr
