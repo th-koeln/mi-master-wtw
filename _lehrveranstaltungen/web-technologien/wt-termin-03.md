@@ -4,7 +4,7 @@ kuerzel: wt
 verantwortlich: Seminarteilnehmer:in
 typ: seminar
 pflicht: false
-termine: 2024-04-30 13:00
+termine: 2025-04-15 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90

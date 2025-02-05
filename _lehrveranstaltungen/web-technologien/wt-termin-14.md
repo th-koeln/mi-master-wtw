@@ -4,7 +4,7 @@ kuerzel: wt
 verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2025-05-13 13:00
+termine: 2025-07-08 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180

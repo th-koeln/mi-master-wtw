@@ -1,10 +1,10 @@
 ---
-titel: Seminar Web-Technologien // State of CSS in 2024 
-kuerzel: s-wt
+titel: Seminar Web-Technologien // Thema folgt
+kuerzel: wt
 verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2024-07-16 13:00
+termine: 2025-07-01 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -13,4 +13,5 @@ info:
 ---
 
 
-Infos und Material folgen.
+<!--## Infos und Material unter [Einführung in Rust](https://th-koeln.github.io/mi-master-wtw/workshops/2024/Rust/index/)-->
+

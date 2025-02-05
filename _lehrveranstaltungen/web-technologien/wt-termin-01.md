@@ -4,11 +4,11 @@ kuerzel: s-ko
 verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2024-04-16 13:00
+termine: 2025-04-01 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: 3.216
+raum: 3.217
 info: 
 ---
 

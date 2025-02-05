@@ -118,6 +118,10 @@ html {
 
 $tt-grid-height: 60px;
 .timetable {
+
+  .column{
+    padding: 0;
+  }
   .datum {
     height: $tt-grid-height;
     @media (max-width: 999px) {

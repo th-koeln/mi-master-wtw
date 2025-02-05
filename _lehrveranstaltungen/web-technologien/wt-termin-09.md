@@ -1,10 +1,10 @@
 ---
-titel: Seminar Web-Technologien // Micro-Frontends mit Webpack
+titel: Seminar Web-Technologien // Thema folgt
 kuerzel: wt
-verantwortlich: Maik Roth
+verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2024-06-18 13:00
+termine: 2025-06-03 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -12,5 +12,6 @@ raum: 3.217
 info: 
 ---
 
-Material und Infos folgen.
+
+<!--## Infos und Material unter [Einführung in Rust](https://th-koeln.github.io/mi-master-wtw/workshops/2024/Rust/index/)-->
 
