@@ -1,7 +1,7 @@
 ---
-titel: Seminar Web-Technologien // Thema folgt
+titel: Seminar Web-Technologien // Gitlab CI/CD
 kuerzel: wt
-verantwortlich: cn
+verantwortlich: Christian Holländer
 typ: seminar
 pflicht: false
 termine: 2025-06-24 13:00

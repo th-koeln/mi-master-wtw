@@ -1,7 +1,7 @@
 ---
-titel: Seminar Web-Technologien // Thema folgt
+titel: Seminar Web-Technologien // Astro Static Site Generator
 kuerzel: wt
-verantwortlich: cn
+verantwortlich: Leander Gerwing
 typ: seminar
 pflicht: false
 termine: 2025-06-10 13:00

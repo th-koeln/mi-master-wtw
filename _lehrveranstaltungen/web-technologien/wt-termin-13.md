@@ -1,7 +1,7 @@
 ---
-titel: Seminar Web-Technologien // Thema folgt
+titel: Seminar Web-Technologien // Cross Plattform Apps via Electron
 kuerzel: wt
-verantwortlich: cn
+verantwortlich: Julian Schuller-Lingner
 typ: seminar
 pflicht: false
 termine: 2025-07-01 13:00

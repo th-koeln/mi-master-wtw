@@ -1,7 +1,7 @@
 ---
-titel: Seminar Web-Technologien // Thema folgt
+titel: Seminar Web-Technologien // Bildoptimierungen im Web
 kuerzel: wt
-verantwortlich: cn
+verantwortlich: Finn Wehn
 typ: seminar
 pflicht: false
 termine: 2025-05-20 13:00
