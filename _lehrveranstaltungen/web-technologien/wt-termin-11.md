@@ -1,7 +1,7 @@
 ---
-titel: Seminar Web-Technologien // Thema folgt
+titel: Seminar Web-Technologien // Animationen im Web (Lottie/Rive)
 kuerzel: wt
-verantwortlich: cn
+verantwortlich: Pit Kaldewey
 typ: seminar
 pflicht: false
 termine: 2025-06-17 13:00

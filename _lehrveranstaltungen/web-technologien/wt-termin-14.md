@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien // Thema folgt
+titel: Seminar Web-Technologien // Beiboot Projekt & Modulabschluss
 kuerzel: wt
 verantwortlich: cn
 typ: seminar
@@ -8,7 +8,7 @@ termine: 2025-07-08 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: 3.217
+raum: Online, Zugangsdaten sind auf dem Miro Board
 info: 
 ---
 

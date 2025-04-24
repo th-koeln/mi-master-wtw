@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien // Thema folgt
+titel: Seminar Web-Technologien // Multi Screen/ Window Experiences mit p5.js
 kuerzel: wt
 verantwortlich: cn
 typ: seminar
