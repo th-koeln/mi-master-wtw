@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien // Thema folgt
+titel: Seminar Web-Technologien // Beiboot Projekt 
 kuerzel: wt
 verantwortlich: cn
 typ: seminar
