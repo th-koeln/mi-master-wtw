@@ -1,15 +1,17 @@
 ---
-titel: Seminar Web-Technologien // Bildoptimierungen im Web
-kuerzel: wt
-verantwortlich: Finn Wehn
-typ: seminar
-pflicht: false
-termine: 2025-05-20 13:00
-empfohlene-voraussetzungen: 
+layout: workshop
+titel: Bildoptimierungen im Web
+social-media-untertitel: Workshop am 20. Mai 2025
+datum: 2025-05-20
+modul: wt
 published: true
-dauer: 180
+autor: Finn Wehn
+bild: ../thumbnail.png.webp
+bildcredits: "Bildquelle: https://de.vecteezy.com/vektorkunst/165951-freie-lineare-elektronik-und-digitale-gerate"
+art: workshop
+termin: Dienstag, 20. Mai 2025, 13:00 Uhr
+dauer: ~120 Minuten
 raum: 3.217
-info: 
 ---
 
 ## Ziel des Workshops
@@ -50,4 +52,3 @@ Ladezeiten, gute Nutzererfahrung und moderne Webstandards legen.
 ## Material
 
 [Workshop-Repository](https://github.com/fwehn/wt-workshop-bildoptimierungen-im-web)
-
