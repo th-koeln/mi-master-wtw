@@ -10,7 +10,7 @@ bild: ../thumbnail-p5.jpg
 bildcredits: Christian Noss
 art: workshop
 termin: Dienstag, 27. Mai 2025, 13:00 Uhr
-dauer: ~150 Minuten
+dauer: ~180 Minuten
 raum: 3.217
 ---
 
