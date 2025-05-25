@@ -48,8 +48,10 @@ Der Workshop richtet sich an:
 Interesse an kreativen Browser-Interfaces, dynamischer Interaktion und dem Zusammenspiel von Code, Darstellung und Kommunikation im Web.
 
 ## Material
-- folgt
-
+- [Repository](https://github.com/cnoss/multi-window-experiences)
+- [Dokumentation](https://github.com/cnoss/multi-window-experiences)
+- [Slides](https://cnoss.github.io/slides/presentations/misc/multi-window-with-p5/)
+  
 ## Hilfreiche Links
 
 * [p5.js Referenz](https://p5js.org/reference/)
