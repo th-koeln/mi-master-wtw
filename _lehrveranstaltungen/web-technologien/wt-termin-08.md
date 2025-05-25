@@ -13,5 +13,7 @@ info:
 ---
 
 
-<!--## Infos und Material unter [Einführung in Rust](https://th-koeln.github.io/mi-master-wtw/workshops/2024/Rust/index/)-->
+## Infos und Material unter [https://th-koeln.github.io/mi-master-wtw/workshops/2025/multi-window-experiences/index/](https://th-koeln.github.io/mi-master-wtw/workshops/2025/multi-window-experiences/index/).
+
+
 
