@@ -49,7 +49,7 @@ Interesse an kreativen Browser-Interfaces, dynamischer Interaktion und dem Zusam
 
 ## Material
 - [Repository](https://github.com/cnoss/multi-window-experiences)
-- [Dokumentation](https://github.com/cnoss/multi-window-experiences)
+- [Dokumentation](https://cnoss.github.io/multi-window-experiences/)
 - [Slides](https://cnoss.github.io/slides/presentations/misc/multi-window-with-p5/)
   
 ## Hilfreiche Links
