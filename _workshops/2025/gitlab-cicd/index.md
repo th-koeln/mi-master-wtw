@@ -1,15 +1,17 @@
 ---
-titel: Seminar Web-Technologien // Gitlab CI/CD
-kuerzel: wt
-verantwortlich: Christian Holländer
-typ: seminar
-pflicht: false
-termine: 2025-06-24 13:00
-empfohlene-voraussetzungen: 
+layout: workshop
+titel: Einführung in Continuous Integration und Continuous Deployment mit GitLab CI/CD
+social-media-untertitel: Workshop am 24. Juni 2025
+datum: 2025-06-24
+modul: wt
 published: true
-dauer: 180
-raum: 3.217
-info: 
+autor: Christian Holländer
+bild: ../thumbnail.png
+bildcredits: Christian Holländer
+art: workshop
+termin: Dienstag, 24. Juni 2025, 13:00 Uhr
+dauer: 120-180 Minuten
+raum: 3.215
 ---
 
 ## Ziel des Workshops
@@ -42,11 +44,11 @@ Du arbeitest mit deinem eigenen Repository und kannst die Pipeline nach dem Work
 ## Technische Voraussetzung
 
 * GitLab Account (kostenlos)
-    * [GitLab](https://gitlab.com/)
+  * [GitLab](https://gitlab.com/)
 * Git
 * IDE
-    * Jetbrains w/ [CI Aid For Gitlab](https://plugins.jetbrains.com/plugin/25859-ci-aid-for-gitlab)
-    * Visual Studio Code w/ [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow)
+  * Jetbrains w/ [CI Aid For Gitlab](https://plugins.jetbrains.com/plugin/25859-ci-aid-for-gitlab)
+  * Visual Studio Code w/ [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow)
 
 ### Optional
 * Node.js
