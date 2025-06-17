@@ -44,5 +44,5 @@ Zusätzlich gibt es spannende Case Studies, die zeigen, wie Animationen gezielt 
 
 ## Hilfreiche Links
 
-* [Astro Dokumentation (mit Referenz und Guides)](https://lottiefiles.com/)
+* [Dokumentation (mit Referenz und Guides)](https://lottiefiles.com/)
 
