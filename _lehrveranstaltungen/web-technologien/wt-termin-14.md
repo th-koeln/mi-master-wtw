@@ -1,7 +1,7 @@
 ---
-titel: Seminar Web-Technologien // Beiboot Projekt & Modulabschluss
+titel: Seminar Web-Technologien // Cross Plattform Apps via Electron, Beiboot Projekt & Modulabschluss
 kuerzel: wt
-verantwortlich: cn
+verantwortlich: Julian Schuller-Lingner
 typ: seminar
 pflicht: false
 termine: 2025-07-08 13:00
