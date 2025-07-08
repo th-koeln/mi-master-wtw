@@ -79,4 +79,4 @@ Das Material wird im Workshop bereitgestellt und umfasst:
 * [Electron Forge (Packaging-Tool)](https://www.electronforge.io/)
 
 ## GitHub Aufgaben Ressource
-* [GIT](https://github.com/boolJul/CrossPlattform_Workshop.git)
+* ([https://github.com/boolJul/CrossPlattform_Workshop](https://github.com/boolJul/ElectronWorkshop))
