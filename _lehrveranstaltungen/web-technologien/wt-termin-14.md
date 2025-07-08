@@ -4,14 +4,14 @@ kuerzel: wt
 verantwortlich: Julian Schuller-Lingner
 typ: seminar
 pflicht: false
-termine: 2025-07-08 13:00
+termine: 2025-07-08 14:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: Online, Zugangsdaten sind auf dem Miro Board
+raum: 3.215
 info: 
 ---
 
 
-<!--## Infos und Material unter [Einführung in Rust](https://th-koeln.github.io/mi-master-wtw/workshops/2024/Rust/index/)-->
+## Infos und Material unter [Einführung in Electron – Desktop-Apps mit Web-Technologien](http://127.0.0.1:4000/mi-master-wtw/workshops/2025/CrossPlatform-Electron/index/)
 

@@ -4,11 +4,11 @@ kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2025-09-24 10:00
+termine: 2025-09-23 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 480
-raum: Online (Zugangsdaten im Ilias) oder Vor Ort 3.240
+raum: Online (Zugangsdaten auf dem Miro Board) oder vor Ort 3.215
 info: 
 ---
 
@@ -17,7 +17,7 @@ Im Rahmen dieser Prüfung stellen Sie die wesentlichen und interessanten Teile I
 - Überprüfung, dass der Prüfling Schöpfer des eingereichten Beiboot Projekts ist
 - Überprüfung der Diskursfähigkeit des Prüflings
 
-Bitte reservieren Sie [hier einen Termin](https://ilias.th-koeln.de/goto.php?target=xpdl_2521547&client_id=ILIAS_FH_Koeln). Für die Prüfung sollten Sie eine kurze Vorstellung des Beiboot Projekts und eine kurze Reflexion Ihres Workshops vorbereiten. Hierzu ist nicht zwingend eine Präsentation erforderlich, andere unterstützende Formate/ Dokumente oder eine freie Vorstellung sind auch willkommen.
+Bitte reservieren Sie auf dem Miro Board einen Termin. Für die Prüfung sollten Sie eine kurze Vorstellung des Beiboot Projekts und eine kurze Reflexion Ihres Workshops vorbereiten. Hierzu ist nicht zwingend eine Präsentation erforderlich, andere unterstützende Formate/ Dokumente oder eine freie Vorstellung sind auch willkommen.
 
 <!--
 ## Running Order
