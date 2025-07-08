@@ -77,3 +77,6 @@ Das Material wird im Workshop bereitgestellt und umfasst:
 
 * [Electron Dokumentation](https://www.electronjs.org/docs/latest/)
 * [Electron Forge (Packaging-Tool)](https://www.electronforge.io/)
+
+## GitHub Aufgaben Ressource
+* [GIT](https://github.com/boolJul/CrossPlattform_Workshop.git)
