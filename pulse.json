@@ -15,8 +15,6 @@
   "bildcredits": "{{ item.bildcredits }}",
   "url": "{{site.deployurl}}{{site.baseurl}}{{item.url}}",
   "id": "{{ item.id }}",
-  "content": {{ item.content | jsonify }},
-  "excerpt": {{ item.excerpt | jsonify }},
   "category": "{{ item.category }}",
   "collection": "{{ item.collection }}",
   "tags": "{{ item.tags }}"
