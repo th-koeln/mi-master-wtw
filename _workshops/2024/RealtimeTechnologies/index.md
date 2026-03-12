@@ -11,7 +11,7 @@ bildcredits: "Icons von Lucide Icons (https://lucide.dev/icons/)"
 art: workshop
 termin: Dienstag, 25. Juni 2024, 13:00 Uhr
 dauer: ~120 Minuten
-raum: 3.217
+raum: 3.215
 ---
 
 ## Ziel des Workshops

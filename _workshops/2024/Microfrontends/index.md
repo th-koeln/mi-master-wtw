@@ -1,7 +1,7 @@
 ---
 layout: workshop
 titel: Microfrontends mit Webpack - Module Federation
-social-media-untertitel: Workshop am 18. Juni 2024 // Campus Gummersbach Raum 3.217 // 13:00 - 16:00 Uhr 
+social-media-untertitel: Workshop am 18. Juni 2024 // Campus Gummersbach Raum 3.215 // 13:00 - 16:00 Uhr 
 datum: 2024-06-18
 modul: wt
 published: true
@@ -10,7 +10,7 @@ bild: ../thumbnail.jpg
 art: workshop
 termin: Dienstag, 18. Juni 2024, 13:00 Uhr
 dauer: ~120 Minuten
-raum: 3.217
+raum: 3.215
 ---
 
 ### Was sind Microfrontends?

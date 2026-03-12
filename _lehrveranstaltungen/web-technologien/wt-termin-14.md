@@ -6,7 +6,7 @@ typ: seminar
 pflicht: false
 termine: 2025-07-08 14:00
 empfohlene-voraussetzungen: 
-published: true
+published: false
 dauer: 180
 raum: 3.215
 info: 

@@ -1,17 +1,13 @@
 ---
-titel: Seminar Web-Technologien // Beiboot Projekt
+titel: Seminar Web-Technologien // Thema folgt
 kuerzel: wt
-verantwortlich: cn
+verantwortlich: tbd
 typ: seminar
 pflicht: false
-termine: 2025-06-03 13:00
+termine: 2026-06-16 13:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 120
-raum: Online, Zugangsdaten sind auf dem Miro Board
+dauer: 180
+raum: 3.215
 info: 
 ---
-
-
-<!--## Infos und Material unter [Einführung in Rust](https://th-koeln.github.io/mi-master-wtw/workshops/2024/Rust/index/)-->
-

@@ -11,7 +11,7 @@ bildcredits: DALL·E 3 (OpenAI)
 art: workshop
 termin: Dienstag, 16. Juli 2024, 13:00 Uhr
 dauer: ~120 Minuten
-raum: 3.217
+raum: 3.215
 ---
 
 ## Ziel des Workshops

@@ -4,11 +4,11 @@ kuerzel: s-wt
 verantwortlich: cn
 typ: seminar
 pflicht: false
-termine: 2025-04-08 13:00
+termine: 2026-04-28 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: 3.217
+raum: 3.215
 info: 
 ---
 

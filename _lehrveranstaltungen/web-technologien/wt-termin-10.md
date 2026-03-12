@@ -1,17 +1,13 @@
 ---
-titel: Seminar Web-Technologien // Astro Static Site Generator
+titel: Seminar Web-Technologien // Thema folgt
 kuerzel: wt
-verantwortlich: Leander Gerwing
+verantwortlich: tbd
 typ: seminar
 pflicht: false
-termine: 2025-06-10 13:00
+termine: 2026-06-23 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: 3.217
+raum: 3.215
 info: 
 ---
-
-
-<!--## Infos und Material unter [Einführung in Rust](https://th-koeln.github.io/mi-master-wtw/workshops/2024/Rust/index/)-->
-

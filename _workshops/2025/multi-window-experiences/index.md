@@ -11,7 +11,7 @@ bildcredits: Christian Noss
 art: workshop
 termin: Dienstag, 27. Mai 2025, 13:00 Uhr
 dauer: ~180 Minuten
-raum: 3.217
+raum: 3.215
 ---
 
 ## Ziel des Workshops

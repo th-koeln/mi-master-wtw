@@ -11,7 +11,7 @@ bildcredits: "Bildquelle: https://de.vecteezy.com/vektorkunst/165951-freie-linea
 art: workshop
 termin: Dienstag, 20. Mai 2025, 13:00 Uhr
 dauer: ~120 Minuten
-raum: 3.217
+raum: 3.215
 ---
 
 ## Ziel des Workshops

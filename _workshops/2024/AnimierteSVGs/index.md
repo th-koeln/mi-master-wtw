@@ -11,7 +11,7 @@ bildcredits: "Hintergrund von https://unsplash.com/de/fotos/zeilen-von-html-code
 art: workshop
 termin: Dienstag, 28. Mai 2024, 13:00 Uhr
 dauer: ~120 Minuten
-raum: 3.217
+raum: 3.215
 ---
 
 In diesem Workshop werden wir uns mit SVG-Animationen im Web beschäftigen. Dafür schauen wir uns zunächst an, was SVGs sind und welche Vor- und Nachteile diese bieten. Im Anschluss schauen wir uns verschiedene Methoden an, um SVGs zu animieren. Mit den Erfahrungen aus dem Workshop, soll es den Teilnehmenden möglich sein, eigenständig eine gute Methode für ihre SVG-Animation auszuwählen und diese entsprechend umzusetzen.

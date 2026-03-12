@@ -11,7 +11,7 @@ bildcredits: "Hintergrund von https://unsplash.com/de/fotos/zeilen-von-html-code
 art: workshop
 termin: Dienstag, 21. Mai 2024, 13:00 Uhr
 dauer: ~120 Minuten
-raum: 3.217
+raum: 3.215
 ---
 
 > A11y &rarr; Accessibility &rarr; Barrierefreiheit &rarr; Zugänglichkeit für alle
