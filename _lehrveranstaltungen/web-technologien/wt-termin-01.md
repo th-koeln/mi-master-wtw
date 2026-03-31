@@ -8,7 +8,7 @@ termine: 2026-04-21 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: 3.215
+raum: Online, Zugangsdaten sind auf dem Miro Board
 info: 
 ---
 
@@ -25,7 +25,6 @@ info:
 ## Was passiert heute?
 
 1. Erläuterung des Moduls (c.noss)
-2. Zusammenfassung der wesentlichen Outcomes aus den Modulen Web-Architekturen und «Sicherheit, Privatsphäre und Vertrauen» (Teilnehmer)
 3. Verortung des aktuellen Know-how Standes auf der [Developer Roadmap von Kamran Ahmed](https://roadmap.sh/) (alle)
 4. Eröterung möglicher Felder für die eigene Know-how Erweiterung im Anwendungsgebiet mit Hilfe der Developer Roadmap (alle)
 5. Vorstellung von drei eigenen Web-Dev Projekten (alle)
@@ -34,13 +33,6 @@ info:
 <!-- 7. Vorstellung des [«Beiboot» Projekts](https://classroom.github.com/a/dZI7lhjO) und dem zugehörigen [Issue](https://github.com/mi-classroom/mi-master-wt-beiboot-2021/issues/1) -->
 
 ## Was muss vorbereitet werden?
-
-### Zusammenfassung der wesentlichen Outcomes aus des bisherigen Schwerpunktmodulen
-Bitte bereiten Sie eine Zusammenfassung Ihrer persönlichen Outcomes und Findings aus den Modulen Web-Architekturen und «Sicherheit, Privatsphäre und Vertrauen», die Sie jeweils in einem 5 bis 10-minütigem Vortrag erläutern können. Fragen hierbei sind:
-- was wurde behandelt (Überblick)?
-- was war Ihr Beitrag?
-- was waren die wesentlichen Erkenntnisse?
-- welche neuen Fragen haben sich für Sie aufgetan?
 
 ### Vorstellung vor drei eigenen Web-Dev Projekten
 
