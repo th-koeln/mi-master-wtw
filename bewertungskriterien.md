@@ -34,89 +34,128 @@ Folgende Angaben müssen enthalten sein:
 - Zielgruppe
 - notwendige Voraussetzungen
 
-Folgende Bewertungskriterien sind relevant:
-- [Recherche, Durchdringung & Substanz](/mi-master-wtw/bewertungskriterien/#recherche-durchdringung--substanz)
-- [Ausgangspunkt, Kontext, Zielsetzung & Lösungsstrategie](/mi-master-wtw/bewertungskriterien/#ausgangspunkt-kontext-zielsetzung--lösungsstrategie)
-- [Zeitmanagement, Flexibilität, Motivation &amp; Empathie](/mi-master-wtw/bewertungskriterien/#zeitmanagement-flexibilität-motivation--empathie)
-- [Form, Darstellung, Artikulationsfähigkeit & Eloquenz](/mi-master-wtw/bewertungskriterien/#form-darstellung-artikulationsfähigkeit--eloquenz)
-- [Klarheit, Verständlichkeit & Richtigkeit](/mi-master-wtw/bewertungskriterien/#klarheit-verständlichkeit--richtigkeit)
-- [Material](/mi-master-wtw/bewertungskriterien/#material)
-- [Kooperationsfähigkeit](/mi-master-wtw/bewertungskriterien/#kooperationsfähigkeit)
+### Niveaustufen Workshop
+
+#### Beste Lösung
+
+- Das Thema wird überzeugend eingeführt: Relevanz, Kontext und persönliche Motivation der Workshopgeberin sind spürbar
+- Das Thema wird eingeordnet: Was gibt es Ähnliches, wie grenzt sich der Workshop ab, was machen wir heute?
+- Es gibt eine nachvollziehbare Reiseroute zu Beginn – Teilnehmende wissen, welche Etappen sie erwartet
+- Konzepte und theoretische Grundlagen werden vor dem praktischen Teil erläutert – kein direkter Einstieg in den Code
+- Der Übergang von Theorie in die Praxis ist nachvollziehbar und leitet sich aus dem Konzeptteil ab
+- Die Codebasis ist bewusst einfach gehalten und setzt wenig voraus – niemand wird verloren
+- Praktische Teile sind präzise angeleitet: verständliche Aufgabenstellung, Zeitvorgaben, Hilfsmaterialien oder Musterlösungen zum Nachschlagen
+- Die Workshopgeberin geht während der Bearbeitungszeit aktiv rum und unterstützt
+- Nach dem Praxisteil wird reflektiert: Lösungen werden gemeinsam angeschaut, Teilnehmende werden einbezogen, das geht nicht zu schnell
+- Das Ergebnis wird zurück zum Ausgangskonzept kontextualisiert – was haben wir gelernt, was war schwierig, warum?
+- Am Ende gibt es eine Zusammenfassung und einen Ausblick
+- Die Materialien sind so aufbereitet, dass man sie im echten Entwickleralltag direkt verwenden kann
+
+
+#### Gute Lösung
+
+- Thema und Motivation werden vorgestellt, die Einordnung ins größere Themenfeld ist erkennbar, aber nicht vollständig ausgearbeitet
+- Eine Reiseroute oder Agenda ist vorhanden, gibt aber nicht immer ein verständliches Bild davon, was die Teilnehmenden am Ende mitnehmen
+- Der Theorieteil ist solide und legt die wichtigsten Konzepte dar, geht aber gelegentlich zu schnell in den Code, ohne den Übergang explizit zu machen
+- Praktische Teile sind vorhanden und sinnvoll eingebettet; Aufgabenstellung und Zeitvorgaben sind klar, Hilfsmaterialien vorhandenaber nicht immer ausreichend unterstützend 
+- Die Codebasis ist recht gut zugänglich, setzt an einzelnen Stellen aber mehr Vorwissen voraus als für alle Teilnehmenden angemessen wäre
+- Die Workshopgeberin ist ansprechbar, geht aber nicht immer aktiv auf die Gruppe zu während der Bearbeitungszeit
+- Reflexion nach den Praxisteilen findet statt, ist aber knapp oder wenig interaktiv. Teilnehmende werden kaum einbezogen.
+- Zusammenfassung am Ende ist vorhanden, ein Ausblick oder Transfer in den Entwickleralltag fehlt.
+- Materialien sind zugänglich und nutzbar, aber nicht so aufbereitet, dass man sie direkt im Alltag verwenden könnte.
+
+
+#### Passable Lösung
+
+- Das Thema wird vorgestellt, eine Einordnung oder Kontextualisierung fehlt aber weitgehend: warum dieser Workshop, warum jetzt, für wen?
+- Eine grobe Struktur ist erkennbar, aber die Dramaturgie überzeugt nicht immer. Theorie und Praxis wirken nebeneinander statt aufeinander aufbauend.
+- Theorieteil ist vorhanden, aber entweder zu oberflächlich oder zu lang und verliert die Teilnehmenden.
+- Der Übergang in den Praxisteil passiert abrupt oder wird nicht moderiert.
+- Praktische Teile sind vorhanden, aber die Anleitung ist lückenhaft, Aufgaben sind unklar formuliert, Zeitvorgaben fehlen oder die Codebasis setzt zu viel voraus.
+- Während der Bearbeitungszeit gibt es kaum Unterstützung oder Präsenz der Workshopgeberin.
+- Reflexion nach dem Praxisteil ist sehr knapp oder fehlt, die Aufgaben werden nicht gemeinsam nachbesprochen.
+- Kein klarer Abschluss, kein Transfer
+- Materialien sind vorhanden, aber wenig strukturiert und nicht für die Nachnutzung aufbereitet.
+
+
+#### Akzeptable Lösung
+
+- Das Thema wird benannt, aber nicht motiviert: warum es relevant ist oder wen es betrifft, bleibt offen.
+- Kaum roter Faden, wenig erkennbare Reiseroute. Die Teilnehmenden wissen selten, wo sie gerade stehen und was noch kommt.
+- Theorie und Praxis sind sehr lose verknüpft, Konzepte werden entweder übersprungen oder stehen zusammenhanglos neben dem Praxisteil.
+- Der Praxisteil ist zu kurz, zu vage oder überfordert die Teilnehmenden durch eine ungeeignete Codebasis oder unklare Aufgaben.
+- Kaum aktive Begleitung während der Bearbeitungszeit.
+- Kaum Reflexion oder gemeinsame Nachbesprechung.
+- Kein WrapUp, kein Ausblick.
+- Materialien fehlen weitgehend oder sind in einem Zustand, der keine sinnvolle Nachnutzung erlaubt.
+
+
+#### Schlechte Lösung
+
+- Thema, Relevanz und Ziel bleiben unklar
+- Kein erkennbarer Aufbau, kein Bogen
+- Kein sinnvoller Praxisteil
+- Keine Anleitung, keine Begleitung, keine Reflexion
+- Keine nutzbaren Materialien
+
 
 ## Beiboot Projekt
 
 Das Beiboot Projekt läuft parallel zum Modul. Hier wird ein grobes Projektthema vorgegeben und alle zwei bis drei Wochen werden Features publiziert, die dann integriert werden müssen. Im Rahmen der Veranstaltung werden gemeinsame Code und Review-Vorstellungen, Diskussionen und Reviews durchgeführt. Das Beiboot Projekt dient als Diskusionsgrundlage und zeigt, wie verschiedene Teilnehmer/ Entwickler das gleiche Feature implementieren, es dient als Grundlage für die Diskussion zu Technologie- und Implementierungsentscheidungen, es hilft den Teilnehmern bei der Selbsteinschätzung der eigenen Skills und es dient zur Inspirationen für alternative Implementierungsansätze und Ideen. Im Beibootprojekt werden auch Kooperations- und Qualitätssicherungs Kompetenzen aufgebaut und gefestigt. 
 
-Folgende Bewertungskriterien sind relevant:
-- [Argumentation, Ausarbeitungsprozess & Wiederholbarkeit](/mi-master-wtw/bewertungskriterien/#ausarbeitungsprozess--wiederholbarkeit)
-- [Kenntnisse und Fertigkeiten](/mi-master-wtw/bewertungskriterien/#kenntnisse-und-fertigkeiten)
-- [Nutz- & Anwendbarkeit](/mi-master-wtw/bewertungskriterien/#nutz---anwendbarkeit)
-- [Quellcode & Dokumentation](/mi-master-wtw/bewertungskriterien/#quellcode--dokumentation)
-- [Ökonomie](/mi-master-wtw/bewertungskriterien/#ökonomie)
-- [Kooperationsfähigkeit](/mi-master-wtw/bewertungskriterien/#kooperationsfähigkeit) 
-- [Ergebnisqualität](/mi-master-wtw/bewertungskriterien/#ergebnisqualität)
+### Niveaustufen 
 
-## Übersicht der Kriterien
 
-Hier eine Erläuterung der verschiedenen Kriterien.
+#### Beste Lösung
 
-#### Recherche, Durchdringung & Substanz
-<!-- [Recherche, Durchdringung & Substanz](/mi-master-wtw/bewertungskriterien/#recherche-durchdringung--substanz) -->
-Wie weitreichend ist das Faktenwissen über den Gegenstandsbereich? Wurde für das Thema/ die Aufgabe in ausreichendem Maße recherchiert? Wird eine kritische und objektive Perspektive eingenommen? 
+- Alle Issues werden im Takt abgeliefert, Zeitvorgaben werden eingehalten oder begründet überschritten
+- Der tatsächliche Zeitaufwand wird für jedes Issue dokumentiert und reflektiert – es entsteht ein realistisches Bild der eigenen Arbeitsgeschwindigkeit
+- Technologieentscheidungen werden aktiv getroffen, nachvollziehbar begründet und in Decision Records festgehalten
+- Die Wahl der Technologien zeigt Mut zum Experiment – neue Ansätze werden bewusst ausprobiert und eingeordnet
+- Der Code ist verständlich strukturiert, gut kommentiert und so aufgebaut, dass Dritte ihn nachvollziehen, starten und erweitern können
+- Wesentliche Entscheidungen, Schwierigkeiten und Lernmomente sind dokumentiert
+- Die Ergebnisse werden in Reviews aktiv eingebracht, die eigene Lösung wird im Vergleich zu anderen reflektiert
+- Das Projekt ist insgesamt ein überzeugender, eigenständiger Beitrag – technisch solide, gut dokumentiert und mit erkennbarer Handschrift
 
-#### Klarheit, Verständlichkeit & Richtigkeit
-<!-- [Klarheit, Verständlichkeit & Richtigkeit](/mi-master-wtw/bewertungskriterien/#klarheit-verständlichkeit--richtigkeit) -->
-Ist der Vortrag/ Workshop oder die Dokumentation/ Ausarbeitung logisch aufgebaut und verständlich formuliert? Sind Sachverhalte korrekt dargestellt? Sind Gedankengänge, Lösungswege, Entscheidungen und Schlussfolgerung nachvollziehbar und begründet? Wie verständlich kann sich der/die Studierende ausdrücken und komplexe Sachverhalte durch Wort, Ton und/oder Bild veranschaulichen? Ist die Darstellung bzw. Präsentation klar, nachvollziehbar, glaubhaft und zielsicher?
 
-#### Ausgangspunkt, Kontext, Zielsetzung & Lösungsstrategie
-<!-- [Zielsetzung & Lösungsstrategie](/mi-master-wtw/bewertungskriterien/#ausgangspunkt-zielsetzung--lösungsstrategie) -->
-Wird der Ausgangspunkt und das zugrunde liegende Problemfeld dargestellt? Ist die Definition eines Zieles präzise und angemessen? Wird ein geeigneter Lösungsweg angestrebt und wird dieser begründet? Wird der Kontext, z.B. Vorkenntnisse mit einbezogen und ist der Workshop/ die Arbeit darauf ausgerichtet?
+#### Gute Lösung
 
-#### Ausarbeitungsprozess, Wiederholbarkeit & Resümee
-<!-- [Ausarbeitungsprozess & Wiederholbarkeit](/mi-master-wtw/bewertungskriterien/#ausarbeitungsprozess--wiederholbarkeit)-->
-Wie zielsicher wurde das zugrundeliegende Problem gelöst, so dass eine vergleichbare Ergebnisqualität in anderen Zusammenhängen und Projekten prinzipiell wiederholbar wäre? Werden wesentliche Entscheidungen thematisiert und diskutiert? Wird das Ergebnis kritisch reflektiert und kontextualisiert?
+- Issues werden überwiegend im Takt abgeliefert, kleinere Verzögerungen sind nachvollziehbar
+- Zeitaufwand wird dokumentiert, aber nicht immer vollständig oder mit Reflexion verknüpft
+- Technologieentscheidungen sind erkennbar, aber nicht immer explizit begründet oder in Records festgehalten
+- Der Code ist verständlich und funktioniert, kleinere Strukturschwächen oder fehlende Kommentare fallen aber auf
+- Dokumentation ist vorhanden, bleibt aber stellenweise oberflächlich
+- Die eigene Lösung wird in Reviews vorgestellt, ein aktiver Vergleich mit anderen Ansätzen findet aber kaum statt
+- Das Ergebnis ist solide und nutzbar
 
-#### Form, Darstellung, Artikulationsfähigkeit & Eloquenz
-<!-- [Darstellung, Artikulationsfähigkeit & Eloquenz](/mi-master-wtw/bewertungskriterien/#form-darstellung-artikulationsfähigkeit--eloquenz) -->
-Wie verständlich kann sich der/die Studierende ausdrücken und komplexe Sachverhalte durch Wort, Ton und/oder Bild veranschaulichen? Ist die Darstellung bzw. Präsentation klar, nachvollziehbar, glaubhaft und zielsicher? Kann der/die Studierende das eigene Thema im Bezug zu anderen (übergreifenden) Themen darstellen? Wie ausdrucksstark ist die Ausarbeitung, die Dokumentation oder der Workshop im Ganzen?
 
-#### Kritik- & Diskursfähigkeit
-<!-- [Kritik- & Diskursfähigkeit](/mi-master-wtw/bewertungskriterien/#kritik---diskursfähigkeit)-->
-Wird mit kritischen und schwierigen Aspekten der Ausarbeitung/ des Projekts oder Themas offensiv und sachlich umgegangen? Ist der/die Studierende in der Lage auf angemessenem fachlichen und wissenschaftlichen Niveau über die Ausarbeitung/ das Projekts oder Thema zu diskutieren? Wie geht der/die Studierende mit Fragen um?
+#### Passable Lösung
 
-#### Kenntnisse und Fertigkeiten
-<!-- [Kenntnisse und Fertigkeiten](/mi-master-wtw/bewertungskriterien/#kenntnisse-und-fertigkeiten)-->
-Wie groß ist das fachliche Repertoire des/der Studierende/n und wie reflektiert wird dieses im Sinne der Aufgabenstellung eingesetzt? 
+- Issues werden nicht immer im Takt abgeliefert, Verzögerungen bleiben unbegründet
+- Zeitaufwand wird kaum oder unregelmäßig dokumentiert
+- Technologieentscheidungen wirken zufällig oder unreflektiert, eine Begründung fehlt weitgehend
+- Der Code funktioniert, ist aber schwer nachzuvollziehen – Struktur und Kommentierung sind lückenhaft
+- Dokumentation ist minimal und wenig hilfreich für Dritte
+- Reviews werden passiv mitgemacht, kein erkennbarer Austausch mit anderen Lösungsansätzen
+- Das Ergebnis ist verwendbar, aber nicht überzeugend
 
-#### Nutz- & Anwendbarkeit
-<!-- [Nutz- & Anwendbarkeit](/mi-master-wtw/bewertungskriterien/#nutz---anwendbarkeit)-->
-Sind die Ergebnisse und Artefakte so aufbereitet, dass sie in der Praxis oder durch die Community oder andere Projektteams nutzbar sind? Wurden verständliche und sinnvolle Strukturen für die Artefakte gewählt? Werden die Ergebnisse nachhaltig bereit gestellt. Werden Nutzungsbedingungen, z.B. Lizenzen der verschiedenen Artefakte aufgezeigt? Ist die Urheberschaft der einzelnen Artefakte und des gesamten Projekts erkennbar? Kann das Projekt in anderen Kontexten deployt werden? Ist offensichtlich, welchen Stand das Projekt hat? 
 
-#### Quellcode & Dokumentation
-<!-- [Quellcode & Dokumentation](/mi-master-wtw/bewertungskriterien/#quellcode--dokumentation) -->
-Wurde der Quellcode verständlich strukutriert und dokumentiert? Gibt es eine Übersicht über die verschiedenen Artefakte und Komponenten? Wird klar, wie die verschiedenen Einzelteile zusammen hängen? Werden notwendige Voraussetzungen explizit gemacht? Sind wesentliche Entscheidungen dokumentiert? Kann das Projekt durch Dritte genutzt, gestartet, installiert und/ oder erweitert werden? Sind die Commits verständlich und nachvollziehbar?
+#### Akzeptable Lösung
 
-#### Material
-<!-- [Material](/mi-master-wtw/bewertungskriterien/#material) -->
-Wurde das Material verständlich strukturiert und dokumentiert? Gibt es eine Übersicht über die verschiedenen Artefakte?  Ist das Material so aufbereitet, dass sie in der Praxis oder durch die Community oder andere Projektteams nutzbar sind? Wird es nachhaltig bereit gestellt. Werden Urheberschaft und Nutzungsbedingungen, z.B. Lizenzen des Materials aufgezeigt? 
+- Issues werden häufig nicht im Takt abgeliefert oder sind unvollständig
+- Kein nachvollziehbares Zeittracking, kein Gefühl für den eigenen Aufwand
+- Technologieentscheidungen sind nicht dokumentiert, es gibt keinen erkennbaren Auswahlprozess
+- Der Code ist schwer verständlich, kaum kommentiert und nicht ohne Weiteres durch Dritte nutzbar
+- Dokumentation fehlt weitgehend
+- In Reviews kaum präsent, kein Austausch mit anderen Lösungen
+- Das Ergebnis erfüllt die Anforderungen nur teilweise
 
-#### (Zeit)management, Flexibilität, Motivation & Empathie
-<!-- [Zeitmanagement, Flexibilität, Motivation &amp; Empathie (Workshops)](/mi-master-wtw/bewertungskriterien/#zeitmanagement-flexibilität-motivation--empathie)-->
 
-**Bei Workshops:**
-Werden die Teilnehmer gut unterstützt? Wird Rücksicht auf verschiedenen Arbeits- und Lerngeschwindigkeiten genommen? Werden die Teilnehmer motiviert, ins Thema einzusteigen? Sind die Arbeits- und Interaktionsanweisungen verständlich und eindeutig? Wird auf Rückfragen und Probleme von Teilnehmer:innen eingegangen? Ist das begleitetende Material gut strukuriert und wird es nachhaltig bereit gestellt?
+#### Schlechte Lösung
 
-**Im Projekt:**
-Wird aktiv und umsichtig mit der Ressource «Zeit» umgegangen? Wird der Zeitaufwand von Tasks geschätzt und dokumentiert? Werden die Schätzungen im Nachgang überprüft und Rückschlüsse für zukünftige Schätzungen gezogen? Werden adäquate Projektmanagementstrategieren und -werkzeuge eingesetzt? Sind die Teilnehmer engagiert? Wie wird mit Hindernissen und Problemen umgegangen?
-
-#### Ökonomie
-<!-- [Ökonomie](/mi-master-wtw/bewertungskriterien/#ökonomie) -->
-Kann der/die Studierende ökonomische Maßstäbe an die Umsetzung einschätzen? Gibt es eine realistische Einschätzung zum Aufwand/Nutzen-Verhältnis? Werden die gegebenen Ressourcen umsichtig und bewusst eingesetzt? Werden verfügbare Ressourcen bei der Entscheidungsfindung berücksichtigt und sind sie Teil der Argumentation?
-
-#### Kooperationsfähigkeit
-<!-- [Kooperationsfähigkeit](/mi-master-wtw/bewertungskriterien/#kooperationsfähigkeit) -->
-Hat der/die Studierende ein hohes Interesse am gemeinsamen Erfolg und ist bereit sich einzubringen? In wie weit werden professionelle Werkzeuge und Techniken eingesetzt, um gemeinsames Handeln unabhängig von zeitlichen und räumlichen Faktoren zu organisieren und zu koordinieren? Werden Informationen und Dokumente in geeigneter Form der Gruppe bereit gestellt? Werden die oder der Kooperationspartner gut integriert? Werden zeitliche Vorgaben und Absprachen getroffen und eingehalten?
-
-#### Ergebnisqualität
-<!-- [Ergebnisqualität](/mi-master-wtw/bewertungskriterien/#ergebnisqualität) -->
-Wie ausgereift und überzeugend ist das Ergebnis?
+- Issues werden nicht oder stark verspätet abgeliefert
+- Kein Zeittracking, keine Dokumentation
+- Keine nachvollziehbaren Technologieentscheidungen
+- Code ist nicht funktionsfähig, nicht strukturiert oder nicht vorhanden
+- Keine Teilnahme an Reviews
+- Das Projekt liefert kein verwertbares Ergebnis
