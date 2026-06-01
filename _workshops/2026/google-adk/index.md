@@ -6,7 +6,7 @@ datum: 2026-06-09
 modul: wt
 published: true
 autor: David Hoffmann
-bild: ../thumbnail.png
+bild: ../thumbnail.webp
 bildcredits: Generated using Google Gemini
 art: workshop
 termin: Dienstag, 09. Juni 2026, 13:00 Uhr
