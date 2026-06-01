@@ -1,3 +1,19 @@
+---
+layout: workshop
+titel: Web Research Agent using Google ADK 
+social-media-untertitel: Workshop am 9. Juni 2026
+datum: 2026-06-09
+modul: wt
+published: true
+autor: David Hoffmann
+bild: ../thumbnail.png
+bildcredits: Generated using Google Gemini
+art: workshop
+termin: Dienstag, 09. Juni 2026, 13:00 Uhr
+dauer: ~120 Minuten
+raum: 3.215
+---
+
 # Workshop-Beschreibung: Web Research Agent mit Google ADK
 
 In diesem Workshop wird praxisnah vermittelt, wie autonome Agenten-Systeme mit dem **Google ADK** (Agent Development Kit) entwickelt werden können. In einer Mischung aus theoretischen Grundlagen und praktischen Implementierungen werden die Kernkonzepte des Frameworks Schritt für Schritt am konkreten Beispiel eines **Event Research Agents** erlernt.
