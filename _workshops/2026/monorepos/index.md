@@ -9,7 +9,7 @@ autor: Paul Strebinger
 bild: ../thumbnail.webp
 bildcredits: Generated using Google Gemini 3
 art: workshop
-termin: Dienstag, 16. Juni 2026, 13:30 Uhr
+termin: Dienstag, 16. Juni 2026, 13:00 Uhr
 dauer: ~120 Minuten
 raum: 3.215
 ---
