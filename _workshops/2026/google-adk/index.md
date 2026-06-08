@@ -55,7 +55,7 @@ Um einen direkten Einstieg in die Praxis zu gewährleisten, sollten folgende Kom
 
 Während des Workshops wird eine Webseite mit Aufgaben und weiteren Infos bereitgestellt.
 
-* [Workshop-Repository](https://www.google.com/search?q=https://github.com/d-hoffmann/workshop-web-technologies)
+* [Workshop-Repository](https://github.com/d-hoffmann/workshop-web-technologies)
 * [Google ADK Documentation](https://adk.dev/)
 * [Tavily Documentation](https://docs.tavily.com/)
 * [Crawl4AI Documentation](https://docs.crawl4ai.com/)
