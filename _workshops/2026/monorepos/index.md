@@ -51,6 +51,7 @@ Um einen direkten und reibungslosen Einstieg in die Praxis zu gewährleisten, so
 
 Während des Workshops wird ein Repository mit Aufgaben, Code-Snippets und der Auflösung der einzelnen Etappen bereitgestellt.
 
+* [Workshop-Slides](https://visualsofpaul.github.io/presentations/monorepos/)
 * [Workshop-Repository](https://github.com/visualsofpaul/workshop-monorepos)
 * [Astro Documentation](https://docs.astro.build/)
 * [NPM Workspaces Documentation](https://docs.npmjs.com/cli/using-npm/workspaces)
