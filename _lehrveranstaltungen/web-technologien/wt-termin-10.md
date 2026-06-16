@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien // Thema folgt
+titel: Seminar Web-Technologien // Storybook – UI-Komponenten isoliert entwickeln und dokumentieren
 kuerzel: wt
 verantwortlich: Dongxin Wang
 typ: seminar
@@ -12,12 +12,8 @@ raum: 3.215
 info: 
 ---
 
-In diesem Termin findet ein studentischer Workshop statt.
-
-[Zur Einladung und zu den Materialien: Storybook - UI-Komponenten isoliert entwickeln und dokumentieren](/mi-master-wtw/workshops/2026/storybook/)
-
 <!-- auto:student-workshop:start -->
 In diesem Termin findet ein studentischer Workshop statt.
 
-[Zur Einladung und zu den Materialien: "Storybook – UI-Komponenten isoliert entwickeln und dokumentieren"](/mi-master-wtw/workshops/2026/storybook/)
+[Zur Einladung und zu den Materialien: Storybook – UI-Komponenten isoliert entwickeln und dokumentieren](/mi-master-wtw/workshops/2026/storybook/)
 <!-- auto:student-workshop:end -->

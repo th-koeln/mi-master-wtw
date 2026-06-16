@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien // Thema folgt
+titel: Seminar Web-Technologien // Skalierbare Web-Architektur durch Monorepos
 kuerzel: wt
 verantwortlich: Paul Strebinger
 typ: seminar
@@ -11,10 +11,6 @@ dauer: 180
 raum: 3.215
 info: 
 ---
-
-In diesem Termin findet ein studentischer Workshop statt.
-
-[Zur Einladung und zu den Materialien: Skalierbare Web-Architektur durch Monorepos](/mi-master-wtw/workshops/2026/monorepos/)
 
 <!-- auto:student-workshop:start -->
 In diesem Termin findet ein studentischer Workshop statt.

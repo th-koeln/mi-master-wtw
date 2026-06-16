@@ -1,5 +1,5 @@
 ---
-titel: Seminar Web-Technologien // Thema folgt
+titel: Seminar Web-Technologien // Web Research Agent using Google ADK
 kuerzel: wt
 verantwortlich: David Hoffmann
 typ: seminar
