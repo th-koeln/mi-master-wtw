@@ -1,4 +1,9 @@
 {
+  "scripts": {
+    "wt:sync-workshops": "node scripts/sync-wt-workshops.js --dry-run",
+    "wt:sync-workshops:write": "node scripts/sync-wt-workshops.js",
+    "wt:sync-workshops:all": "node scripts/sync-wt-workshops.js --dry-run --all-years"
+  },
   "dependencies": {
     "ics": "^3.1.0"
   }

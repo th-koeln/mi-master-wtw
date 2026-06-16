@@ -1,7 +1,7 @@
 ---
 titel: Seminar Web-Technologien // Thema folgt
 kuerzel: wt
-verantwortlich: tbd
+verantwortlich: David Hoffmann
 typ: seminar
 pflicht: false
 termine: 2026-06-09 13:00
@@ -11,3 +11,7 @@ dauer: 180
 raum: 3.215
 info: 
 ---
+
+In diesem Termin findet ein studentischer Workshop statt.
+
+[Zur Einladung und zu den Materialien: Web Research Agent using Google ADK](/mi-master-wtw/workshops/2026/google-adk/)

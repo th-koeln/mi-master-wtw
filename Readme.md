@@ -52,3 +52,43 @@ webserver_1  |     Server address: http://0.0.0.0:4000/mi-master-wtw/
 ```
 docker-compose down
 ```
+
+## Weekly Workflow: WT Workshop Sync
+
+Ziel: Neue studentische Workshop-Einladungen automatisch in die passenden WT-Termine eintragen.
+
+Was automatisch passiert:
+- Mapping von _workshops/YYYY/*/index.md auf _lehrveranstaltungen/web-technologien/wt-termin-XX.md per Datum
+- Setzen von verantwortlich aus dem Feld autor der Workshop-Seite
+- Eintrag eines kurzen Hinweistextes + Link zur Workshop-Seite
+- Idempotent per Marker-Block (mehrfaches Ausfuehren erzeugt keine Duplikate)
+
+### 1. Vorschau (Dry-Run)
+
+```
+npm run wt:sync-workshops
+```
+
+### 2. Aenderungen schreiben
+
+```
+npm run wt:sync-workshops:write
+```
+
+### Optional: Alle Jahre pruefen
+
+```
+npm run wt:sync-workshops:all
+```
+
+### Optional: Bestimmtes Jahr syncen
+
+```
+node scripts/sync-wt-workshops.js --dry-run --year=2026
+node scripts/sync-wt-workshops.js --year=2026
+```
+
+Hinweise:
+- Standardmaessig wird nur das aktuelle Jahr verarbeitet.
+- Es werden nur Workshops mit modul: wt und published: true beruecksichtigt.
+- Falls kein passender WT-Termin zum Datum gefunden wird, gibt das Skript einen Hinweis aus.
