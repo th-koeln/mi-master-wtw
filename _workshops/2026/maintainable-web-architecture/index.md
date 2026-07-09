@@ -1,6 +1,6 @@
 ---
 layout: workshop
-titel: Modulare und wartbare Web-Architektur
+titel: Modulare und wartbare Web-Architekturen
 social-media-untertitel: Vom Spaghetti-Code zur wartbaren Web-Architektur
 datum: 2026-07-07 #
 modul: wt
@@ -11,6 +11,7 @@ bildcredits: ChatGPT
 art: workshop
 termin: Dienstag, 7. Juli 2026, 14:30 Uhr
 dauer: 120 Minuten
+raum: 3.215
 ---
 
 ## Modulare und wartbare Web-Architektur
@@ -53,6 +54,10 @@ Um einen direkten und reibungslosen Einstieg in die Praxis zu gewährleisten, so
 ## Material & Dokumentation
 
 - [Workshop-Repository](https://github.com/fakhar23/Workshop-Maintainable-webapp-architecture.git)
+- [Workshop-Folien (Slides)](https://github.com/fakhar23/Workshop-Maintainable-webapp-architecture/blob/main/Slides.pdf)
+
+### Industry Standard Resources
+
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [Martin Fowler - Software Architecture](https://martinfowler.com/architecture/)
 - [OWASP Secure Coding Practices](https://owasp.org/)
