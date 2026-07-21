@@ -9,7 +9,7 @@ autor: Michel Haurand
 bild: ../thumbnail.webp
 bildcredits: 
 art: workshop
-termin: Dienstag, 21. Juli 2026, 14:30 Uhr
+termin: Workshop fällt leider aus
 dauer: ~120-180 Minuten
 raum: 3.215
 ---
