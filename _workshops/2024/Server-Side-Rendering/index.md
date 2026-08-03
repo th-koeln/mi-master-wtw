@@ -6,7 +6,7 @@ datum: 2024-07-02
 modul: wt
 published: true
 autor: Dennis Wäckerle
-bild: ../thumbnail.jpg
+bild: ../thumbnail-ai-generated.jpg
 bildcredits: "Bildquelle: https://pixabay.com/de/photos/server-raum-serverraum-dunkel-led-2160321/"
 art: workshop
 termin: Dienstag, 02. Juli 2024, 13:00 Uhr

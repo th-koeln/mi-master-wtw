@@ -6,7 +6,7 @@ datum: 2026-07-14
 modul: wt
 published: true
 autor: Marcel Grund
-bild: ../thumbnail.webp
+bild: ../thumbnail-ai-generated.webp
 bildcredits: Generated using ChatGPT + Offical Media Asset
 art: workshop
 termin: Dienstag, 14. Juli 2026, 13:00 Uhr

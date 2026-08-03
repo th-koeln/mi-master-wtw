@@ -6,7 +6,7 @@ datum: 2022-05-10
 modul: wt
 published: true
 autor: Daniel Heuser & Melvin Weiershäuser
-bild: ../wt_sqs-unit-testing-header.png
+bild: ../hero-ai-generated.jpg
 art: workshop
 termin: Dienstag, 10. Mai 2022, 13:00 Uhr
 dauer: 120-150 Minuten

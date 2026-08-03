@@ -6,7 +6,7 @@ datum: 2026-07-21
 modul: wt
 published: true
 autor: Michel Haurand
-bild: ../thumbnail.webp
+bild: ../thumbnail-ai-generated.webp
 bildcredits: 
 art: workshop
 termin: Workshop fällt leider aus

@@ -6,7 +6,7 @@ datum: 2026-06-23
 modul: wt
 published: true
 autor: Mia Henrichsmeyer
-bild: ../thumbnail.webp
+bild: ../thumbnail-ai-generated.webp
 bildcredits: Generated using Canva AI
 art: workshop
 termin: Dienstag, 23. Juni 2026, 12:30 Uhr

@@ -6,7 +6,7 @@ datum: 2024-06-11
 modul: wt
 published: true
 autor: Methusshan Elankumaran
-bild: ../thumbnail.png.webp
+bild: ../thumbnail-ai-generated.jpg
 bildcredits: "Bild von https://pixabay.com/de/photos/hmd-cyberbrille-cyber-brille-4140960/"
 art: workshop
 termin: Dienstag, 11. Juni 2024, 13:00 Uhr

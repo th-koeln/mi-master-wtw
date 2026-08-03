@@ -6,7 +6,7 @@ datum: 2026-07-07
 modul: wt
 published: true
 autor: Cosima Zink
-bild: ../thumbnail.webp
+bild: ../thumbnail-ai-generated.webp
 bildcredits: Generated using Canva AI
 art: workshop
 termin: Dienstag, 7. Juli 2026, 12:30 Uhr
