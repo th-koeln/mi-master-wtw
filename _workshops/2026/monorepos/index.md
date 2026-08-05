@@ -6,7 +6,7 @@ datum: 2026-06-16
 modul: wt
 published: true
 autor: Paul Strebinger
-bild: ../thumbnail.webp
+bild: ../thumbnail-ai-generated.webp
 bildcredits: Generated using Google Gemini 3
 art: workshop
 termin: Dienstag, 16. Juni 2026, 13:00 Uhr

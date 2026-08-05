@@ -6,7 +6,7 @@ datum: 2025-05-20
 modul: wt
 published: true
 autor: Finn Wehn
-bild: ../thumbnail.png.webp
+bild: ../thumbnail-ai-generated.jpg
 bildcredits: "Bildquelle: https://de.vecteezy.com/vektorkunst/165951-freie-lineare-elektronik-und-digitale-gerate"
 art: workshop
 termin: Dienstag, 20. Mai 2025, 13:00 Uhr

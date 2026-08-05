@@ -6,7 +6,7 @@ datum: 2026-07-21
 modul: wt
 published: true
 autor: Manuel Stamm
-bild: ../thumbnail.webp
+bild: ../thumbnail-ai-generated.webp
 bildcredits: AI generated
 art: workshop
 termin: Dienstag, 21. Juli 2026, 12:30 Uhr

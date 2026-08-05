@@ -6,7 +6,7 @@ datum: 2026-06-30
 modul: wt
 published: true
 autor: Florian Fertikowski
-bild: ../thumbnail.webp
+bild: ../thumbnail-ai-generated.webp
 bildcredits: magnific.com
 art: workshop
 termin: Dienstag, 30. Juni 2026, 13:00 Uhr

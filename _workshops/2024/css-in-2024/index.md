@@ -6,7 +6,7 @@ datum: 2024-07-16
 modul: wt
 published: true
 autor: Christian Noss
-bild: ../thumbnail.jpg
+bild: ../thumbnail-ai-generated.jpg
 bildcredits: DALL·E 3 (OpenAI)
 art: workshop
 termin: Dienstag, 16. Juli 2024, 13:00 Uhr

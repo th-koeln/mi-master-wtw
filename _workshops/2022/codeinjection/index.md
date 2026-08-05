@@ -6,7 +6,7 @@ datum: 2022-05-31
 modul: web
 published: true
 autor: Luca Stamos, Stefan Steinhauer
-bild: ../codeinject.png
+bild: ../hero-ai-generated.jpg
 art: workshop
 termin: Dienstag, 31. Mai 2022, 13:00 Uhr
 dauer: 120-150 Minuten
