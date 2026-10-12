@@ -1,15 +1,15 @@
 ---
 layout: workshop
 titel: WebTransport als Alternative zu WebSockets
-social-media-untertitel: Workshop am 21. Juli 2026
-datum: 2026-07-21
+social-media-untertitel: Workshop am 13. Oktober 2026
+datum: 2026-10-12
 modul: wt
 published: true
 autor: Michel Haurand
 bild: ../thumbnail-ai-generated.webp
 bildcredits: 
 art: workshop
-termin: Workshop fällt leider aus
+termin: Dienstag, 13. Oktober 2026, 13:00 Uhr
 dauer: ~120-180 Minuten
 raum: 3.215
 ---
